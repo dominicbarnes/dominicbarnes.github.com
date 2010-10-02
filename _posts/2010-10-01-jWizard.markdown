@@ -5,8 +5,6 @@ repourl: http://github.com/dominicbarnes/jWizard
 projecturl: http://dominicbarnes.github.com/jWizard
 ---
 
-## jWizard
-
 jWizard is a user-friendly, flexible and slim wizard plugin for the jQuery Javascript Framework. Based off of the Windows wizards, as well as the .NET Wizard Control, it is meant to enrich your user interface with a wizard that helps guide your users through a series of steps, reducing a large and complicated process into small chunks to keep your users from being overwhelmed.
 
 ### Features

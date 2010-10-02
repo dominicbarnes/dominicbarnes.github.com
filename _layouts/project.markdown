@@ -2,6 +2,9 @@
 layout: default
 ---
 
-## [{{ page.title }}]({{ page.repourl }})
+## {{ page.title }}
+
+ * [Repository]({{ page.repourl }})
+ * [Project Page]({{ page.projecturl }})
 
 {{ content }}
