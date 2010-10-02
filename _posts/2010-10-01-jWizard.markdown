@@ -1,6 +1,8 @@
 ---
 layout: project
 title: jWizard
+repourl: http://github.com/dominicbarnes/jWizard
+projecturl: http://dominicbarnes.github.com/jWizard
 ---
 
 ## jWizard
