@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 Although I am young, I have been developing websites and web applications for nearly a decade now. I started out on Notepad, writing up HTML and CSS for fun in my spare time. It wasn't long before I had put together my own website in Microsoft FrontPage and posted it on Geocities.
 

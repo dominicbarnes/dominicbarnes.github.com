@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-#Welcome!
+## Welcome!
 
 Howdy, I'm a software developer with a particular passion for web-based applications.
 
