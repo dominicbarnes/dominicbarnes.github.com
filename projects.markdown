@@ -6,7 +6,7 @@ title: Projects
 ## {{ page.title }}
 
 {% for post in site.posts %}
- * [{{ post.title }}]({{ post.url }})
+ * [{{ post.title }}]({{ post.url }} "{{ post.title }}")
 {% endfor %}
 
 I love open-source software. The movement itself has been a great thing for computers, software, the internet and beyond. There is much power to be found in the collaborative efforts of people all around the world.
