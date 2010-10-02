@@ -99,14 +99,17 @@ nav {
 				color: #000;
 			}
 
-nav.right {
-	float: right;
-	margin: .5em;
+nav.left {
+	margin: 0 1em;
 }
-	nav.right a {
-		border-radius: 3px;
-		-moz-border-radius: 3px;
-		-webkit-border-radius: 3px;
+	nav.left a {
+		border-bottom: none;
+		border-top-left-radius: 3px;
+		-moz-border-topleft-radius: 3px;
+		-webkit-border-top-left-radius: 3px;
+		border-top-right-radius: 3px;
+		-moz-border-topright-radius: 3px;
+		-webkit-border-top-right-radius: 3px;
 	}
 
 #content {
