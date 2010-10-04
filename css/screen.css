@@ -183,10 +183,6 @@ aside.right {
 		border-bottom: 1px solid #888;
 	}
 
-div.center {
-	text-align: center;
-}
-
 footer {
 	clear: both;
 	margin: 1em;
@@ -199,9 +195,3 @@ footer {
 		display: inline;
 		margin-left: .5em;
 	}
-
-ul.nav {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
