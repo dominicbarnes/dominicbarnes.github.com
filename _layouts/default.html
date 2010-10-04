@@ -28,11 +28,13 @@
 			<li><a href="/index.html">Home</a></li>
 			<li><a href="/about.html">About</a></li>
 			<li><a href="/contact.html">Contact</a></li>
-			<li><a href="/projects.html">Projects</a></li>
 		</ul>
 
 		<ul class="secondary">
-			<li><a href="/jWizard/">jWizard</a></li>
+			<li><a href="/projects.html">Projects</a></li>
+			{% for project in site.posts %}
+				<li><a href="{{ project.projecturl }}">{{ project.title }}</a></li>
+			{% endfor %}
 		</ul>
 	</nav>
 </header>
