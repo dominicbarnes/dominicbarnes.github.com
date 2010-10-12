@@ -2,6 +2,7 @@
 layout: default
 title: About Me
 description: A brief history of myself, including my introduction to and experience with technology and building websites.
+keywords: [about]
 ---
 
 ## {{ page.title }}

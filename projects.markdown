@@ -2,6 +2,7 @@
 layout: default
 title: Projects
 description: As I open up more and more of my work to the public, I will post documentation and demonstrations here.
+keywords: [projects, open source]
 ---
 
 ## {{ page.title }}
