@@ -2,10 +2,12 @@
 <html lang="en">
 
 <head>
-	<title>Dominic Barnes - Web Development</title>
+	<title>Dominic Barnes - {% if page.title %}{{ page.title }}{% else %}Web Development{% endif %}</title>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="google-site-verification" content="DC4GYMu6iT2NhMfGETVL3-hzlyeiVqcYMQir6hC1fQg" />
+
+	<meta name="description=" content="{{ post.description }}">
 
 	<link rel="stylesheet" type="text/css" href="/css/screen.css" />
 
