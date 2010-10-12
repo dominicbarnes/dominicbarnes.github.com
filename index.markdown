@@ -1,6 +1,5 @@
 ---
 layout: default
-title: About Me
 description: Here you will find my own open source project contributions, as well as some information about who I am and what I'm all about.
 ---
 
