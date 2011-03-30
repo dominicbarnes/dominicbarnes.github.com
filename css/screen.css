@@ -19,6 +19,12 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: Georgia, "Times New Roman";
 }
 
+form {
+}
+	form ul {
+		list-style: none;
+	}
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -59,6 +65,10 @@ header {
 	overflow: hidden;
 	background: #BBD9EE;
 }
+	header #html5-badge {
+		float: right;
+		margin: .5em;
+	}
 	hgroup {
 		padding: 1em;
 	}
@@ -83,6 +93,9 @@ nav {
 			margin-left: .5em;
 			text-align: center;
 		}
+		nav ul li > a.current {
+			background-color: white;
+		}
 		nav ul a {
 			display: block;
 			padding: .2em 1em;
@@ -95,9 +108,6 @@ nav {
 				background: #fff;
 				color: #000;
 			}
-	nav ul.secondary a {
-		background-color: white;
-	}
 
 nav.left {
 	margin: 0 1em;
@@ -115,12 +125,15 @@ nav.left {
 #content {
 	padding: 1em;
 	margin: 1em 18em 1em 1em;
-	background: #eee;
 	padding: 1em;
-	border-radius: .5em;
-	-moz-border-radius: .5em;
-	-webkit-border-radius: .5em;
-	border: 1px solid #ccc;
+	border-top-left-radius: .5em;
+	-moz-border-top-left-radius: .5em;
+	-webkit-border-topleft-radius: .5em;
+	border-top-right-radius: .5em;
+	-moz-border-top-right-radius: .5em;
+	-webkit-border-topright-radius: .5em;
+	border: 2px solid #ccc;
+	border-bottom: none;
 }
 	#content > h2 {
 		margin: 0;
@@ -188,10 +201,3 @@ footer {
 	margin: 1em;
 	padding: .5em;
 }
-	#badges {
-		float: right;
-	}
-	#badges li {
-		display: inline;
-		margin-left: .5em;
-	}
