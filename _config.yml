@@ -1,8 +1,0 @@
-server: true
-auto: true
-
-markdown: rdiscount
-pygments: true
-
-permalink: none
-url: http://dominicbarnes.us/
