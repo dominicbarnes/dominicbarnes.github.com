@@ -1,9 +1,12 @@
 {
   "entries": [
+    "CNAME",
     "*.html"
   ],
   "plugins": [
     "mako-browser",
-    "mako-cssnext"
+    "mako-cssnext",
+    [ "mako-output", "cname" ],
+    [ "mako-copy", "cname" ]
   ]
 }

@@ -9,7 +9,9 @@
   "devDependencies": {
     "mako-browser": "^1.0.0",
     "mako-cli": "^1.0.1",
+    "mako-copy": "^1.0.0",
     "mako-cssnext": "^1.0.0",
+    "mako-output": "^1.0.0",
     "mako-serve": "^1.0.0"
   },
   "scripts": {
