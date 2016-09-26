@@ -1,0 +1,9 @@
+{
+  "entries": [
+    "*.html"
+  ],
+  "plugins": [
+    "mako-browser",
+    "mako-cssnext"
+  ]
+}

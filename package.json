@@ -1,0 +1,19 @@
+{
+  "name": "dominicbarnes.github.com",
+  "version": "0.0.0",
+  "dependencies": {
+    "suitcss-base": "^2.0.0",
+    "suitcss-components-grid": "^3.0.3",
+    "suitcss-utils-size": "^2.0.0"
+  },
+  "devDependencies": {
+    "mako-browser": "^1.0.0",
+    "mako-cli": "^1.0.1",
+    "mako-cssnext": "^1.0.0",
+    "mako-serve": "^1.0.0"
+  },
+  "scripts": {
+    "build": "mako",
+    "start": "mako-serve -l"
+  }
+}
