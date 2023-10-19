@@ -110,10 +110,6 @@ redirect_from:
     <div class="border rounded mb-4 p-2">
         <div class="row g-0 row-cols-3 row-cols-md-6">
             {% for item in special_for_trade %}
-                {% if item['Special'] == 'Mythical' %}
-                    {% continue %}
-                {% endif %}
-
                 <div class="col mb-2">
                     {% capture icon %}{{ item["Shiny Icon URL"] }}{% endcapture %}
                     {% capture name %}{{ item["Name"] }}{% endcapture %}
