@@ -1,0 +1,27 @@
+title: Dominic's Website
+author:
+  name: 'Dominic Barnes'
+  email: 'dominic@dbarnes.info'
+description: ''
+
+# Theme configuration
+bootstrap:
+  # Theme date format
+  # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: 'https://twitter.com/mako281'
+    github:  'https://github.com/dominicbarnes'
+    facebook: 'https://www.facebook.com/dominic.barnes'
+    linkedin: 'https://www.linkedin.com/in/dominicgbarnes'
+    stackoverflow: 'https://stackoverflow.com/users/188702/dominic-barnes'
+
+
+# Build settings
+plugins:
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+
+incremental: true

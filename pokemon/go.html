@@ -1,0 +1,156 @@
+---
+layout: page
+title: Pokémon GO
+description: Trade list for trainer DominicBarnes in Pokémon GO.
+
+# SEO
+author:
+    name: DominicBarnes
+image:
+    path: https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Logos/PokémonGOLogo.png
+    alt: Pokémon GO Logo
+
+redirect_from:
+  - /pokemon-go/
+  - /pokemon-go.html/
+---
+
+<p>
+    My ultimate goal is to complete a full shiny living dex, so below you'll
+    find the Pokémon I still need and have available to trade. In general, I
+    don't prefer mirror trades, but I'm open to them if it helps fill gaps in my
+    lucky dex.
+</p>
+
+{% assign all_special = "Legendary,Mythical,Ultra Beast,Paradox" | split:"," %}
+{% assign trade_special = "Legendary,Ultra Beast,Paradox" | split:"," %}
+
+{% assign exclude = "Unown,Furfrou" | split:"," %}
+{% assign looking_for = site.data.pokemon.shiny_checklist | where:"Obtained","FALSE" | where:"GO","TRUE" %}
+{% assign for_trade = site.data.pokemon.go_collection %}
+
+<h2>Looking For</h2>
+
+<p>These are the Pokémon I still need for my shiny living dex.</p>
+
+<div class="border rounded mb-4 p-2">
+    <div class="row g-0 row-cols-3 row-cols-md-6">
+        {% for item in looking_for %}
+            {% if all_special contains item['Special'] %}
+                {% continue %}
+            {% endif %}
+
+            {% if exclude contains item['Name'] %}
+                {% continue %}
+            {% endif %}
+
+            <div class="col mb-2">
+                <img src="{{ item["Icon URL"] }}" class="img-fluid" alt="Pokémon Sprite">
+                <div class="text-center">
+                    <div>
+                        <b>{{ item["Name"] }}</b>
+                    </div>
+                    {% if item["Variation"] %}
+                        <span class="badge text-bg-dark">{{ item["Variation"] }}</span>
+                    {% endif %}
+                    {% if item["Special"] %}
+                        <span class="badge text-bg-warning">{{ item["Special"] }}</span>
+                    {% endif %}
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+
+<h2>For Trade</h2>
+
+<p>These are the extra shinies I have that I am willing to trade.</p>
+
+<div class="border rounded mb-4 p-2">
+    <div class="row g-0 row-cols-3 row-cols-md-6">
+        {% for item in for_trade %}
+            {% if all_special contains item['Special'] %}
+                {% continue %}
+            {% endif %}
+
+            <div class="col mb-2">
+                <img src="{{ item["Shiny Icon URL"] }}" class="img-fluid" alt="Pokémon Sprite">
+                <div class="text-center">
+                    <div>
+                        <b>{{ item["Name"] }}</b>
+                    </div>
+                    {% if item["Variation"] %}
+                        <span class="badge text-bg-dark">{{ item["Variation"] }}</span>
+                    {% endif %}
+                    {% if item["Go Variation"] %}
+                        <span class="badge text-bg-success">{{ item["Go Variation"] }}</span>
+                    {% endif %}
+                    {% if item["Special"] %}
+                        <span class="badge text-bg-warning">{{ item["Special"] }}</span>
+                    {% endif %}
+                    </h6>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+
+{% assign special_looking_for = site.data.pokemon.shiny_checklist | where:"Obtained","FALSE" | where:"GO","TRUE" | where_exp:"item","trade_special contains item['Special']" %}
+{% assign special_for_trade = site.data.pokemon.go_collection | where_exp:"item","trade_special contains item['Special']" %}
+
+{% if special_looking_for.size > 0 %}
+    <h2>Legendaries</h2>
+
+    <p>
+        I've pulled the shiny legendaries into their own section since I only trade
+        these for other shiny legendaries.
+    </p>
+
+    <h3>Looking For</h3>
+
+    <div class="border rounded mb-4 p-2">
+        <div class="row g-0 row-cols-3 row-cols-md-6">
+            {% for item in special_looking_for %}
+                <div class="col mb-2">
+                    <img src="{{ item["Icon URL"] }}" class="img-fluid" alt="Pokémon Sprite">
+                    <div class="text-center">
+                        <div>
+                            <b>{{ item["Name"] }}</b>
+                        </div>
+                        {% if item["Variation"] %}
+                            <span class="badge text-bg-dark">{{ item["Variation"] }}</span>
+                        {% endif %}
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <h3>For Trade</h3>
+
+    <div class="border rounded mb-4 p-2">
+        <div class="row g-0 row-cols-3 row-cols-md-6">
+            {% for item in special_for_trade %}
+                {% if item['Special'] == 'Mythical' %}
+                    {% continue %}
+                {% endif %}
+
+                <div class="col mb-2">
+                    <img src="{{ item["Shiny Icon URL"] }}" class="img-fluid" alt="Pokémon Sprite">
+                    <div class="text-center">
+                        <div>
+                            <b>{{ item["Name"] }}</b>
+                        </div>
+                        {% if item["Variation"] %}
+                            <span class="badge text-bg-dark">{{ item["Variation"] }}</span>
+                        {% endif %}
+                        {% if item["Go Variation"] %}
+                            <span class="badge text-bg-success">{{ item["Go Variation"] }}</span>
+                        {% endif %}
+                        </h6>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+{% endif %}
