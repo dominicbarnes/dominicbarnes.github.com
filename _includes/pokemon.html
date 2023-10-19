@@ -1,0 +1,15 @@
+<img src="{{ include.icon }}" class="img-fluid" alt="Pokémon Sprite">
+<div class="text-center">
+    <div>
+        <b>{{ include.name }}</b>
+    </div>
+    {% if include.variation %}
+        <span class="badge text-bg-dark">{{ include.variation }}</span>
+    {% endif %}
+    {% if include.go_variation %}
+        <span class="badge text-bg-success">{{ include.go_variation }}</span>
+    {% endif %}
+    {% if include.special %}
+        <span class="badge text-bg-warning">{{ include.special }}</span>
+    {% endif %}
+</div>

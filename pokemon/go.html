@@ -45,18 +45,12 @@ redirect_from:
             {% endif %}
 
             <div class="col mb-2">
-                <img src="{{ item["Icon URL"] }}" class="img-fluid" alt="Pokémon Sprite">
-                <div class="text-center">
-                    <div>
-                        <b>{{ item["Name"] }}</b>
-                    </div>
-                    {% if item["Variation"] %}
-                        <span class="badge text-bg-dark">{{ item["Variation"] }}</span>
-                    {% endif %}
-                    {% if item["Special"] %}
-                        <span class="badge text-bg-warning">{{ item["Special"] }}</span>
-                    {% endif %}
-                </div>
+                {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
+                {% capture name %}{{ item["Name"] }}{% endcapture %}
+                {% capture variation %}{{ item["Variation"] }}{% endcapture %}
+                {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
+                {% capture special %}{{ item["Special"] }}{% endcapture %}
+                {% include pokemon.html icon=icon name=name variation=variation go_variation=go_variation special=special %}
             </div>
         {% endfor %}
     </div>
@@ -74,22 +68,12 @@ redirect_from:
             {% endif %}
 
             <div class="col mb-2">
-                <img src="{{ item["Shiny Icon URL"] }}" class="img-fluid" alt="Pokémon Sprite">
-                <div class="text-center">
-                    <div>
-                        <b>{{ item["Name"] }}</b>
-                    </div>
-                    {% if item["Variation"] %}
-                        <span class="badge text-bg-dark">{{ item["Variation"] }}</span>
-                    {% endif %}
-                    {% if item["Go Variation"] %}
-                        <span class="badge text-bg-success">{{ item["Go Variation"] }}</span>
-                    {% endif %}
-                    {% if item["Special"] %}
-                        <span class="badge text-bg-warning">{{ item["Special"] }}</span>
-                    {% endif %}
-                    </h6>
-                </div>
+                {% capture icon %}{{ item["Shiny Icon URL"] }}{% endcapture %}
+                {% capture name %}{{ item["Name"] }}{% endcapture %}
+                {% capture variation %}{{ item["Variation"] }}{% endcapture %}
+                {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
+                {% capture special %}{{ item["Special"] }}{% endcapture %}
+                {% include pokemon.html icon=icon name=name variation=variation go_variation=go_variation special=special %}
             </div>
         {% endfor %}
     </div>
@@ -112,15 +96,10 @@ redirect_from:
         <div class="row g-0 row-cols-3 row-cols-md-6">
             {% for item in special_looking_for %}
                 <div class="col mb-2">
-                    <img src="{{ item["Icon URL"] }}" class="img-fluid" alt="Pokémon Sprite">
-                    <div class="text-center">
-                        <div>
-                            <b>{{ item["Name"] }}</b>
-                        </div>
-                        {% if item["Variation"] %}
-                            <span class="badge text-bg-dark">{{ item["Variation"] }}</span>
-                        {% endif %}
-                    </div>
+                    {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
+                    {% capture name %}{{ item["Name"] }}{% endcapture %}
+                    {% capture variation %}{{ item["Variation"] }}{% endcapture %}
+                    {% include pokemon.html icon=icon name=name variation=variation %}
                 </div>
             {% endfor %}
         </div>
@@ -136,19 +115,11 @@ redirect_from:
                 {% endif %}
 
                 <div class="col mb-2">
-                    <img src="{{ item["Shiny Icon URL"] }}" class="img-fluid" alt="Pokémon Sprite">
-                    <div class="text-center">
-                        <div>
-                            <b>{{ item["Name"] }}</b>
-                        </div>
-                        {% if item["Variation"] %}
-                            <span class="badge text-bg-dark">{{ item["Variation"] }}</span>
-                        {% endif %}
-                        {% if item["Go Variation"] %}
-                            <span class="badge text-bg-success">{{ item["Go Variation"] }}</span>
-                        {% endif %}
-                        </h6>
-                    </div>
+                    {% capture icon %}{{ item["Shiny Icon URL"] }}{% endcapture %}
+                    {% capture name %}{{ item["Name"] }}{% endcapture %}
+                    {% capture variation %}{{ item["Variation"] }}{% endcapture %}
+                    {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
+                    {% include pokemon.html icon=icon name=name variation=variation go_variation=go_variation %}
                 </div>
             {% endfor %}
         </div>
