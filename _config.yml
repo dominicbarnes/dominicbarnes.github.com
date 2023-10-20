@@ -23,5 +23,3 @@ bootstrap:
 plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
-
-incremental: true
