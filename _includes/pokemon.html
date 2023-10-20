@@ -9,7 +9,11 @@
         <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/misc/special-attribute/gigantamax-icon.png" alt="Gigantamax Mark" height="23" width="30" loading="lazy">
     {% endif %}
     {% if include.mark %}
-        <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/misc/origin-marks/home/{{ include.mark }}.png" alt="Origin Mark" height="24" width="24">
+        {% if include.mark == 'paldea' %}
+            <img src="{{ '/assets/img/origin-mark-paldea.png' | relative_url }}" alt="Origin Mark" height="24" width="19">
+        {% else %}
+            <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/misc/origin-marks/home/{{ include.mark }}.png" alt="Origin Mark" height="24" width="24">
+        {% endif %}
     {% endif %}
 </div>
 
