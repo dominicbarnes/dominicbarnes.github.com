@@ -68,7 +68,7 @@ redirect_from:
             {% endif %}
 
             <div class="col mb-2">
-                {% capture icon %}{{ item["Shiny Icon URL"] }}{% endcapture %}
+                {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
                 {% capture name %}{{ item["Name"] }}{% endcapture %}
                 {% capture variation %}{{ item["Variation"] }}{% endcapture %}
                 {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
@@ -111,7 +111,7 @@ redirect_from:
         <div class="row g-0 row-cols-3 row-cols-md-6">
             {% for item in special_for_trade %}
                 <div class="col mb-2">
-                    {% capture icon %}{{ item["Shiny Icon URL"] }}{% endcapture %}
+                    {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
                     {% capture name %}{{ item["Name"] }}{% endcapture %}
                     {% capture variation %}{{ item["Variation"] }}{% endcapture %}
                     {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
