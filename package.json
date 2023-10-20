@@ -3,15 +3,15 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "assets:clean": "rm -rf assets/js && rm -rf _sass/bootstrap && rm -rf assets/css/fonts && rm -rf assets/css/bootstrap-icons.css",
-    "assets:copy:js": "mkdir -p assets/js && cp node_modules/bootstrap/dist/js/bootstrap.bundle.min.* assets/js/",
-    "assets:copy:scss": "mkdir -p _sass/bootstrap && cp -a node_modules/bootstrap/scss/. _sass/bootstrap/",
-    "assets:copy:fonts": "mkdir -p assets/css/fonts && cp -a node_modules/bootstrap-icons/font/fonts/* assets/css/fonts/",
-    "assets:copy:css": "mkdir -p assets/css && cp -a node_modules/bootstrap-icons/font/bootstrap-icons.css assets/css/",
-    "assets:install": "npm run assets:copy:js && npm run assets:copy:scss && npm run assets:copy:fonts && npm run assets:copy:css",
-    "prebuild": "npm run assets:install",
+    "assets": "npm run assets:data && npm run assets:js && npm run assets:scss && npm run assets:fonts && npm run assets:css",
+    "assets:data": "_scripts/download_data.sh",
+    "assets:js": "mkdir -p assets/js && cp node_modules/bootstrap/dist/js/bootstrap.bundle.min.* assets/js/",
+    "assets:scss": "mkdir -p _sass/bootstrap && cp -a node_modules/bootstrap/scss/. _sass/bootstrap/",
+    "assets:fonts": "mkdir -p assets/css/fonts && cp -a node_modules/bootstrap-icons/font/fonts/* assets/css/fonts/",
+    "assets:css": "mkdir -p assets/css && cp -a node_modules/bootstrap-icons/font/bootstrap-icons.css assets/css/",
+    "assets:clean": "rm -rf assets/js _sass/bootstrap assets/css/fonts assets/css/bootstrap-icons.css",
+
     "build": "bundle exec jekyll build",
-    "prestart": "npm run assets:install",
     "start": "bundle exec jekyll serve --livereload"
   },
   "author": "Dominic Barnes <dominic@dbarnes.info>",
