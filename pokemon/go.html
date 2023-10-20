@@ -25,7 +25,7 @@ redirect_from:
 {% assign all_special = "Legendary,Mythical,Ultra Beast,Paradox" | split:"," %}
 {% assign trade_special = "Legendary,Ultra Beast,Paradox" | split:"," %}
 
-{% assign exclude = "Unown,Furfrou" | split:"," %}
+{% assign exclude = "" | split:"," %}
 {% assign looking_for = site.data.pokemon.shiny_checklist | where:"Obtained","FALSE" | where:"GO","TRUE" %}
 {% assign for_trade = site.data.pokemon.go_collection %}
 
@@ -33,7 +33,7 @@ redirect_from:
 
 <p>These are the Pokémon I still need for my shiny living dex.</p>
 
-<div class="border rounded mb-4 p-2">
+<div class="mb-4 p-2">
     <div class="row g-0 row-cols-3 row-cols-md-6">
         {% for item in looking_for %}
             {% if all_special contains item['Special'] %}
@@ -44,13 +44,15 @@ redirect_from:
                 {% continue %}
             {% endif %}
 
-            <div class="col mb-2">
-                {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
-                {% capture name %}{{ item["Name"] }}{% endcapture %}
-                {% capture variation %}{{ item["Variation"] }}{% endcapture %}
-                {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
-                {% capture special %}{{ item["Special"] }}{% endcapture %}
-                {% include pokemon.html icon=icon name=name variation=variation go_variation=go_variation special=special %}
+            <div class="col">
+                <div class="border rounded m-1 p-1">
+                    {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
+                    {% capture name %}{{ item["Name"] }}{% endcapture %}
+                    {% capture variation %}{{ item["Variation"] }}{% endcapture %}
+                    {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
+                    {% capture special %}{{ item["Special"] }}{% endcapture %}
+                    {% include pokemon.html icon=icon name=name variation=variation go_variation=go_variation special=special %}
+                </div>
             </div>
         {% endfor %}
     </div>
@@ -60,20 +62,22 @@ redirect_from:
 
 <p>These are the extra shinies I have that I am willing to trade.</p>
 
-<div class="border rounded mb-4 p-2">
+<div class="mb-4 p-2">
     <div class="row g-0 row-cols-3 row-cols-md-6">
         {% for item in for_trade %}
             {% if all_special contains item['Special'] %}
                 {% continue %}
             {% endif %}
 
-            <div class="col mb-2">
-                {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
-                {% capture name %}{{ item["Name"] }}{% endcapture %}
-                {% capture variation %}{{ item["Variation"] }}{% endcapture %}
-                {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
-                {% capture special %}{{ item["Special"] }}{% endcapture %}
-                {% include pokemon.html icon=icon name=name variation=variation go_variation=go_variation special=special %}
+            <div class="col">
+                <div class="border rounded m-1 p-1">
+                    {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
+                    {% capture name %}{{ item["Name"] }}{% endcapture %}
+                    {% capture variation %}{{ item["Variation"] }}{% endcapture %}
+                    {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
+                    {% capture special %}{{ item["Special"] }}{% endcapture %}
+                    {% include pokemon.html icon=icon name=name variation=variation go_variation=go_variation special=special %}
+                </div>
             </div>
         {% endfor %}
     </div>
@@ -92,14 +96,16 @@ redirect_from:
 
     <h3>Looking For</h3>
 
-    <div class="border rounded mb-4 p-2">
+    <div class="mb-4 p-2">
         <div class="row g-0 row-cols-3 row-cols-md-6">
             {% for item in special_looking_for %}
-                <div class="col mb-2">
-                    {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
-                    {% capture name %}{{ item["Name"] }}{% endcapture %}
-                    {% capture variation %}{{ item["Variation"] }}{% endcapture %}
-                    {% include pokemon.html icon=icon name=name variation=variation %}
+                <div class="col">
+                    <div class="border rounded m-1 p-1">
+                        {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
+                        {% capture name %}{{ item["Name"] }}{% endcapture %}
+                        {% capture variation %}{{ item["Variation"] }}{% endcapture %}
+                        {% include pokemon.html icon=icon name=name variation=variation %}
+                    </div>
                 </div>
             {% endfor %}
         </div>
@@ -107,15 +113,17 @@ redirect_from:
 
     <h3>For Trade</h3>
 
-    <div class="border rounded mb-4 p-2">
+    <div class="mb-4 p-2">
         <div class="row g-0 row-cols-3 row-cols-md-6">
             {% for item in special_for_trade %}
                 <div class="col mb-2">
-                    {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
-                    {% capture name %}{{ item["Name"] }}{% endcapture %}
-                    {% capture variation %}{{ item["Variation"] }}{% endcapture %}
-                    {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
-                    {% include pokemon.html icon=icon name=name variation=variation go_variation=go_variation %}
+                    <div class="border rounded m-1 p-1">
+                        {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
+                        {% capture name %}{{ item["Name"] }}{% endcapture %}
+                        {% capture variation %}{{ item["Variation"] }}{% endcapture %}
+                        {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
+                        {% include pokemon.html icon=icon name=name variation=variation go_variation=go_variation %}
+                    </div>
                 </div>
             {% endfor %}
         </div>

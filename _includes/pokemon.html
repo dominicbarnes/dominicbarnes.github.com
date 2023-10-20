@@ -1,15 +1,32 @@
-<img src="{{ include.icon }}" class="img-fluid" alt="Pokémon Sprite" loading="lazy">
+<div class="d-flex justify-content-between align-items-center">
+    {% if include.ball %}
+        <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/{{ include.ball }}.png" alt="Ball Mark" height="32" width="32" loading="lazy">
+    {% endif %}
+    {% if include.alpha == 'TRUE' %}
+        <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/misc/special-attribute/alpha-icon.png" alt="Alpha Mark" height="24" width="24" loading="lazy">
+    {% endif %}
+    {% if include.gmax == 'TRUE' %}
+        <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/misc/special-attribute/gigantamax-icon.png" alt="Gigantamax Mark" height="23" width="30" loading="lazy">
+    {% endif %}
+    {% if include.mark %}
+        <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/misc/origin-marks/home/{{ include.mark }}.png" alt="Origin Mark" height="24" width="24">
+    {% endif %}
+</div>
+
+<img src="{{ include.icon }}" class="img-fluid mb-3" alt="Pokémon Sprite" loading="lazy">
 <div class="text-center">
-    <div>
-        <b>{{ include.name }}</b>
+    <div class="text-bg-secondary fw-bold">
+        {{ include.name }}
     </div>
-    {% if include.variation %}
-        <span class="badge text-bg-dark">{{ include.variation }}</span>
-    {% endif %}
-    {% if include.go_variation %}
-        <span class="badge text-bg-success">{{ include.go_variation }}</span>
-    {% endif %}
-    {% if include.special %}
-        <span class="badge text-bg-warning">{{ include.special }}</span>
-    {% endif %}
+    <div>
+        {% if include.variation %}
+            <span class="badge text-bg-dark">{{ include.variation }}</span>
+        {% endif %}
+        {% if include.go_variation %}
+            <span class="badge text-bg-success">{{ include.go_variation }}</span>
+        {% endif %}
+        {% if include.special %}
+            <span class="badge text-bg-warning">{{ include.special }}</span>
+        {% endif %}
+    </div>
 </div>
