@@ -1,18 +1,18 @@
 <div class="d-flex justify-content-between align-items-center">
     {% if include.ball %}
-        <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/{{ include.ball }}.png" alt="Ball Mark" height="32" width="32" loading="lazy">
+        <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/{{ include.ball }}.png" alt="Ball Mark" height="32" width="32" loading="lazy" title="Ball: {{ include.ball }}" data-bs-toggle="tooltip">
     {% endif %}
     {% if include.alpha == 'TRUE' %}
-        <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/misc/special-attribute/alpha-icon.png" alt="Alpha Mark" height="24" width="24" loading="lazy">
+        <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/misc/special-attribute/alpha-icon.png" alt="Alpha Mark" height="24" width="24" loading="lazy" title="Alpha Pokémon" data-bs-toggle="tooltip">
     {% endif %}
     {% if include.gmax == 'TRUE' %}
-        <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/misc/special-attribute/gigantamax-icon.png" alt="Gigantamax Mark" height="23" width="30" loading="lazy">
+        <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/misc/special-attribute/gigantamax-icon.png" alt="Gigantamax Mark" height="23" width="30" loading="lazy" title="Gigantamax Pokémon" data-bs-toggle="tooltip">
     {% endif %}
     {% if include.mark %}
         {% if include.mark == 'paldea' %}
-            <img src="{{ '/assets/img/origin-mark-paldea.png' | relative_url }}" alt="Origin Mark" height="24" width="19">
+            <img src="{{ '/assets/img/origin-mark-paldea.png' | relative_url }}" alt="Origin Mark" height="24" width="19" title="Origin Mark: paldea" data-bs-toggle="tooltip">
         {% else %}
-            <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/misc/origin-marks/home/{{ include.mark }}.png" alt="Origin Mark" height="24" width="24">
+            <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/misc/origin-marks/home/{{ include.mark }}.png" alt="Origin Mark" height="24" width="24" title="Origin Mark: {{ include.mark }}" data-bs-toggle="tooltip">
         {% endif %}
     {% endif %}
 </div>
