@@ -22,105 +22,67 @@ image:
 {% assign looking_for = site.data.pokemon.shiny_checklist | where:"Obtained","FALSE" | where:"Has Shiny","TRUE" %}
 {% assign for_trade = site.data.pokemon.home_collection %}
 
-<h2>Looking For</h2>
+<ul class="nav nav-tabs" role="tablist">
+    <li class="nav-item" role="presentation">
+        <button class="nav-link active" id="looking-for-tab" data-bs-toggle="tab" data-bs-target="#looking-for-tab-pane" type="button" role="tab" aria-controls="looking-for-tab-pane" aria-selected="true">Looking For</button>
+    </li>
+    <li class="nav-item" role="presentation">
+        <button class="nav-link" id="for-trade-tab" data-bs-toggle="tab" data-bs-target="#for-trade-tab-pane" type="button" role="tab" aria-controls="for-trade-tab-pane" aria-selected="false">For Trade</button>
+    </li>
+</ul>
+<div class="tab-content">
+    <div class="tab-pane fade show active p-2" id="looking-for-tab-pane" role="tabpanel" aria-labelledby="looking-for-tab" tabindex="0">
+        <p class="m-2">These are the Pokémon I still need for my shiny living dex.</p>
 
-<p>These are the Pokémon I still need for my shiny living dex.</p>
-
-<div class="mb-4 p-2">
-    <div class="row g-0 row-cols-3 row-cols-md-6">
-        {% for item in looking_for %}
-            {% if all_special contains item['Special'] %}
-                {% continue %}
-            {% endif %}
-
-            {% if exclude contains item['Name'] %}
-                {% continue %}
-            {% endif %}
-
-            <div class="col">
-                <div class="border rounded m-1 p-1">
-                    {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
-                    {% capture name %}{{ item["Name"] }}{% endcapture %}
-                    {% capture variation %}{{ item["Variation"] }}{% endcapture %}
-                    {% capture special %}{{ item["Special"] }}{% endcapture %}
-                    {% include pokemon.html icon=icon name=name variation=variation special=special %}
-                </div>
+        <div class="mb-4 p-2">
+            <div class="row g-0 row-cols-3 row-cols-md-6">
+                {% for item in looking_for %}
+                    {% if all_special contains item['Special'] %}
+                        {% continue %}
+                    {% endif %}
+        
+                    {% if exclude contains item['Name'] %}
+                        {% continue %}
+                    {% endif %}
+        
+                    <div class="col">
+                        <div class="border rounded m-1 p-1">
+                            {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
+                            {% capture name %}{{ item["Name"] }}{% endcapture %}
+                            {% capture variation %}{{ item["Variation"] }}{% endcapture %}
+                            {% capture special %}{{ item["Special"] }}{% endcapture %}
+                            {% include pokemon.html icon=icon name=name variation=variation special=special %}
+                        </div>
+                    </div>
+                {% endfor %}
             </div>
-        {% endfor %}
-    </div>
-</div>
-
-<h2>For Trade</h2>
-
-<p>These are the extra shinies I have that I am willing to trade.</p>
-
-<div class="mb-4 p-2">
-    <div class="row g-0 row-cols-3 row-cols-md-6">
-        {% for item in for_trade %}
-            {% if all_special contains item['Special'] %}
-                {% continue %}
-            {% endif %}
-
-            <div class="col">
-                <div class="border rounded m-1 p-1">
-                    {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
-                    {% capture name %}{{ item["Name"] }}{% endcapture %}
-                    {% capture variation %}{{ item["Variation"] }}{% endcapture %}
-                    {% capture special %}{{ item["Special"] }}{% endcapture %}
-                    {% capture mark %}{{ item['Origin Mark'] }}{% endcapture %}
-                    {% capture alpha %}{{ item['Alpha'] }}{% endcapture %}
-                    {% capture gmax %}{{ item['Gmax'] }}{% endcapture %}
-                    {% capture ball %}{{ item['Ball'] }}{% endcapture %}
-                    {% include pokemon.html icon=icon name=name variation=variation special=special mark=mark alpha=alpha gmax=gmax ball=ball %}
-                </div>
-            </div>
-        {% endfor %}
-    </div>
-</div>
-
-{% comment %}
-Excluding legendaries/mythicals since they're much tricker to trade for
-
-{% assign special_looking_for = site.data.pokemon.shiny_checklist | where:"Obtained","FALSE" | where:"Has Shiny","TRUE" | where_exp:"item","all_special contains item['Special']" %}
-{% assign special_for_trade = site.data.pokemon.home_collection | where_exp:"item","all_special contains item['Special']" %}
-
-{% if special_looking_for.size > 0 %}
-    <h2>Legendaries</h2>
-
-    <p>
-        I've pulled the shiny legendaries into their own section since I only trade
-        these for other shiny legendaries.
-    </p>
-
-    <h3>Looking For</h3>
-
-    <div class="border rounded mb-4 p-2">
-        <div class="row g-0 row-cols-3 row-cols-md-6">
-            {% for item in special_looking_for %}
-                <div class="col mb-2">
-                    {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
-                    {% capture name %}{{ item["Name"] }}{% endcapture %}
-                    {% capture variation %}{{ item["Variation"] }}{% endcapture %}
-                    {% include pokemon.html icon=icon name=name variation=variation %}
-                </div>
-            {% endfor %}
         </div>
     </div>
+    <div class="tab-pane fade p-2" id="for-trade-tab-pane" role="tabpanel" aria-labelledby="for-trade-tab" tabindex="0">
+        <p class="m-2">These are the extra shinies I have that I am willing to trade.</p>
 
-    <h3>For Trade</h3>
-
-    <div class="border rounded mb-4 p-2">
-        <div class="row g-0 row-cols-3 row-cols-md-6">
-            {% for item in special_for_trade %}
-                <div class="col mb-2">
-                    {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
-                    {% capture name %}{{ item["Name"] }}{% endcapture %}
-                    {% capture variation %}{{ item["Variation"] }}{% endcapture %}
-                    {% include pokemon.html icon=icon name=name variation=variation %}
-                </div>
-            {% endfor %}
+        <div class="mb-4 p-2">
+            <div class="row g-0 row-cols-3 row-cols-md-6">
+                {% for item in for_trade %}
+                    {% if all_special contains item['Special'] %}
+                        {% continue %}
+                    {% endif %}
+        
+                    <div class="col">
+                        <div class="border rounded m-1 p-1">
+                            {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
+                            {% capture name %}{{ item["Name"] }}{% endcapture %}
+                            {% capture variation %}{{ item["Variation"] }}{% endcapture %}
+                            {% capture special %}{{ item["Special"] }}{% endcapture %}
+                            {% capture mark %}{{ item['Origin Mark'] }}{% endcapture %}
+                            {% capture alpha %}{{ item['Alpha'] }}{% endcapture %}
+                            {% capture gmax %}{{ item['Gmax'] }}{% endcapture %}
+                            {% capture ball %}{{ item['Ball'] }}{% endcapture %}
+                            {% include pokemon.html icon=icon name=name variation=variation special=special mark=mark alpha=alpha gmax=gmax ball=ball %}
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
         </div>
     </div>
-{% endif %}
-
-{% endcomment %}
+</div>
