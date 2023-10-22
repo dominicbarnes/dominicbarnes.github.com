@@ -32,5 +32,8 @@
         {% if include.special %}
             <span class="badge text-bg-warning">{{ include.special }}</span>
         {% endif %}
+        {% if include.hacked == "TRUE" %}
+            <span class="badge text-bg-danger">Hacked</span>
+        {% endif %}
     </div>
 </div>
