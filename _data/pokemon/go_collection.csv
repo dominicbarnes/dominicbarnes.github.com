@@ -1,5 +1,5 @@
 Pokemon ID,Name,Variation,Go Variation,Checklist Name,Special,Region,National,Quantity,Icon URL
-squirtle,Squirtle,,Sunglasses,Squirtle (Sunglasses),,Kanto,0007,5,https://pokejungle.net/sprites/shiny/0007.png
+squirtle,Squirtle,,Sunglasses,Squirtle (Sunglasses),,Kanto,0007,4,https://pokejungle.net/sprites/shiny/0007.png
 caterpie,Caterpie,,,Caterpie,,Kanto,0010,1,https://pokejungle.net/sprites/shiny/0010.png
 pidgey,Pidgey,,,Pidgey,,Kanto,0016,3,https://pokejungle.net/sprites/shiny/0016.png
 rattata-male,Rattata,Male,,Rattata (Male),,Kanto,0019,1,https://pokejungle.net/sprites/shiny/0019.png
@@ -22,7 +22,6 @@ onix,Onix,,,Onix,,Kanto,0095,2,https://pokejungle.net/sprites/shiny/0095.png
 voltorb,Voltorb,,,Voltorb,,Kanto,0100,1,https://pokejungle.net/sprites/shiny/0100.png
 exeggutor-alolan,Exeggutor,Alolan,,Exeggutor (Alolan),,Alola,0103,1,https://pokejungle.net/sprites/shiny/0103-1.png
 lickitung,Lickitung,,,Lickitung,,Kanto,0108,1,https://pokejungle.net/sprites/shiny/0108.png
-chansey,Chansey,,Flower Crown,Chansey (Flower Crown),,Kanto,0113,1,https://pokejungle.net/sprites/shiny/0113.png
 horsea,Horsea,,,Horsea,,Kanto,0116,3,https://pokejungle.net/sprites/shiny/0116.png
 seadra,Seadra,,,Seadra,,Kanto,0117,1,https://pokejungle.net/sprites/shiny/0117.png
 pinsir,Pinsir,,Shadow,Pinsir (Shadow),,Kanto,0127,1,https://pokejungle.net/sprites/shiny/0127.png
@@ -49,7 +48,6 @@ lotad,Lotad,,,Lotad,,Hoenn,0270,3,https://pokejungle.net/sprites/shiny/0270.png
 taillow,Taillow,,,Taillow,,Hoenn,0276,4,https://pokejungle.net/sprites/shiny/0276.png
 wingull,Wingull,,,Wingull,,Hoenn,0278,3,https://pokejungle.net/sprites/shiny/0278.png
 azurill,Azurill,,,Azurill,Baby,Hoenn,0298,1,https://pokejungle.net/sprites/shiny/0298.png
-sableye,Sableye,,,Sableye,,Hoenn,0302,1,https://pokejungle.net/sprites/shiny/0302.png
 mawile,Mawile,,Shadow,Mawile (Shadow),,Hoenn,0303,2,https://pokejungle.net/sprites/shiny/0303.png
 aron,Aron,,,Aron,,Hoenn,0304,5,https://pokejungle.net/sprites/shiny/0304.png
 meditite-female,Meditite,Female,,Meditite (Female),,Hoenn,0307,2,https://pokejungle.net/sprites/shiny/0307-f.png
@@ -61,7 +59,7 @@ wailmer,Wailmer,,,Wailmer,,Hoenn,0320,1,https://pokejungle.net/sprites/shiny/032
 barboach,Barboach,,,Barboach,,Hoenn,0339,1,https://pokejungle.net/sprites/shiny/0339.png
 feebas,Feebas,,,Feebas,,Hoenn,0349,1,https://pokejungle.net/sprites/shiny/0349.png
 castform,Castform,,,Castform,,Hoenn,0351,4,https://pokejungle.net/sprites/shiny/0351.png
-shuppet,Shuppet,,,Shuppet,,Hoenn,0353,2,https://pokejungle.net/sprites/shiny/0353.png
+shuppet,Shuppet,,,Shuppet,,Hoenn,0353,1,https://pokejungle.net/sprites/shiny/0353.png
 absol,Absol,,Sunglasses,Absol (Sunglasses),,Hoenn,0359,1,https://pokejungle.net/sprites/shiny/0359.png
 clamperl,Clamperl,,,Clamperl,,Hoenn,0366,1,https://pokejungle.net/sprites/shiny/0366.png
 luvdisc,Luvdisc,,,Luvdisc,,Hoenn,0370,1,https://pokejungle.net/sprites/shiny/0370.png
@@ -88,9 +86,7 @@ reshiram,Reshiram,,,Reshiram,Legendary,Unova,0643,1,https://pokejungle.net/sprit
 landorus-incarnate,Landorus,Incarnate,,Landorus (Incarnate),Legendary,Unova,0645,1,https://pokejungle.net/sprites/shiny/0645.png
 bunnelby,Bunnelby,,,Bunnelby,,Kalos,0659,4,https://pokejungle.net/sprites/shiny/0659.png
 inkay,Inkay,,,Inkay,,Kalos,0686,2,https://pokejungle.net/sprites/shiny/0686.png
-gourgeist,Gourgeist,,Halloween,Gourgeist (Halloween),,Kalos,0711,1,https://pokejungle.net/sprites/shiny/0711.png
 xerneas,Xerneas,,,Xerneas,Legendary,Kalos,0716,2,https://pokejungle.net/sprites/shiny/0716.png
 tapu-bulu,Tapu Bulu,,,Tapu Bulu,Legendary,Alola,0787,1,https://pokejungle.net/sprites/shiny/0787.png
-guzzlord,Guzzlord,,,Guzzlord,Ultra Beast,Alola,0799,1,https://pokejungle.net/sprites/shiny/0799.png
 meltan,Meltan,,,Meltan,Mythical,Alola,0808,1,https://pokejungle.net/sprites/shiny/0808.png
 melmetal,Melmetal,,,Melmetal,Mythical,Alola,0809,1,https://pokejungle.net/sprites/shiny/0809.png
