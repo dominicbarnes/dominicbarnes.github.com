@@ -671,7 +671,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,PLA,GO,H
 670,timburr,Timburr,,,Timburr,,0532,,TRUE,TRUE,Unova,5,23,10,2,4,TRUE,https://pokejungle.net/sprites/shiny/0532.png,
 671,gurdurr,Gurdurr,,,Timburr,,0533,,TRUE,TRUE,Unova,5,23,11,2,5,TRUE,https://pokejungle.net/sprites/shiny/0533.png,
 672,conkeldurr,Conkeldurr,,,Timburr,,0534,,TRUE,TRUE,Unova,5,23,12,2,6,TRUE,https://pokejungle.net/sprites/shiny/0534.png,
-673,tympole,Tympole,,,Tympole,,0535,,TRUE,TRUE,Unova,5,23,13,3,1,FALSE,https://pokejungle.net/sprites/shiny/0535.png,
+673,tympole,Tympole,,,Tympole,,0535,,TRUE,TRUE,Unova,5,23,13,3,1,RickGastly,https://pokejungle.net/sprites/shiny/0535.png,
 674,palpitoad,Palpitoad,,,Tympole,,0536,,TRUE,TRUE,Unova,5,23,14,3,2,TRUE,https://pokejungle.net/sprites/shiny/0536.png,
 675,seismitoad,Seismitoad,,,Tympole,,0537,,TRUE,TRUE,Unova,5,23,15,3,3,TRUE,https://pokejungle.net/sprites/shiny/0537.png,
 676,throh,Throh,,,Throh,,0538,,TRUE,TRUE,Unova,5,23,16,3,4,TRUE,https://pokejungle.net/sprites/shiny/0538.png,

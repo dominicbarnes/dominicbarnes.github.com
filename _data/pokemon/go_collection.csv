@@ -1,5 +1,5 @@
 Pokemon ID,Name,Variation,Go Variation,Checklist Name,Special,Region,National,Quantity,Icon URL
-squirtle,Squirtle,,Sunglasses,Squirtle (Sunglasses),,Kanto,0007,4,https://pokejungle.net/sprites/shiny/0007.png
+squirtle,Squirtle,,Sunglasses,Squirtle (Sunglasses),,Kanto,0007,3,https://pokejungle.net/sprites/shiny/0007.png
 caterpie,Caterpie,,,Caterpie,,Kanto,0010,1,https://pokejungle.net/sprites/shiny/0010.png
 pidgey,Pidgey,,,Pidgey,,Kanto,0016,3,https://pokejungle.net/sprites/shiny/0016.png
 rattata-male,Rattata,Male,,Rattata (Male),,Kanto,0019,1,https://pokejungle.net/sprites/shiny/0019.png
@@ -37,7 +37,7 @@ murkrow-female,Murkrow,Female,,Murkrow (Female),,Johto,0198,1,https://pokejungle
 murkrow-male,Murkrow,Male,Shadow,Murkrow (Male) (Shadow),,Johto,0198,1,https://pokejungle.net/sprites/shiny/0198.png
 misdreavus,Misdreavus,,,Misdreavus,,Johto,0200,4,https://pokejungle.net/sprites/shiny/0200.png
 wobbuffet-male,Wobbuffet,Male,,Wobbuffet (Male),,Johto,0202,1,https://pokejungle.net/sprites/shiny/0202.png
-pineco,Pineco,,,Pineco,,Johto,0204,1,https://pokejungle.net/sprites/shiny/0204.png
+pineco,Pineco,,,Pineco,,Johto,0204,2,https://pokejungle.net/sprites/shiny/0204.png
 snubbull,Snubbull,,,Snubbull,,Johto,0209,5,https://pokejungle.net/sprites/shiny/0209.png
 sneasel-female,Sneasel,Female,,Sneasel (Female),,Johto,0215,3,https://pokejungle.net/sprites/shiny/0215-f.png
 sneasel-male,Sneasel,Male,,Sneasel (Male),,Johto,0215,4,https://pokejungle.net/sprites/shiny/0215.png
@@ -68,6 +68,7 @@ latias,Latias,,,Latias,Legendary,Hoenn,0380,2,https://pokejungle.net/sprites/shi
 groudon,Groudon,,,Groudon,Legendary,Hoenn,0383,1,https://pokejungle.net/sprites/shiny/0383.png
 deoxys-speed,Deoxys,Speed,,Deoxys (Speed),Mythical,Hoenn,0386,1,https://pokejungle.net/sprites/shiny/0386-3.png
 deoxys,Deoxys,,,Deoxys,Mythical,Hoenn,0386,1,https://pokejungle.net/sprites/shiny/0386.png
+shinx-male,Shinx,Male,Hat,Shinx (Male) (Hat),,Sinnoh,0403,1,https://pokejungle.net/sprites/shiny/0403.png
 budew,Budew,,,Budew,Baby,Sinnoh,0406,1,https://pokejungle.net/sprites/shiny/0406.png
 drifblim,Drifblim,,,Drifblim,,Sinnoh,0426,1,https://pokejungle.net/sprites/shiny/0426.png
 buneary,Buneary,,,Buneary,,Sinnoh,0427,4,https://pokejungle.net/sprites/shiny/0427.png
