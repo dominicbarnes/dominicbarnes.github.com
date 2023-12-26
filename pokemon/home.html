@@ -18,7 +18,6 @@ image:
 
 {% assign all_special = "Legendary,Mythical" | split:"," %}
 
-{% assign exclude = "Alcremie" | split:"," %}
 {% assign looking_for = site.data.pokemon.shiny_checklist | where:"Obtained","FALSE" | where:"Has Shiny","TRUE" %}
 {% assign for_trade = site.data.pokemon.home_collection %}
 
@@ -38,10 +37,6 @@ image:
             <div class="row g-0 row-cols-3 row-cols-md-6">
                 {% for item in looking_for %}
                     {% if all_special contains item['Special'] %}
-                        {% continue %}
-                    {% endif %}
-        
-                    {% if exclude contains item['Name'] %}
                         {% continue %}
                     {% endif %}
         

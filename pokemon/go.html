@@ -25,7 +25,6 @@ redirect_from:
 {% assign all_special = "Legendary,Mythical,Ultra Beast,Paradox" | split:"," %}
 {% assign trade_special = "Legendary,Ultra Beast,Paradox" | split:"," %}
 
-{% assign exclude = "" | split:"," %}
 {% assign looking_for = site.data.pokemon.shiny_checklist | where:"Obtained","FALSE" | where:"GO","TRUE" %}
 {% assign for_trade = site.data.pokemon.go_collection %}
 
@@ -45,10 +44,6 @@ redirect_from:
             <div class="row g-0 row-cols-3 row-cols-md-6">
                 {% for item in looking_for %}
                     {% if all_special contains item['Special'] %}
-                        {% continue %}
-                    {% endif %}
-
-                    {% if exclude contains item['Name'] %}
                         {% continue %}
                     {% endif %}
 
