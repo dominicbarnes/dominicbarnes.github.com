@@ -95,6 +95,7 @@ roselia-male,Roselia,Male,1,Roselia (Male),,Hoenn,0315,go,poke,2,FALSE,FALSE,FAL
 roselia-female,Roselia,Female,2,Roselia (Female),,Hoenn,0315,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0315-f.png
 swablu,Swablu,,,Swablu,,Hoenn,0333,go,great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0333.png
 swablu,Swablu,,,Swablu,,Hoenn,0333,go,poke,3,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0333.png
+seviper,Seviper,,,Seviper,,Hoenn,0336,paldea,dusk,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0336.png
 castform,Castform,,,Castform,,Hoenn,0351,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0351.png
 duskull,Duskull,,,Duskull,,Hoenn,0355,go,poke,3,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0355.png
 dusclops,Dusclops,,,Dusclops,,Hoenn,0356,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0356.png
@@ -149,8 +150,10 @@ tepig,Tepig,,,Tepig,,Unova,0498,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokeju
 oshawott,Oshawott,,,Oshawott,,Unova,0501,go,poke,5,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0501.png
 samurott,Samurott,,1,Samurott,,Unova,0503,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0503.png
 timburr,Timburr,,,Timburr,,Unova,0532,go,poke,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0532.png
+zorua-hisuian,Zorua,Hisuian,2,Zorua (Hisuian),,Hisui,0570,hisui,jet,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0570-1.png
 amoonguss,Amoonguss,,,Amoonguss,,Unova,0591,galar,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0591.png
 froakie,Froakie,,,Froakie,,Kalos,0656,go,poke,5,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0656.png
+fletchinder,Fletchinder,,,Fletchinder,,Kalos,0662,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0662.png
 flabébé-yellow,Flabébé,Yellow,2,Flabébé (Yellow),,Kalos,0669,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0669-1.png
 flabébé-orange,Flabébé,Orange,3,Flabébé (Orange),,Kalos,0669,paldea,premier,3,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0669-2.png
 flabébé-blue,Flabébé,Blue,4,Flabébé (Blue),,Kalos,0669,galar,heal,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0669-3.png
@@ -163,5 +166,3 @@ stufful,Stufful,,,Stufful,,Alola,0759,go,poke,2,FALSE,FALSE,FALSE,FALSE,https://
 drednaw,Drednaw,,,Drednaw,,Galar,0834,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0834.png
 milcery,Milcery,,,Milcery,,Galar,0868,paldea,premier,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0868.png
 ursaluna,Ursaluna,,,Ursaluna,,Hisui,0901,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0901.png
-fletchinder,Fletchinder,,,Fletchinder,,Kalos,0662,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0662.png
-seviper,Seviper,,,Seviper,,Hoenn,0336,paldea,dusk,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0336.png
