@@ -2,7 +2,6 @@ Pokemon ID,Name,Variation,Variation Sort,Checklist Name,Special,Region,National,
 charmander,Charmander,,,Charmander,,Kanto,0004,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0004.png
 charmander,Charmander,,,Charmander,,Kanto,0004,lets-go,great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0004.png
 charizard,Charizard,,,Charizard,,Kanto,0006,lets-go,ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0006.png
-blastoise,Blastoise,,,Blastoise,,Kanto,0009,galar,poke,1,FALSE,TRUE,TRUE,FALSE,https://pokejungle.net/sprites/shiny/0009.png
 caterpie,Caterpie,,,Caterpie,,Kanto,0010,lets-go,poke,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0010.png
 kakuna,Kakuna,,,Kakuna,,Kanto,0014,lets-go,great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0014.png
 pidgey,Pidgey,,,Pidgey,,Kanto,0016,lets-go,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0016.png
@@ -10,7 +9,6 @@ pidgey,Pidgey,,,Pidgey,,Kanto,0016,lets-go,poke,2,FALSE,FALSE,FALSE,FALSE,https:
 pidgeotto,Pidgeotto,,,Pidgeotto,,Kanto,0017,lets-go,ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0017.png
 pikachu-male,Pikachu,Male,1,Pikachu (Male),,Kanto,0025,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0025.png
 pikachu-female,Pikachu,Female,2,Pikachu (Female),,Kanto,0025,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0025-f.png
-sandshrew-alolan,Sandshrew,Alolan,2,Sandshrew (Alolan),,Alola,0027,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0027-1.png
 clefairy,Clefairy,,,Clefairy,,Kanto,0035,galar,cherish,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0035.png
 clefairy,Clefairy,,,Clefairy,,Kanto,0035,paldea,moon,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0035.png
 ninetales,Ninetales,,1,Ninetales,,Kanto,0038,hisui,gigaton,1,TRUE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0038.png
@@ -81,7 +79,6 @@ delibird,Delibird,,,Delibird,,Johto,0225,paldea,love,1,FALSE,FALSE,FALSE,FALSE,h
 smoochum,Smoochum,,,Smoochum,Baby,Johto,0238,galar,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0238.png
 elekid,Elekid,,,Elekid,Baby,Johto,0239,hisui,leaden,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0239.png
 magby,Magby,,,Magby,Baby,Johto,0240,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0240.png
-magby,Magby,,,Magby,Baby,Johto,0240,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0240.png
 larvitar,Larvitar,,,Larvitar,,Johto,0246,go,poke,3,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0246.png
 swampert,Swampert,,,Swampert,,Hoenn,0260,go,ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0260.png
 zigzagoon-galarian,Zigzagoon,Galarian,2,Zigzagoon (Galarian),,Galar,0263,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0263-1.png
@@ -143,9 +140,7 @@ snover-male,Snover,Male,1,Snover (Male),,Sinnoh,0459,hisui,hisuian-ultra,2,FALSE
 snover-male,Snover,Male,1,Snover (Male),,Sinnoh,0459,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0459.png
 probopass,Probopass,,,Probopass,,Sinnoh,0476,hisui,gigaton,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0476.png
 heatran,Heatran,,,Heatran,Legendary,Sinnoh,0485,go,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0485.png
-snivy,Snivy,,,Snivy,,Unova,0495,go,great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0495.png
-snivy,Snivy,,,Snivy,,Unova,0495,go,poke,6,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0495.png
-tepig,Tepig,,,Tepig,,Unova,0498,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0498.png
+snivy,Snivy,,,Snivy,,Unova,0495,go,poke,4,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0495.png
 oshawott,Oshawott,,,Oshawott,,Unova,0501,go,poke,5,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0501.png
 samurott,Samurott,,1,Samurott,,Unova,0503,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0503.png
 timburr,Timburr,,,Timburr,,Unova,0532,go,poke,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0532.png
