@@ -23,14 +23,14 @@ image:
 
 <ul class="nav nav-tabs" role="tablist">
     <li class="nav-item" role="presentation">
-        <button class="nav-link active" id="looking-for-tab" data-bs-toggle="tab" data-bs-target="#looking-for-tab-pane" type="button" role="tab" aria-controls="looking-for-tab-pane" aria-selected="true">Looking For</button>
+        <a href="#looking-for" class="nav-link active" id="looking-for-tab" data-bs-toggle="tab" aria-controls="looking-for" aria-selected="true">Looking For</a>
     </li>
     <li class="nav-item" role="presentation">
-        <button class="nav-link" id="for-trade-tab" data-bs-toggle="tab" data-bs-target="#for-trade-tab-pane" type="button" role="tab" aria-controls="for-trade-tab-pane" aria-selected="false">For Trade</button>
+        <a href="#for-trade" class="nav-link" id="for-trade-tab" data-bs-toggle="tab" aria-controls="for-trade" aria-selected="false">For Trade</a>
     </li>
 </ul>
 <div class="tab-content">
-    <div class="tab-pane fade show active p-2" id="looking-for-tab-pane" role="tabpanel" aria-labelledby="looking-for-tab" tabindex="0">
+    <div class="tab-pane fade show active p-2" id="looking-for" role="tabpanel" aria-labelledby="looking-for-tab" tabindex="0">
         <p class="m-2">These are the Pokémon I still need for my shiny living dex.</p>
 
         <div class="mb-4 p-2">
@@ -53,7 +53,7 @@ image:
             </div>
         </div>
     </div>
-    <div class="tab-pane fade p-2" id="for-trade-tab-pane" role="tabpanel" aria-labelledby="for-trade-tab" tabindex="0">
+    <div class="tab-pane fade p-2" id="for-trade" role="tabpanel" aria-labelledby="for-trade-tab" tabindex="0">
         <p class="m-2">These are the extra shinies I have that I am willing to trade.</p>
 
         <div class="mb-4 p-2">
@@ -82,3 +82,11 @@ image:
         </div>
     </div>
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const trigger = document.querySelector(`ul.nav a[href="${window.location.hash}"]`)
+  const tab = new bootstrap.Tab(trigger)
+  tab.show()
+})
+</script>
