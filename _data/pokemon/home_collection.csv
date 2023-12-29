@@ -61,7 +61,6 @@ yanma,Yanma,,,Yanma,,Johto,0193,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,FALSE,htt
 yanma,Yanma,,,Yanma,,Johto,0193,hisui,gigaton,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0193.png
 wooper-paldean,Wooper,Paldean,3,Wooper (Paldean),,Paldea,0194,go,great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0194-1.png
 forretress,Forretress,,,Forretress,,Johto,0205,paldea,premier,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0205.png
-gligar-male,Gligar,Male,1,Gligar (Male),,Johto,0207,hisui,jet,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0207.png
 gligar-female,Gligar,Female,2,Gligar (Female),,Johto,0207,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0207-f.png
 qwilfish,Qwilfish,,1,Qwilfish,,Johto,0211,paldea,premier,3,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0211.png
 sneasel-male,Sneasel,Male,1,Sneasel (Male),,Johto,0215,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0215.png
@@ -123,7 +122,7 @@ buneary,Buneary,,,Buneary,,Sinnoh,0427,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,F
 bronzong,Bronzong,,,Bronzong,,Sinnoh,0437,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0437.png
 happiny,Happiny,,,Happiny,Baby,Sinnoh,0440,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0440.png
 chatot,Chatot,,,Chatot,,Sinnoh,0441,hisui,jet,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0441.png
-gible-male,Gible,Male,1,Gible (Male),,Sinnoh,0443,go,poke,3,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0443.png
+gible-male,Gible,Male,1,Gible (Male),,Sinnoh,0443,go,poke,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0443.png
 gible-male,Gible,Male,1,Gible (Male),,Sinnoh,0443,go,ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0443.png
 gible-female,Gible,Female,2,Gible (Female),,Sinnoh,0443,go,poke,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0443-f.png
 riolu,Riolu,,,Riolu,Baby,Sinnoh,0447,hisui,jet,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0447.png
