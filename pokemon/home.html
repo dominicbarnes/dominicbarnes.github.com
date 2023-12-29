@@ -33,8 +33,10 @@ image:
     <div class="tab-pane fade show active p-2" id="looking-for" role="tabpanel" aria-labelledby="looking-for-tab" tabindex="0">
         <p class="m-2">These are the Pokémon I still need for my shiny living dex.</p>
 
+        {% include pokemon-filter.html prefix="looking-for" target="#looking-for-list" %}
+
         <div class="mb-4 p-2">
-            <div class="row g-0 row-cols-3 row-cols-md-6">
+            <div id="looking-for-list" class="row g-0 row-cols-3 row-cols-md-6">
                 {% for item in looking_for %}
                     {% if all_special contains item['Special'] %}
                         {% continue %}
@@ -56,8 +58,10 @@ image:
     <div class="tab-pane fade p-2" id="for-trade" role="tabpanel" aria-labelledby="for-trade-tab" tabindex="0">
         <p class="m-2">These are the extra shinies I have that I am willing to trade.</p>
 
+        {% include pokemon-filter.html prefix="for-trade" target="#for-trade-list" ball=true origin-mark=true %}
+
         <div class="mb-4 p-2">
-            <div class="row g-0 row-cols-3 row-cols-md-6">
+            <div id="for-trade-list" class="row g-0 row-cols-3 row-cols-md-6">
                 {% for item in for_trade %}
                     {% if all_special contains item['Special'] %}
                         {% continue %}
@@ -85,8 +89,10 @@ image:
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-  const trigger = document.querySelector(`ul.nav a[href="${window.location.hash}"]`)
-  const tab = new bootstrap.Tab(trigger)
-  tab.show()
-})
+  const trigger = document.querySelector(`ul.nav a[href="${window.location.hash}"]`);
+  const tab = new bootstrap.Tab(trigger);
+  tab.show();
+});
 </script>
+
+{% include pokemon-filter-script.html %}

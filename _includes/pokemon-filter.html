@@ -1,0 +1,89 @@
+<form id="{{ include.prefix }}-filter" target="{{ include.target }}" class="pokemon-filters row mb-3 gx-3 gy-2 align-items-center">
+    <div class="col-md-auto">
+        <label for="{{ include.prefix }}-filter-name" class="visually-hidden">Name</label>
+        <input id="{{ include.prefix }}-filter-name" type="text" name="name" class="form-control" placeholder="Pokemon Name">
+    </div>
+    <div class="col-md-auto">
+        <label for="{{ include.prefix }}-filter-special" class="visually-hidden">Category</label>
+        <select id="{{ include.prefix }}-filter-special" name="special" class="form-select">
+            <option value="">Any Category</option>
+            <option>Baby</option>
+            <option>Starter</option>
+            <option>Ultra Beast</option>
+            <option>Paradox</option>
+            <option>Legendary</option>
+            <option>Mythical</option>
+        </select>
+    </div>
+    {% if include.ball %}
+        <div class="col-md-auto">
+            <label for="{{ include.prefix }}-filter-ball" class="visually-hidden">Ball</label>
+            <select id="{{ include.prefix }}-filter-ball" name="ball" class="form-select">
+                <option value="">Any Ball</option>
+                <option value="poke">Poke</option>
+                <option value="great">Great Ball</option>
+                <option value="ultra">Ultra Ball</option>
+                <option value="master">Master Ball</option>
+                <option value="premier">Premier Ball</option>
+                <option value="beast">Beast Ball</option>
+                <option value="dive">Dive Ball</option>
+                <option value="dusk">Dusk Ball</option>
+                <option value="heal">Heal Ball</option>
+                <option value="luxury">Luxury Ball</option>
+                <option value="nest">Nest Ball</option>
+                <option value="net">Net Ball</option>
+                <option value="quick">Quick Ball</option>
+                <option value="repeat">Repeat Ball</option>
+                <option value="safari">Safari Ball</option>
+                <option value="timer">Timer Ball</option>
+                <optgroup label="Event">
+                    <option value="cherish">Cherish</option>
+                    <option value="origin">Origin</option>
+                </optgroup>
+                <optgroup label="Hisuian">
+                    <option value="hisuian-poke">Hisuian Poke Ball</option>
+                    <option value="hisuian-great">Hisuian Great Ball</option>
+                    <option value="hisuian-ultra">Hisuian Ultra Ball</option>
+                    <option value="feather">Feather Ball</option>
+                    <option value="wing">Wing Ball</option>
+                    <option value="jet">Jet Ball</option>
+                    <option value="hisuian-heavy">Hisuian Heavy Ball</option>
+                    <option value="leaden">Leaden Ball</option>
+                    <option value="gigaton">Gigaton Ball</option>
+                </optgroup>
+                <optgroup label="Apricorn">
+                    <option value="dream">Dream Ball</option>
+                    <option value="fast">Fast Ball</option>
+                    <option value="friend">Friend Ball</option>
+                    <option value="heavy">Heavy Ball</option>
+                    <option value="level">Level Ball</option>
+                    <option value="love">Love Ball</option>
+                    <option value="lure">Lure Ball</option>
+                    <option value="moon">Moon Ball</option>
+                    <option value="sport">Sport Ball</option>
+                </optgroup>
+            </select>
+        </div>
+    {% endif %}
+    {% if include.origin-mark %}
+        <div class="col-md-auto">
+            <label for="{{ include.prefix }}-filter-origin-mark" class="visually-hidden">Origin Mark</label>
+            <select id="{{ include.prefix }}-filter-origin-mark" name="origin-mark" class="form-select">
+                <option value="">Any Origin Mark</option>
+                <option value="pentagon">Pentagon</option>
+                <option value="clover">Clover</option>
+                <option value="game-boy">Game Boy</option>
+                <option value="go">Go</option>
+                <option value="lets-go">Let's Go</option>
+                <option value="galar">Galar</option>
+                <option value="sinnoh-gen8">Sinnoh (BDSP)</option>
+                <option value="hisui">Hisui</option>
+                <option value="paldea">Paldea</option>
+            </select>
+        </div>
+    {% endif %}
+    <div class="col-md-auto">
+        <button class="btn btn-secondary" type="reset">Reset</button>
+        <button class="btn btn-primary" type="submit">Apply Filter</button>
+    </div>
+</form>
