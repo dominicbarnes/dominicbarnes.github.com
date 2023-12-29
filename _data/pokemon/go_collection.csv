@@ -1,5 +1,5 @@
 Pokemon ID,Name,Variation,Go Variation,Checklist Name,Special,Region,National,Quantity,Icon URL
-squirtle,Squirtle,,Sunglasses,Squirtle (Sunglasses),,Kanto,0007,3,https://pokejungle.net/sprites/shiny/0007.png
+squirtle,Squirtle,,Sunglasses,Squirtle (Sunglasses),Starter,Kanto,0007,3,https://pokejungle.net/sprites/shiny/0007.png
 caterpie,Caterpie,,,Caterpie,,Kanto,0010,1,https://pokejungle.net/sprites/shiny/0010.png
 pidgey,Pidgey,,,Pidgey,,Kanto,0016,3,https://pokejungle.net/sprites/shiny/0016.png
 rattata-male,Rattata,Male,,Rattata (Male),,Kanto,0019,1,https://pokejungle.net/sprites/shiny/0019.png
@@ -75,7 +75,7 @@ heatran,Heatran,,,Heatran,Legendary,Sinnoh,0485,2,https://pokejungle.net/sprites
 giratina,Giratina,,Altered,Giratina (Altered),Legendary,Sinnoh,0487,2,https://pokejungle.net/sprites/shiny/0487.png
 giratina,Giratina,,Origin,Giratina (Origin),Legendary,Sinnoh,0487,2,https://pokejungle.net/sprites/shiny/0487.png
 darkrai,Darkrai,,,Darkrai,Mythical,Sinnoh,0491,2,https://pokejungle.net/sprites/shiny/0491.png
-samurott-hisuian,Samurott,Hisuian,,Samurott (Hisuian),,Hisui,0503,2,https://pokejungle.net/sprites/shiny/0503-1.png
+samurott-hisuian,Samurott,Hisuian,,Samurott (Hisuian),Starter,Hisui,0503,2,https://pokejungle.net/sprites/shiny/0503-1.png
 pidove,Pidove,,,Pidove,,Unova,0519,2,https://pokejungle.net/sprites/shiny/0519.png
 stunfisk-galarian,Stunfisk,Galarian,,Stunfisk (Galarian),,Galar,0618,2,https://pokejungle.net/sprites/shiny/0618-1.png
 stunfisk,Stunfisk,,,Stunfisk,,Unova,0618,1,https://pokejungle.net/sprites/shiny/0618.png
