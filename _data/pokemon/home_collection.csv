@@ -10,7 +10,6 @@ pikachu-male,Pikachu,Male,1,Pikachu (Male),,Kanto,0025,go,poke,1,FALSE,FALSE,FAL
 pikachu-female,Pikachu,Female,2,Pikachu (Female),,Kanto,0025,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0025-f.png
 clefairy,Clefairy,,,Clefairy,,Kanto,0035,galar,cherish,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0035.png
 clefairy,Clefairy,,,Clefairy,,Kanto,0035,paldea,moon,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0035.png
-ninetales,Ninetales,,1,Ninetales,,Kanto,0038,hisui,gigaton,1,TRUE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0038.png
 zubat-male,Zubat,Male,1,Zubat (Male),,Kanto,0041,lets-go,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0041.png
 zubat-female,Zubat,Female,2,Zubat (Female),,Kanto,0041,lets-go,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0041-f.png
 paras,Paras,,,Paras,,Kanto,0046,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0046.png
@@ -99,7 +98,6 @@ metagross,Metagross,,,Metagross,,Hoenn,0376,go,great,1,FALSE,FALSE,FALSE,FALSE,h
 starly-male,Starly,Male,1,Starly (Male),,Sinnoh,0396,hisui,hisuian-great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0396.png
 starly-male,Starly,Male,1,Starly (Male),,Sinnoh,0396,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0396.png
 starly-female,Starly,Female,2,Starly (Female),,Sinnoh,0396,hisui,hisuian-heavy,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0396-f.png
-staraptor-female,Staraptor,Female,2,Staraptor (Female),,Sinnoh,0398,hisui,jet,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0398-f.png
 bidoof-male,Bidoof,Male,1,Bidoof (Male),,Sinnoh,0399,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0399.png
 bidoof-male,Bidoof,Male,1,Bidoof (Male),,Sinnoh,0399,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0399.png
 bidoof-male,Bidoof,Male,1,Bidoof (Male),,Sinnoh,0399,hisui,hisuian-heavy,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0399.png
@@ -136,7 +134,7 @@ snover-male,Snover,Male,1,Snover (Male),,Sinnoh,0459,paldea,premier,1,FALSE,FALS
 probopass,Probopass,,,Probopass,,Sinnoh,0476,hisui,gigaton,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0476.png
 heatran,Heatran,,,Heatran,Legendary,Sinnoh,0485,go,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0485.png
 snivy,Snivy,,,Snivy,Starter,Unova,0495,go,poke,3,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0495.png
-oshawott,Oshawott,,,Oshawott,Starter,Unova,0501,go,poke,4,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0501.png
+oshawott,Oshawott,,,Oshawott,Starter,Unova,0501,go,poke,3,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0501.png
 samurott,Samurott,,1,Samurott,Starter,Unova,0503,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0503.png
 timburr,Timburr,,,Timburr,,Unova,0532,go,poke,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0532.png
 zorua-hisuian,Zorua,Hisuian,2,Zorua (Hisuian),,Hisui,0570,hisui,jet,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0570-1.png
