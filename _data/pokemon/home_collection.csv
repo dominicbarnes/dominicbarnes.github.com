@@ -1,5 +1,4 @@
 Pokemon ID,Name,Variation,Variation Sort,Checklist Name,Special,Region,National,Origin Mark,Ball,Quantity,Alpha,Gmax,Hacked,Event,Icon URL
-charmander,Charmander,,,Charmander,,Kanto,0004,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0004.png
 charmander,Charmander,,,Charmander,,Kanto,0004,lets-go,great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0004.png
 charizard,Charizard,,,Charizard,,Kanto,0006,lets-go,ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0006.png
 caterpie,Caterpie,,,Caterpie,,Kanto,0010,lets-go,poke,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0010.png
@@ -124,7 +123,6 @@ buneary,Buneary,,,Buneary,,Sinnoh,0427,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,F
 bronzong,Bronzong,,,Bronzong,,Sinnoh,0437,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0437.png
 happiny,Happiny,,,Happiny,Baby,Sinnoh,0440,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0440.png
 chatot,Chatot,,,Chatot,,Sinnoh,0441,hisui,jet,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0441.png
-spiritomb,Spiritomb,,,Spiritomb,,Sinnoh,0442,hisui,gigaton,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0442.png
 gible-male,Gible,Male,1,Gible (Male),,Sinnoh,0443,go,poke,3,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0443.png
 gible-male,Gible,Male,1,Gible (Male),,Sinnoh,0443,go,ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0443.png
 gible-female,Gible,Female,2,Gible (Female),,Sinnoh,0443,go,poke,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0443-f.png
@@ -156,4 +154,3 @@ stufful,Stufful,,,Stufful,,Alola,0759,go,poke,3,FALSE,FALSE,FALSE,FALSE,https://
 stufful,Stufful,,,Stufful,,Alola,0759,go,poke,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0759.png
 drednaw,Drednaw,,,Drednaw,,Galar,0834,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0834.png
 milcery,Milcery,,,Milcery,,Galar,0868,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0868.png
-ursaluna,Ursaluna,,,Ursaluna,,Hisui,0901,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0901.png
