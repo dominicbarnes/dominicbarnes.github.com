@@ -765,7 +765,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,Has S
 764,accelgor,Accelgor,,,Shelmet,,0617,TRUE,TRUE,Unova,5,26,14,3,2,FALSE,https://pokejungle.net/sprites/shiny/0617.png,
 765,stunfisk,Stunfisk,,1,Stunfisk,,0618,TRUE,TRUE,Unova,5,26,15,3,3,TRUE,https://pokejungle.net/sprites/shiny/0618.png,
 766,mienfoo,Mienfoo,,,Mienfoo,,0619,FALSE,TRUE,Unova,5,26,16,3,4,FALSE,https://pokejungle.net/sprites/shiny/0619.png,
-767,mienshao,Mienshao,,,Mienfoo,,0620,FALSE,TRUE,Unova,5,26,17,3,5,FALSE,https://pokejungle.net/sprites/shiny/0620.png,
+767,mienshao,Mienshao,,,Mienfoo,,0620,FALSE,TRUE,Unova,5,26,17,3,5,TRUE,https://pokejungle.net/sprites/shiny/0620.png,
 768,druddigon,Druddigon,,,Druddigon,,0621,TRUE,TRUE,Unova,5,26,18,3,6,TRUE,https://pokejungle.net/sprites/shiny/0621.png,
 769,golett,Golett,,,Golett,,0622,TRUE,TRUE,Unova,5,26,19,4,1,FALSE,https://pokejungle.net/sprites/shiny/0622.png,
 770,golurk,Golurk,,,Golett,,0623,TRUE,TRUE,Unova,5,26,20,4,2,TRUE,https://pokejungle.net/sprites/shiny/0623.png,
