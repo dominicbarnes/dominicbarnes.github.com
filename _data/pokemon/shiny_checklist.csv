@@ -995,7 +995,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,Has S
 994,wimpod,Wimpod,,,Wimpod,,0767,FALSE,TRUE,Alola,7,34,4,1,4,FALSE,https://pokejungle.net/sprites/shiny/0767.png,
 995,golisopod,Golisopod,,,Wimpod,,0768,FALSE,TRUE,Alola,7,34,5,1,5,FALSE,https://pokejungle.net/sprites/shiny/0768.png,
 996,sandygast,Sandygast,,,Sandygast,,0769,FALSE,TRUE,Alola,7,34,6,1,6,FALSE,https://pokejungle.net/sprites/shiny/0769.png,
-997,palossand,Palossand,,,Sandygast,,0770,FALSE,TRUE,Alola,7,34,7,2,1,FALSE,https://pokejungle.net/sprites/shiny/0770.png,
+997,palossand,Palossand,,,Sandygast,,0770,FALSE,TRUE,Alola,7,34,7,2,1,TRUE,https://pokejungle.net/sprites/shiny/0770.png,
 998,pyukumuku,Pyukumuku,,,Pyukumuku,,0771,FALSE,TRUE,Alola,7,34,8,2,2,FALSE,https://pokejungle.net/sprites/shiny/0771.png,
 999,type-null,Type: Null,,,Type: Null,Legendary,0772,FALSE,TRUE,Alola,7,34,9,2,3,FALSE,https://pokejungle.net/sprites/shiny/0772.png,
 1000,silvally,Silvally,,,Type: Null,Legendary,0773,FALSE,TRUE,Alola,7,34,10,2,4,FALSE,https://pokejungle.net/sprites/shiny/0773.png,
