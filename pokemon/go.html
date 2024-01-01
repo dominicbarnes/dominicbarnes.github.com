@@ -53,10 +53,11 @@ redirect_from:
                         <div class="border rounded m-1 p-1">
                             {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
                             {% capture name %}{{ item["Name"] }}{% endcapture %}
+                            {% capture region %}{{ item["Region"] }}{% endcapture %}
                             {% capture variation %}{{ item["Variation"] }}{% endcapture %}
                             {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
                             {% capture special %}{{ item["Special"] }}{% endcapture %}
-                            {% include pokemon.html icon=icon name=name variation=variation go_variation=go_variation special=special %}
+                            {% include pokemon.html icon=icon name=name region=region variation=variation go_variation=go_variation special=special %}
                         </div>
                     </div>
                 {% endfor %}
@@ -79,10 +80,11 @@ redirect_from:
                         <div class="border rounded m-1 p-1">
                             {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
                             {% capture name %}{{ item["Name"] }}{% endcapture %}
+                            {% capture region %}{{ item["Region"] }}{% endcapture %}
                             {% capture variation %}{{ item["Variation"] }}{% endcapture %}
                             {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
                             {% capture special %}{{ item["Special"] }}{% endcapture %}
-                            {% include pokemon.html icon=icon name=name variation=variation go_variation=go_variation special=special %}
+                            {% include pokemon.html icon=icon name=name region=region variation=variation go_variation=go_variation special=special %}
                         </div>
                     </div>
                 {% endfor %}
@@ -119,8 +121,9 @@ redirect_from:
                             <div class="border rounded m-1 p-1">
                                 {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
                                 {% capture name %}{{ item["Name"] }}{% endcapture %}
+                                {% capture region %}{{ item["Region"] }}{% endcapture %}
                                 {% capture variation %}{{ item["Variation"] }}{% endcapture %}
-                                {% include pokemon.html icon=icon name=name variation=variation %}
+                                {% include pokemon.html icon=icon name=name region=region variation=variation %}
                             </div>
                         </div>
                     {% endfor %}
@@ -135,9 +138,10 @@ redirect_from:
                             <div class="border rounded m-1 p-1">
                                 {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
                                 {% capture name %}{{ item["Name"] }}{% endcapture %}
+                                {% capture region %}{{ item["Region"] }}{% endcapture %}
                                 {% capture variation %}{{ item["Variation"] }}{% endcapture %}
                                 {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
-                                {% include pokemon.html icon=icon name=name variation=variation go_variation=go_variation %}
+                                {% include pokemon.html icon=icon name=name region=region variation=variation go_variation=go_variation %}
                             </div>
                         </div>
                     {% endfor %}

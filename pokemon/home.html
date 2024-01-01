@@ -46,9 +46,10 @@ image:
                         <div class="border rounded m-1 p-1">
                             {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
                             {% capture name %}{{ item["Name"] }}{% endcapture %}
+                            {% capture region %}{{ item["Region"] }}{% endcapture %}
                             {% capture variation %}{{ item["Variation"] }}{% endcapture %}
                             {% capture special %}{{ item["Special"] }}{% endcapture %}
-                            {% include pokemon.html icon=icon name=name variation=variation special=special %}
+                            {% include pokemon.html icon=icon name=name region=region variation=variation special=special %}
                         </div>
                     </div>
                 {% endfor %}
@@ -71,6 +72,7 @@ image:
                         <div class="border rounded m-1 p-1">
                             {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
                             {% capture name %}{{ item["Name"] }}{% endcapture %}
+                            {% capture region %}{{ item["Region"] }}{% endcapture %}
                             {% capture variation %}{{ item["Variation"] }}{% endcapture %}
                             {% capture special %}{{ item["Special"] }}{% endcapture %}
                             {% capture mark %}{{ item['Origin Mark'] }}{% endcapture %}
@@ -78,7 +80,7 @@ image:
                             {% capture gmax %}{{ item['Gmax'] }}{% endcapture %}
                             {% capture ball %}{{ item['Ball'] }}{% endcapture %}
                             {% capture hacked %}{{ item['Hacked'] }}{% endcapture %}
-                            {% include pokemon.html icon=icon name=name variation=variation special=special mark=mark alpha=alpha gmax=gmax ball=ball hacked=hacked %}
+                            {% include pokemon.html icon=icon name=name region=region variation=variation special=special mark=mark alpha=alpha gmax=gmax ball=ball hacked=hacked %}
                         </div>
                     </div>
                 {% endfor %}

@@ -4,6 +4,24 @@
         <input id="{{ include.prefix }}-filter-name" type="text" name="name" class="form-control" placeholder="Pokemon Name">
     </div>
     <div class="col-md-auto">
+        <label for="{{ include.prefix }}-filter-region" class="visually-hidden">Region</label>
+        <select id="{{ include.prefix }}-filter-region" name="region" class="form-select">
+            <option value="">Any Region</option>
+            <option>Kanto</option>
+            <option>Johto</option>
+            <option>Hoenn</option>
+            <option>Sinnoh</option>
+            <option>Unova</option>
+            <option>Kalos</option>
+            <option>Alola</option>
+            <option>Galar</option>
+            <option>Hisui</option>
+            <option>Paldea</option>
+            <option>Kitakami</option>
+            <option value="Blueberry">Blueberry Academy</option>
+        </select>
+    </div>
+    <div class="col-md-auto">
         <label for="{{ include.prefix }}-filter-special" class="visually-hidden">Category</label>
         <select id="{{ include.prefix }}-filter-special" name="special" class="form-select">
             <option value="">Any Category</option>

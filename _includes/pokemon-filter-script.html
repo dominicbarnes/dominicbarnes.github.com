@@ -9,6 +9,11 @@ document.querySelectorAll("form.pokemon-filters").forEach(node => {
             selectors.push(`[data-name*="${name}" i]`);
         }
 
+        const region = data.get("region");
+        if (region) {
+            selectors.push(`[data-region="${region}" i]`);
+        }
+
         const special = data.get("special");
         if (special) {
             selectors.push(`[data-special="${special}"]`);
