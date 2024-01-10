@@ -11,9 +11,9 @@
         {% endif %}
         {% if include.mark %}
             {% if include.mark == 'paldea' %}
-                <img src="{{ '/assets/img/origin-mark-paldea.png' | relative_url }}" alt="Origin Mark" height="24" width="19" title="Origin Mark: paldea" data-bs-toggle="tooltip">
+                <img src="{{ '/assets/img/origin-mark-paldea.png' | relative_url }}" alt="Origin Mark" height="24" width="19" loading="lazy" title="Origin Mark: paldea" data-bs-toggle="tooltip">
             {% else %}
-                <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/misc/origin-marks/home/{{ include.mark }}.png" alt="Origin Mark" height="24" width="24" title="Origin Mark: {{ include.mark }}" data-bs-toggle="tooltip">
+                <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/misc/origin-marks/home/{{ include.mark }}.png" alt="Origin Mark" height="24" width="24" loading="lazy" title="Origin Mark: {{ include.mark }}" data-bs-toggle="tooltip">
             {% endif %}
         {% endif %}
     </div>
