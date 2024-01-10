@@ -1,90 +1,91 @@
-Pokemon ID,Name,Variation,Go Variation,Checklist Name,Special,Region,National,Quantity,Icon URL
-squirtle,Squirtle,,Sunglasses,Squirtle (Sunglasses),Starter,Kanto,0007,3,https://pokejungle.net/sprites/shiny/0007.png
-caterpie,Caterpie,,,Caterpie,,Kanto,0010,1,https://pokejungle.net/sprites/shiny/0010.png
-pidgey,Pidgey,,,Pidgey,,Kanto,0016,3,https://pokejungle.net/sprites/shiny/0016.png
-rattata-male,Rattata,Male,,Rattata (Male),,Kanto,0019,1,https://pokejungle.net/sprites/shiny/0019.png
-spearow,Spearow,,,Spearow,,Kanto,0021,1,https://pokejungle.net/sprites/shiny/0021.png
-pikachu-male,Pikachu,Male,Hat,Pikachu (Male) (Hat),,Kanto,0025,3,https://pokejungle.net/sprites/shiny/0025.png
-sandshrew-alolan,Sandshrew,Alolan,,Sandshrew (Alolan),,Alola,0027,1,https://pokejungle.net/sprites/shiny/0027-1.png
-nidoran-♂,Nidoran ♂,,,Nidoran ♂,,Kanto,0032,1,https://pokejungle.net/sprites/shiny/0032.png
-jigglypuff,Jigglypuff,,,Jigglypuff,,Kanto,0039,1,https://pokejungle.net/sprites/shiny/0039.png
-oddish,Oddish,,,Oddish,,Kanto,0043,2,https://pokejungle.net/sprites/shiny/0043.png
-venonat,Venonat,,Shadow,Venonat (Shadow),,Kanto,0048,1,https://pokejungle.net/sprites/shiny/0048.png
-diglett-alolan,Diglett,Alolan,,Diglett (Alolan),,Alola,0050,1,https://pokejungle.net/sprites/shiny/0050-1.png
-diglett,Diglett,,,Diglett,,Kanto,0050,1,https://pokejungle.net/sprites/shiny/0050.png
-meowth-alolan,Meowth,Alolan,,Meowth (Alolan),,Alola,0052,4,https://pokejungle.net/sprites/shiny/0052-1.png
-geodude,Geodude,,Shadow,Geodude (Shadow),,Kanto,0074,1,https://pokejungle.net/sprites/shiny/0074.png
-geodude,Geodude,,,Geodude,,Kanto,0074,1,https://pokejungle.net/sprites/shiny/0074.png
-ponyta,Ponyta,,,Ponyta,,Kanto,0077,1,https://pokejungle.net/sprites/shiny/0077.png
-grimer-alolan,Grimer,Alolan,,Grimer (Alolan),,Alola,0088,1,https://pokejungle.net/sprites/shiny/0088-1.png
-grimer,Grimer,,,Grimer,,Kanto,0088,1,https://pokejungle.net/sprites/shiny/0088.png
-onix,Onix,,,Onix,,Kanto,0095,2,https://pokejungle.net/sprites/shiny/0095.png
-voltorb,Voltorb,,,Voltorb,,Kanto,0100,1,https://pokejungle.net/sprites/shiny/0100.png
-exeggutor-alolan,Exeggutor,Alolan,,Exeggutor (Alolan),,Alola,0103,1,https://pokejungle.net/sprites/shiny/0103-1.png
-lickitung,Lickitung,,,Lickitung,,Kanto,0108,1,https://pokejungle.net/sprites/shiny/0108.png
-horsea,Horsea,,,Horsea,,Kanto,0116,3,https://pokejungle.net/sprites/shiny/0116.png
-seadra,Seadra,,,Seadra,,Kanto,0117,1,https://pokejungle.net/sprites/shiny/0117.png
-pinsir,Pinsir,,Shadow,Pinsir (Shadow),,Kanto,0127,1,https://pokejungle.net/sprites/shiny/0127.png
-gyarados-male,Gyarados,Male,,Gyarados (Male),,Kanto,0130,1,https://pokejungle.net/sprites/shiny/0130.png
-zapdos,Zapdos,,,Zapdos,Legendary,Kanto,0145,1,https://pokejungle.net/sprites/shiny/0145.png
-natu,Natu,,,Natu,,Johto,0177,1,https://pokejungle.net/sprites/shiny/0177.png
-marill,Marill,,,Marill,,Johto,0183,3,https://pokejungle.net/sprites/shiny/0183.png
-aipom-male,Aipom,Male,,Aipom (Male),,Johto,0190,2,https://pokejungle.net/sprites/shiny/0190.png
-sunkern,Sunkern,,,Sunkern,,Johto,0191,1,https://pokejungle.net/sprites/shiny/0191.png
-yanma,Yanma,,,Yanma,,Johto,0193,1,https://pokejungle.net/sprites/shiny/0193.png
-murkrow-female,Murkrow,Female,,Murkrow (Female),,Johto,0198,1,https://pokejungle.net/sprites/shiny/0198-f.png
-murkrow-male,Murkrow,Male,Shadow,Murkrow (Male) (Shadow),,Johto,0198,1,https://pokejungle.net/sprites/shiny/0198.png
-misdreavus,Misdreavus,,,Misdreavus,,Johto,0200,4,https://pokejungle.net/sprites/shiny/0200.png
-wobbuffet-male,Wobbuffet,Male,,Wobbuffet (Male),,Johto,0202,1,https://pokejungle.net/sprites/shiny/0202.png
-pineco,Pineco,,,Pineco,,Johto,0204,2,https://pokejungle.net/sprites/shiny/0204.png
-snubbull,Snubbull,,,Snubbull,,Johto,0209,5,https://pokejungle.net/sprites/shiny/0209.png
-sneasel-female,Sneasel,Female,,Sneasel (Female),,Johto,0215,3,https://pokejungle.net/sprites/shiny/0215-f.png
-sneasel-male,Sneasel,Male,,Sneasel (Male),,Johto,0215,4,https://pokejungle.net/sprites/shiny/0215.png
-houndour,Houndour,,,Houndour,,Johto,0228,1,https://pokejungle.net/sprites/shiny/0228.png
-lugia,Lugia,,,Lugia,Legendary,Johto,0249,1,https://pokejungle.net/sprites/shiny/0249.png
-ho-oh,Ho-Oh,,,Ho-Oh,Legendary,Johto,0250,2,https://pokejungle.net/sprites/shiny/0250.png
-lotad,Lotad,,,Lotad,,Hoenn,0270,3,https://pokejungle.net/sprites/shiny/0270.png
-taillow,Taillow,,,Taillow,,Hoenn,0276,4,https://pokejungle.net/sprites/shiny/0276.png
-wingull,Wingull,,,Wingull,,Hoenn,0278,3,https://pokejungle.net/sprites/shiny/0278.png
-azurill,Azurill,,,Azurill,Baby,Hoenn,0298,1,https://pokejungle.net/sprites/shiny/0298.png
-mawile,Mawile,,Shadow,Mawile (Shadow),,Hoenn,0303,2,https://pokejungle.net/sprites/shiny/0303.png
-aron,Aron,,,Aron,,Hoenn,0304,4,https://pokejungle.net/sprites/shiny/0304.png
-meditite-female,Meditite,Female,,Meditite (Female),,Hoenn,0307,2,https://pokejungle.net/sprites/shiny/0307-f.png
-plusle,Plusle,,,Plusle,,Hoenn,0311,4,https://pokejungle.net/sprites/shiny/0311.png
-minun,Minun,,,Minun,,Hoenn,0312,3,https://pokejungle.net/sprites/shiny/0312.png
-carvanha,Carvanha,,Shadow,Carvanha (Shadow),,Hoenn,0318,1,https://pokejungle.net/sprites/shiny/0318.png
-wailmer,Wailmer,,,Wailmer,,Hoenn,0320,1,https://pokejungle.net/sprites/shiny/0320.png
-barboach,Barboach,,,Barboach,,Hoenn,0339,1,https://pokejungle.net/sprites/shiny/0339.png
-feebas,Feebas,,,Feebas,,Hoenn,0349,1,https://pokejungle.net/sprites/shiny/0349.png
-castform,Castform,,,Castform,,Hoenn,0351,4,https://pokejungle.net/sprites/shiny/0351.png
-absol,Absol,,Sunglasses,Absol (Sunglasses),,Hoenn,0359,1,https://pokejungle.net/sprites/shiny/0359.png
-snorunt,Snorunt,,,Snorunt,,Hoenn,0361,1,https://pokejungle.net/sprites/shiny/0361.png
-clamperl,Clamperl,,,Clamperl,,Hoenn,0366,1,https://pokejungle.net/sprites/shiny/0366.png
-luvdisc,Luvdisc,,,Luvdisc,,Hoenn,0370,1,https://pokejungle.net/sprites/shiny/0370.png
-registeel,Registeel,,,Registeel,Legendary,Hoenn,0379,1,https://pokejungle.net/sprites/shiny/0379.png
-latias,Latias,,,Latias,Legendary,Hoenn,0380,2,https://pokejungle.net/sprites/shiny/0380.png
-groudon,Groudon,,,Groudon,Legendary,Hoenn,0383,1,https://pokejungle.net/sprites/shiny/0383.png
-deoxys-speed,Deoxys,Speed,,Deoxys (Speed),Mythical,Hoenn,0386,1,https://pokejungle.net/sprites/shiny/0386-3.png
-deoxys,Deoxys,,,Deoxys,Mythical,Hoenn,0386,1,https://pokejungle.net/sprites/shiny/0386.png
-shinx-male,Shinx,Male,Hat,Shinx (Male) (Hat),,Sinnoh,0403,1,https://pokejungle.net/sprites/shiny/0403.png
-budew,Budew,,,Budew,Baby,Sinnoh,0406,1,https://pokejungle.net/sprites/shiny/0406.png
-drifblim,Drifblim,,,Drifblim,,Sinnoh,0426,1,https://pokejungle.net/sprites/shiny/0426.png
-buneary,Buneary,,,Buneary,,Sinnoh,0427,4,https://pokejungle.net/sprites/shiny/0427.png
-bronzor,Bronzor,,,Bronzor,,Sinnoh,0436,8,https://pokejungle.net/sprites/shiny/0436.png
-heatran,Heatran,,,Heatran,Legendary,Sinnoh,0485,2,https://pokejungle.net/sprites/shiny/0485.png
-giratina,Giratina,,Altered,Giratina (Altered),Legendary,Sinnoh,0487,2,https://pokejungle.net/sprites/shiny/0487.png
-giratina,Giratina,,Origin,Giratina (Origin),Legendary,Sinnoh,0487,2,https://pokejungle.net/sprites/shiny/0487.png
-darkrai,Darkrai,,,Darkrai,Mythical,Sinnoh,0491,2,https://pokejungle.net/sprites/shiny/0491.png
-samurott-hisuian,Samurott,Hisuian,,Samurott (Hisuian),Starter,Hisui,0503,2,https://pokejungle.net/sprites/shiny/0503-1.png
-pidove,Pidove,,,Pidove,,Unova,0519,2,https://pokejungle.net/sprites/shiny/0519.png
-stunfisk-galarian,Stunfisk,Galarian,,Stunfisk (Galarian),,Galar,0618,2,https://pokejungle.net/sprites/shiny/0618-1.png
-stunfisk,Stunfisk,,,Stunfisk,,Unova,0618,1,https://pokejungle.net/sprites/shiny/0618.png
-virizion,Virizion,,,Virizion,Legendary,Unova,0640,1,https://pokejungle.net/sprites/shiny/0640.png
-reshiram,Reshiram,,,Reshiram,Legendary,Unova,0643,1,https://pokejungle.net/sprites/shiny/0643.png
-zekrom,Zekrom,,,Zekrom,Legendary,Unova,0644,1,https://pokejungle.net/sprites/shiny/0644.png
-landorus-incarnate,Landorus,Incarnate,,Landorus (Incarnate),Legendary,Unova,0645,1,https://pokejungle.net/sprites/shiny/0645.png
-bunnelby,Bunnelby,,,Bunnelby,,Kalos,0659,4,https://pokejungle.net/sprites/shiny/0659.png
-inkay,Inkay,,,Inkay,,Kalos,0686,2,https://pokejungle.net/sprites/shiny/0686.png
-xerneas,Xerneas,,,Xerneas,Legendary,Kalos,0716,2,https://pokejungle.net/sprites/shiny/0716.png
-meltan,Meltan,,,Meltan,Mythical,Alola,0808,1,https://pokejungle.net/sprites/shiny/0808.png
-melmetal,Melmetal,,,Melmetal,Mythical,Alola,0809,1,https://pokejungle.net/sprites/shiny/0809.png
+Pokemon ID,Name,Variation,Variation Sort,Go Variation,Special,Region,National,Quantity,Icon URL
+squirtle,Squirtle,,,Sunglasses,Starter,Kanto,0007,3,https://pokejungle.net/sprites/shiny/0007.png
+blastoise,Blastoise,,,Sunglasses,Starter,Kanto,0009,1,https://pokejungle.net/sprites/shiny/0009.png
+caterpie,Caterpie,,,,,Kanto,0010,1,https://pokejungle.net/sprites/shiny/0010.png
+pidgey,Pidgey,,,,,Kanto,0016,3,https://pokejungle.net/sprites/shiny/0016.png
+rattata-male,Rattata,Male,1,,,Kanto,0019,1,https://pokejungle.net/sprites/shiny/0019.png
+spearow,Spearow,,,,,Kanto,0021,1,https://pokejungle.net/sprites/shiny/0021.png
+pikachu-male,Pikachu,Male,1,Hat,,Kanto,0025,3,https://pokejungle.net/sprites/shiny/0025.png
+sandshrew-alolan,Sandshrew,Alolan,2,,,Alola,0027,1,https://pokejungle.net/sprites/shiny/0027-1.png
+nidoran-♂,Nidoran ♂,,,,,Kanto,0032,1,https://pokejungle.net/sprites/shiny/0032.png
+jigglypuff,Jigglypuff,,,,,Kanto,0039,1,https://pokejungle.net/sprites/shiny/0039.png
+oddish,Oddish,,,,,Kanto,0043,2,https://pokejungle.net/sprites/shiny/0043.png
+venonat,Venonat,,,Shadow,,Kanto,0048,1,https://pokejungle.net/sprites/shiny/0048.png
+diglett,Diglett,,1,,,Kanto,0050,1,https://pokejungle.net/sprites/shiny/0050.png
+diglett-alolan,Diglett,Alolan,2,,,Alola,0050,1,https://pokejungle.net/sprites/shiny/0050-1.png
+meowth-alolan,Meowth,Alolan,2,,,Alola,0052,4,https://pokejungle.net/sprites/shiny/0052-1.png
+geodude,Geodude,,1,Shadow,,Kanto,0074,1,https://pokejungle.net/sprites/shiny/0074.png
+geodude,Geodude,,1,,,Kanto,0074,1,https://pokejungle.net/sprites/shiny/0074.png
+ponyta,Ponyta,,1,,,Kanto,0077,1,https://pokejungle.net/sprites/shiny/0077.png
+grimer,Grimer,,1,,,Kanto,0088,1,https://pokejungle.net/sprites/shiny/0088.png
+grimer-alolan,Grimer,Alolan,2,,,Alola,0088,1,https://pokejungle.net/sprites/shiny/0088-1.png
+onix,Onix,,,,,Kanto,0095,2,https://pokejungle.net/sprites/shiny/0095.png
+voltorb,Voltorb,,1,,,Kanto,0100,1,https://pokejungle.net/sprites/shiny/0100.png
+exeggutor-alolan,Exeggutor,Alolan,2,,,Alola,0103,1,https://pokejungle.net/sprites/shiny/0103-1.png
+lickitung,Lickitung,,,,,Kanto,0108,1,https://pokejungle.net/sprites/shiny/0108.png
+horsea,Horsea,,,,,Kanto,0116,3,https://pokejungle.net/sprites/shiny/0116.png
+seadra,Seadra,,,,,Kanto,0117,1,https://pokejungle.net/sprites/shiny/0117.png
+pinsir,Pinsir,,,Shadow,,Kanto,0127,1,https://pokejungle.net/sprites/shiny/0127.png
+gyarados-male,Gyarados,Male,1,,,Kanto,0130,1,https://pokejungle.net/sprites/shiny/0130.png
+zapdos,Zapdos,,1,,Legendary,Kanto,0145,2,https://pokejungle.net/sprites/shiny/0145.png
+natu,Natu,,,,,Johto,0177,1,https://pokejungle.net/sprites/shiny/0177.png
+marill,Marill,,,,,Johto,0183,3,https://pokejungle.net/sprites/shiny/0183.png
+aipom-male,Aipom,Male,1,,,Johto,0190,2,https://pokejungle.net/sprites/shiny/0190.png
+sunkern,Sunkern,,,,,Johto,0191,1,https://pokejungle.net/sprites/shiny/0191.png
+yanma,Yanma,,,,,Johto,0193,1,https://pokejungle.net/sprites/shiny/0193.png
+murkrow-male,Murkrow,Male,1,Shadow,,Johto,0198,1,https://pokejungle.net/sprites/shiny/0198.png
+murkrow-female,Murkrow,Female,2,,,Johto,0198,1,https://pokejungle.net/sprites/shiny/0198-f.png
+misdreavus,Misdreavus,,,,,Johto,0200,4,https://pokejungle.net/sprites/shiny/0200.png
+wobbuffet-male,Wobbuffet,Male,1,,,Johto,0202,1,https://pokejungle.net/sprites/shiny/0202.png
+pineco,Pineco,,,,,Johto,0204,2,https://pokejungle.net/sprites/shiny/0204.png
+snubbull,Snubbull,,,,,Johto,0209,5,https://pokejungle.net/sprites/shiny/0209.png
+sneasel-male,Sneasel,Male,1,,,Johto,0215,4,https://pokejungle.net/sprites/shiny/0215.png
+sneasel-female,Sneasel,Female,2,,,Johto,0215,3,https://pokejungle.net/sprites/shiny/0215-f.png
+houndour,Houndour,,,,,Johto,0228,1,https://pokejungle.net/sprites/shiny/0228.png
+lugia,Lugia,,,,Legendary,Johto,0249,1,https://pokejungle.net/sprites/shiny/0249.png
+ho-oh,Ho-Oh,,,,Legendary,Johto,0250,2,https://pokejungle.net/sprites/shiny/0250.png
+lotad,Lotad,,,,,Hoenn,0270,3,https://pokejungle.net/sprites/shiny/0270.png
+taillow,Taillow,,,,,Hoenn,0276,4,https://pokejungle.net/sprites/shiny/0276.png
+wingull,Wingull,,,,,Hoenn,0278,3,https://pokejungle.net/sprites/shiny/0278.png
+azurill,Azurill,,,,Baby,Hoenn,0298,1,https://pokejungle.net/sprites/shiny/0298.png
+mawile,Mawile,,,Shadow,,Hoenn,0303,2,https://pokejungle.net/sprites/shiny/0303.png
+aron,Aron,,,,,Hoenn,0304,4,https://pokejungle.net/sprites/shiny/0304.png
+meditite-female,Meditite,Female,2,,,Hoenn,0307,2,https://pokejungle.net/sprites/shiny/0307-f.png
+plusle,Plusle,,,,,Hoenn,0311,4,https://pokejungle.net/sprites/shiny/0311.png
+minun,Minun,,,,,Hoenn,0312,3,https://pokejungle.net/sprites/shiny/0312.png
+carvanha,Carvanha,,,Shadow,,Hoenn,0318,1,https://pokejungle.net/sprites/shiny/0318.png
+wailmer,Wailmer,,,,,Hoenn,0320,1,https://pokejungle.net/sprites/shiny/0320.png
+barboach,Barboach,,,,,Hoenn,0339,1,https://pokejungle.net/sprites/shiny/0339.png
+feebas,Feebas,,,,,Hoenn,0349,1,https://pokejungle.net/sprites/shiny/0349.png
+castform,Castform,,,,,Hoenn,0351,4,https://pokejungle.net/sprites/shiny/0351.png
+absol,Absol,,,Sunglasses,,Hoenn,0359,1,https://pokejungle.net/sprites/shiny/0359.png
+clamperl,Clamperl,,,,,Hoenn,0366,1,https://pokejungle.net/sprites/shiny/0366.png
+luvdisc,Luvdisc,,,,,Hoenn,0370,1,https://pokejungle.net/sprites/shiny/0370.png
+registeel,Registeel,,,,Legendary,Hoenn,0379,1,https://pokejungle.net/sprites/shiny/0379.png
+latias,Latias,,,,Legendary,Hoenn,0380,2,https://pokejungle.net/sprites/shiny/0380.png
+groudon,Groudon,,,,Legendary,Hoenn,0383,1,https://pokejungle.net/sprites/shiny/0383.png
+deoxys,Deoxys,,1,,Mythical,Hoenn,0386,1,https://pokejungle.net/sprites/shiny/0386.png
+deoxys-speed,Deoxys,Speed,4,,Mythical,Hoenn,0386,1,https://pokejungle.net/sprites/shiny/0386-3.png
+shinx-male,Shinx,Male,1,Hat,,Sinnoh,0403,1,https://pokejungle.net/sprites/shiny/0403.png
+budew,Budew,,,,Baby,Sinnoh,0406,1,https://pokejungle.net/sprites/shiny/0406.png
+drifblim,Drifblim,,,,,Sinnoh,0426,1,https://pokejungle.net/sprites/shiny/0426.png
+buneary,Buneary,,,,,Sinnoh,0427,4,https://pokejungle.net/sprites/shiny/0427.png
+bronzor,Bronzor,,,,,Sinnoh,0436,8,https://pokejungle.net/sprites/shiny/0436.png
+heatran,Heatran,,,,Legendary,Sinnoh,0485,3,https://pokejungle.net/sprites/shiny/0485.png
+giratina,Giratina,,,Altered,Legendary,Sinnoh,0487,2,https://pokejungle.net/sprites/shiny/0487.png
+giratina,Giratina,,,Origin,Legendary,Sinnoh,0487,2,https://pokejungle.net/sprites/shiny/0487.png
+darkrai,Darkrai,,,,Mythical,Sinnoh,0491,3,https://pokejungle.net/sprites/shiny/0491.png
+samurott-hisuian,Samurott,Hisuian,2,,Starter,Hisui,0503,2,https://pokejungle.net/sprites/shiny/0503-1.png
+pidove,Pidove,,,,,Unova,0519,2,https://pokejungle.net/sprites/shiny/0519.png
+stunfisk,Stunfisk,,1,,,Unova,0618,1,https://pokejungle.net/sprites/shiny/0618.png
+stunfisk-galarian,Stunfisk,Galarian,2,,,Galar,0618,2,https://pokejungle.net/sprites/shiny/0618-1.png
+virizion,Virizion,,,,Legendary,Unova,0640,1,https://pokejungle.net/sprites/shiny/0640.png
+reshiram,Reshiram,,,,Legendary,Unova,0643,1,https://pokejungle.net/sprites/shiny/0643.png
+zekrom,Zekrom,,,,Legendary,Unova,0644,1,https://pokejungle.net/sprites/shiny/0644.png
+landorus-incarnate,Landorus,Incarnate,1,,Legendary,Unova,0645,1,https://pokejungle.net/sprites/shiny/0645.png
+bunnelby,Bunnelby,,,,,Kalos,0659,4,https://pokejungle.net/sprites/shiny/0659.png
+inkay,Inkay,,,,,Kalos,0686,2,https://pokejungle.net/sprites/shiny/0686.png
+xerneas,Xerneas,,,,Legendary,Kalos,0716,2,https://pokejungle.net/sprites/shiny/0716.png
+meltan,Meltan,,,,Mythical,Alola,0808,1,https://pokejungle.net/sprites/shiny/0808.png
+melmetal,Melmetal,,,,Mythical,Alola,0809,1,https://pokejungle.net/sprites/shiny/0809.png
+wyrdeer,Wyrdeer,,,,,Hisui,0899,1,https://pokejungle.net/sprites/shiny/0899.png
