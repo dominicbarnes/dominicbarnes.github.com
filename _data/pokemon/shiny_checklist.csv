@@ -1178,7 +1178,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,Has S
 1177,braviary-hisuian,Braviary,Hisuian,2,Rufflet,,0628,TRUE,TRUE,Hisui,9,40,7,2,1,TRUE,https://pokejungle.net/sprites/shiny/0628-1.png,
 1178,sliggoo-hisuian,Sliggoo,Hisuian,2,Goomy,,0705,FALSE,TRUE,Hisui,9,40,8,2,2,FALSE,https://pokejungle.net/sprites/shiny/0705-1.png,
 1179,goodra-hisuian,Goodra,Hisuian,2,Goomy,,0706,FALSE,TRUE,Hisui,9,40,9,2,3,FALSE,https://pokejungle.net/sprites/shiny/0706-1.png,
-1180,avalugg-hisuian,Avalugg,Hisuian,2,Bergmite,,0713,TRUE,TRUE,Hisui,9,40,10,2,4,Burgermeister,https://pokejungle.net/sprites/shiny/0713-1.png,
+1180,avalugg-hisuian,Avalugg,Hisuian,2,Bergmite,,0713,TRUE,TRUE,Hisui,9,40,10,2,4,TRUE,https://pokejungle.net/sprites/shiny/0713-1.png,
 1181,decidueye-hisuian,Decidueye,Hisuian,2,Rowlet,Starter,0724,FALSE,TRUE,Hisui,9,40,11,2,5,TRUE,https://pokejungle.net/sprites/shiny/0724-1.png,
 1182,wyrdeer,Wyrdeer,,,Stantler,,0899,TRUE,TRUE,Hisui,9,40,12,2,6,TRUE,https://pokejungle.net/sprites/shiny/0899.png,
 1183,kleavor,Kleavor,,,Scyther,,0900,TRUE,TRUE,Hisui,9,40,13,3,1,TRUE,https://pokejungle.net/sprites/shiny/0900.png,
