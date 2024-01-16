@@ -1,5 +1,4 @@
 Pokemon ID,Name,Variation,Variation Sort,Checklist Name,Special,Region,National,Origin Mark,Ball,Quantity,Alpha,Gmax,Hacked,Event,Icon URL
-charmander,Charmander,,,Charmander,Starter,Kanto,0004,lets-go,great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0004.png
 charmander,Charmander,,,Charmander,Starter,Kanto,0004,go,strange,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0004.png
 caterpie,Caterpie,,,Caterpie,,Kanto,0010,lets-go,poke,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0010.png
 kakuna,Kakuna,,,Kakuna,,Kanto,0014,lets-go,great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0014.png
@@ -8,7 +7,6 @@ pidgey,Pidgey,,,Pidgey,,Kanto,0016,lets-go,poke,2,FALSE,FALSE,FALSE,FALSE,https:
 pidgeotto,Pidgeotto,,,Pidgeotto,,Kanto,0017,lets-go,ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0017.png
 pikachu-male,Pikachu,Male,1,Pikachu (Male),,Kanto,0025,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0025.png
 pikachu-female,Pikachu,Female,2,Pikachu (Female),,Kanto,0025,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0025-f.png
-clefairy,Clefairy,,,Clefairy,,Kanto,0035,galar,cherish,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0035.png
 zubat-male,Zubat,Male,1,Zubat (Male),,Kanto,0041,lets-go,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0041.png
 zubat-female,Zubat,Female,2,Zubat (Female),,Kanto,0041,lets-go,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0041-f.png
 paras,Paras,,,Paras,,Kanto,0046,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0046.png
@@ -31,7 +29,7 @@ rapidash,Rapidash,,1,Rapidash,,Kanto,0078,lets-go,ultra,1,FALSE,FALSE,FALSE,FALS
 slowbro,Slowbro,,1,Slowbro,,Kanto,0080,go,ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0080.png
 slowbro-galarian,Slowbro,Galarian,2,Slowbro (Galarian),,Galar,0080,go,great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0080-1.png
 doduo-male,Doduo,Male,1,Doduo (Male),,Kanto,0084,lets-go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0084.png
-gastly,Gastly,,,Gastly,,Kanto,0092,hisui,hisuian-ultra,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0092.png
+gastly,Gastly,,,Gastly,,Kanto,0092,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0092.png
 gastly,Gastly,,,Gastly,,Kanto,0092,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0092.png
 gengar,Gengar,,,Gengar,,Kanto,0094,go,ultra,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0094.png
 krabby,Krabby,,,Krabby,,Kanto,0098,lets-go,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0098.png
@@ -102,8 +100,6 @@ budew,Budew,,,Budew,Baby,Sinnoh,0406,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,FALS
 combee-male,Combee,Male,1,Combee (Male),,Sinnoh,0415,hisui,feather,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0415.png
 combee-male,Combee,Male,1,Combee (Male),,Sinnoh,0415,hisui,hisuian-heavy,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0415.png
 floatzel-male,Floatzel,Male,1,Floatzel (Male),,Sinnoh,0419,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0419.png
-shellos-east,Shellos,East,1,Shellos (East),,Sinnoh,0422,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0422-1.png
-drifloon,Drifloon,,,Drifloon,,Sinnoh,0425,hisui,leaden,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0425.png
 drifloon,Drifloon,,,Drifloon,,Sinnoh,0425,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0425.png
 drifloon,Drifloon,,,Drifloon,,Sinnoh,0425,hisui,feather,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0425.png
 buneary,Buneary,,,Buneary,,Sinnoh,0427,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0427.png
