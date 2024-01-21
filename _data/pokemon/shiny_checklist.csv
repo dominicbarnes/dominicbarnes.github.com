@@ -1302,7 +1302,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,Has S
 1301,ting-lu,Ting-Lu,,,Ting-Lu,Legendary,1003,FALSE,FALSE,Paldea,10,44,11,2,5,FALSE,,
 1302,chi-yu,Chi-Yu,,,Chi-Yu,Legendary,1004,FALSE,FALSE,Paldea,10,44,12,2,6,FALSE,,
 1303,roaring-moon,Roaring Moon,,,Roaring Moon,Paradox,1005,FALSE,TRUE,Paldea,10,44,13,3,1,TRUE,https://pokejungle.net/sprites/shiny/1005.png,
-1304,iron-valiant,Iron Valiant,,,Iron Valiant,Paradox,1006,FALSE,TRUE,Paldea,10,44,14,3,2,FALSE,https://pokejungle.net/sprites/shiny/1006.png,
+1304,iron-valiant,Iron Valiant,,,Iron Valiant,Paradox,1006,FALSE,TRUE,Paldea,10,44,14,3,2,TRUE,https://pokejungle.net/sprites/shiny/1006.png,
 1305,koraidon,Koraidon,,,Koraidon,Legendary,1007,FALSE,FALSE,Paldea,10,44,15,3,3,FALSE,,
 1306,miraidon,Miraidon,,,Miraidon,Legendary,1008,FALSE,FALSE,Paldea,10,44,16,3,4,FALSE,,
 1307,walking-wake,Walking Wake,,,Walking Wake,Paradox,1009,FALSE,FALSE,Paldea,10,44,17,3,5,FALSE,,
