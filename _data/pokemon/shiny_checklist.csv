@@ -876,7 +876,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,Has S
 875,spritzee,Spritzee,,,Spritzee,,0682,TRUE,TRUE,Kalos,6,30,5,1,5,FALSE,https://pokejungle.net/sprites/shiny/0682.png,
 876,aromatisse,Aromatisse,,,Spritzee,,0683,TRUE,TRUE,Kalos,6,30,6,1,6,TRUE,https://pokejungle.net/sprites/shiny/0683.png,
 877,swirlix,Swirlix,,,Swirlix,,0684,TRUE,TRUE,Kalos,6,30,7,2,1,FALSE,https://pokejungle.net/sprites/shiny/0684.png,
-878,slurpuff,Slurpuff,,,Swirlix,,0685,TRUE,TRUE,Kalos,6,30,8,2,2,FALSE,https://pokejungle.net/sprites/shiny/0685.png,
+878,slurpuff,Slurpuff,,,Swirlix,,0685,TRUE,TRUE,Kalos,6,30,8,2,2,Seraphim8V,https://pokejungle.net/sprites/shiny/0685.png,
 879,inkay,Inkay,,,Inkay,,0686,TRUE,TRUE,Kalos,6,30,9,2,3,TRUE,https://pokejungle.net/sprites/shiny/0686.png,
 880,malamar,Malamar,,,Inkay,,0687,TRUE,TRUE,Kalos,6,30,10,2,4,TRUE,https://pokejungle.net/sprites/shiny/0687.png,
 881,binacle,Binacle,,,Binacle,,0688,TRUE,TRUE,Kalos,6,30,11,2,5,TRUE,https://pokejungle.net/sprites/shiny/0688.png,
