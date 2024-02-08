@@ -1011,7 +1011,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,Has S
 1010,togedemaru,Togedemaru,,,Togedemaru,,0777,FALSE,TRUE,Alola,7,34,20,4,2,FALSE,https://pokejungle.net/sprites/shiny/0777.png,
 1011,mimikyu,Mimikyu,,,Mimikyu,,0778,FALSE,TRUE,Alola,7,34,21,4,3,TRUE,https://pokejungle.net/sprites/shiny/0778.png,
 1012,bruxish,Bruxish,,,Bruxish,,0779,FALSE,TRUE,Alola,7,34,22,4,4,FALSE,https://pokejungle.net/sprites/shiny/0779.png,
-1013,drampa,Drampa,,,Drampa,,0780,FALSE,TRUE,Alola,7,34,23,4,5,TRUE,https://pokejungle.net/sprites/shiny/0780.png,
+1013,drampa,Drampa,,,Drampa,,0780,TRUE,TRUE,Alola,7,34,23,4,5,TRUE,https://pokejungle.net/sprites/shiny/0780.png,
 1014,dhelmise,Dhelmise,,,Dhelmise,,0781,FALSE,TRUE,Alola,7,34,24,4,6,FALSE,https://pokejungle.net/sprites/shiny/0781.png,
 1015,jangmo-o,Jangmo-o,,,Jangmo-o,,0782,FALSE,TRUE,Alola,7,34,25,5,1,TRUE,https://pokejungle.net/sprites/shiny/0782.png,
 1016,hakamo-o,Hakamo-o,,,Jangmo-o,,0783,FALSE,TRUE,Alola,7,34,26,5,2,TRUE,https://pokejungle.net/sprites/shiny/0783.png,

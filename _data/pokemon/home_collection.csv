@@ -1,5 +1,8 @@
 Pokemon ID,Name,Variation,Variation Sort,Checklist Name,Special,Region,National,Origin Mark,Ball,Quantity,Alpha,Gmax,Hacked,Event,Icon URL
+bulbasaur,Bulbasaur,,,Bulbasaur,Starter,Kanto,0001,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0001.png
 charmander,Charmander,,,Charmander,Starter,Kanto,0004,go,strange,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0004.png
+charmander,Charmander,,,Charmander,Starter,Kanto,0004,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0004.png
+squirtle,Squirtle,,,Squirtle,Starter,Kanto,0007,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0007.png
 caterpie,Caterpie,,,Caterpie,,Kanto,0010,lets-go,poke,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0010.png
 kakuna,Kakuna,,,Kakuna,,Kanto,0014,lets-go,great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0014.png
 pidgey,Pidgey,,,Pidgey,,Kanto,0016,lets-go,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0016.png
@@ -63,8 +66,11 @@ delibird,Delibird,,,Delibird,,Johto,0225,paldea,premier,1,FALSE,FALSE,FALSE,FALS
 elekid,Elekid,,,Elekid,Baby,Johto,0239,hisui,leaden,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0239.png
 larvitar,Larvitar,,,Larvitar,,Johto,0246,go,poke,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0246.png
 treecko,Treecko,,,Treecko,Starter,Hoenn,0252,go,great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0252.png
+sceptile,Sceptile,,,Sceptile,Starter,Hoenn,0254,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0254.png
 torchic-male,Torchic,Male,1,Torchic (Male),Starter,Hoenn,0255,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0255.png
+blaziken-male,Blaziken,Male,1,Blaziken (Male),Starter,Hoenn,0257,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0257.png
 mudkip,Mudkip,,,Mudkip,Starter,Hoenn,0258,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0258.png
+swampert,Swampert,,,Swampert,Starter,Hoenn,0260,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0260.png
 zigzagoon-galarian,Zigzagoon,Galarian,2,Zigzagoon (Galarian),,Galar,0263,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0263-1.png
 silcoon,Silcoon,,,Silcoon,,Hoenn,0266,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0266.png
 beautifly-male,Beautifly,Male,1,Beautifly (Male),,Hoenn,0267,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0267.png
