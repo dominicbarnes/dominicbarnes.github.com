@@ -19,7 +19,6 @@ geodude,Geodude,,1,Shadow,,Kanto,0074,1,https://pokejungle.net/sprites/shiny/007
 geodude,Geodude,,1,,,Kanto,0074,1,https://pokejungle.net/sprites/shiny/0074.png
 ponyta,Ponyta,,1,,,Kanto,0077,1,https://pokejungle.net/sprites/shiny/0077.png
 grimer,Grimer,,1,,,Kanto,0088,1,https://pokejungle.net/sprites/shiny/0088.png
-grimer-alolan,Grimer,Alolan,2,,,Alola,0088,1,https://pokejungle.net/sprites/shiny/0088-1.png
 onix,Onix,,,,,Kanto,0095,2,https://pokejungle.net/sprites/shiny/0095.png
 voltorb,Voltorb,,1,,,Kanto,0100,1,https://pokejungle.net/sprites/shiny/0100.png
 exeggutor-alolan,Exeggutor,Alolan,2,,,Alola,0103,1,https://pokejungle.net/sprites/shiny/0103-1.png
@@ -84,8 +83,8 @@ reshiram,Reshiram,,,,Legendary,Unova,0643,1,https://pokejungle.net/sprites/shiny
 zekrom,Zekrom,,,,Legendary,Unova,0644,1,https://pokejungle.net/sprites/shiny/0644.png
 landorus-incarnate,Landorus,Incarnate,1,,Legendary,Unova,0645,1,https://pokejungle.net/sprites/shiny/0645.png
 bunnelby,Bunnelby,,,,,Kalos,0659,3,https://pokejungle.net/sprites/shiny/0659.png
-inkay,Inkay,,,,,Kalos,0686,2,https://pokejungle.net/sprites/shiny/0686.png
+inkay,Inkay,,,,,Kalos,0686,1,https://pokejungle.net/sprites/shiny/0686.png
 xerneas,Xerneas,,,,Legendary,Kalos,0716,2,https://pokejungle.net/sprites/shiny/0716.png
-decidueye-hisuian,Decidueye,Hisuian,2,,Starter,Hisui,0724,2,https://pokejungle.net/sprites/shiny/0724-1.png
+decidueye-hisuian,Decidueye,Hisuian,2,,Starter,Hisui,0724,1,https://pokejungle.net/sprites/shiny/0724-1.png
 meltan,Meltan,,,,Mythical,Alola,0808,1,https://pokejungle.net/sprites/shiny/0808.png
 melmetal,Melmetal,,,,Mythical,Alola,0809,1,https://pokejungle.net/sprites/shiny/0809.png
