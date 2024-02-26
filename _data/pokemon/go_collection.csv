@@ -15,6 +15,7 @@ diglett,Diglett,,1,,,Kanto,0050,1,https://pokejungle.net/sprites/shiny/0050.png
 diglett-alolan,Diglett,Alolan,2,,,Alola,0050,1,https://pokejungle.net/sprites/shiny/0050-1.png
 meowth,Meowth,,1,,,Kanto,0052,1,https://pokejungle.net/sprites/shiny/0052.png
 meowth-alolan,Meowth,Alolan,2,,,Alola,0052,4,https://pokejungle.net/sprites/shiny/0052-1.png
+growlithe-hisuian,Growlithe,Hisuian,2,,,Hisui,0058,1,https://pokejungle.net/sprites/shiny/0058-1.png
 geodude,Geodude,,1,Shadow,,Kanto,0074,1,https://pokejungle.net/sprites/shiny/0074.png
 geodude,Geodude,,1,,,Kanto,0074,1,https://pokejungle.net/sprites/shiny/0074.png
 ponyta,Ponyta,,1,,,Kanto,0077,1,https://pokejungle.net/sprites/shiny/0077.png
@@ -65,13 +66,17 @@ latias,Latias,,,,Legendary,Hoenn,0380,2,https://pokejungle.net/sprites/shiny/038
 groudon,Groudon,,,,Legendary,Hoenn,0383,1,https://pokejungle.net/sprites/shiny/0383.png
 deoxys,Deoxys,,1,,Mythical,Hoenn,0386,1,https://pokejungle.net/sprites/shiny/0386.png
 deoxys-speed,Deoxys,Speed,4,,Mythical,Hoenn,0386,1,https://pokejungle.net/sprites/shiny/0386-3.png
-shinx-male,Shinx,Male,1,Hat,,Sinnoh,0403,1,https://pokejungle.net/sprites/shiny/0403.png
 budew,Budew,,,,Baby,Sinnoh,0406,1,https://pokejungle.net/sprites/shiny/0406.png
+shieldon,Shieldon,,,,,Sinnoh,0410,1,https://pokejungle.net/sprites/shiny/0410.png
 buneary,Buneary,,,,,Sinnoh,0427,4,https://pokejungle.net/sprites/shiny/0427.png
+chingling,Chingling,,,,Baby,Sinnoh,0433,1,https://pokejungle.net/sprites/shiny/0433.png
 bronzor,Bronzor,,,,,Sinnoh,0436,8,https://pokejungle.net/sprites/shiny/0436.png
+riolu,Riolu,,,,Baby,Sinnoh,0447,1,https://pokejungle.net/sprites/shiny/0447.png
+palkia,Palkia,,,,Legendary,Sinnoh,0484,1,https://pokejungle.net/sprites/shiny/0484.png
 heatran,Heatran,,,,Legendary,Sinnoh,0485,3,https://pokejungle.net/sprites/shiny/0485.png
 giratina,Giratina,,,Altered,Legendary,Sinnoh,0487,2,https://pokejungle.net/sprites/shiny/0487.png
 giratina,Giratina,,,Origin,Legendary,Sinnoh,0487,2,https://pokejungle.net/sprites/shiny/0487.png
+cresselia,Cresselia,,,,Legendary,Sinnoh,0488,1,https://pokejungle.net/sprites/shiny/0488.png
 darkrai,Darkrai,,,,Mythical,Sinnoh,0491,3,https://pokejungle.net/sprites/shiny/0491.png
 samurott-hisuian,Samurott,Hisuian,2,,Starter,Hisui,0503,2,https://pokejungle.net/sprites/shiny/0503-1.png
 pidove,Pidove,,,,,Unova,0519,2,https://pokejungle.net/sprites/shiny/0519.png
@@ -85,6 +90,5 @@ landorus-incarnate,Landorus,Incarnate,1,,Legendary,Unova,0645,1,https://pokejung
 bunnelby,Bunnelby,,,,,Kalos,0659,3,https://pokejungle.net/sprites/shiny/0659.png
 inkay,Inkay,,,,,Kalos,0686,1,https://pokejungle.net/sprites/shiny/0686.png
 xerneas,Xerneas,,,,Legendary,Kalos,0716,2,https://pokejungle.net/sprites/shiny/0716.png
-decidueye-hisuian,Decidueye,Hisuian,2,,Starter,Hisui,0724,1,https://pokejungle.net/sprites/shiny/0724-1.png
 meltan,Meltan,,,,Mythical,Alola,0808,1,https://pokejungle.net/sprites/shiny/0808.png
 melmetal,Melmetal,,,,Mythical,Alola,0809,1,https://pokejungle.net/sprites/shiny/0809.png
