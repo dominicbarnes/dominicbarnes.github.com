@@ -91,9 +91,11 @@ image:
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-  const trigger = document.querySelector(`ul.nav a[href="${window.location.hash}"]`);
-  const tab = new bootstrap.Tab(trigger);
-  tab.show();
+    if (window.location.hash) {
+        const trigger = document.querySelector(`ul.nav a[href="${window.location.hash}"]`);
+        const tab = new bootstrap.Tab(trigger);
+        tab.show();
+    }
 });
 </script>
 
