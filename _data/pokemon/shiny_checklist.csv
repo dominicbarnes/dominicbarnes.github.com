@@ -1090,7 +1090,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,Has S
 1089,boltund,Boltund,,,Yamper,,0836,FALSE,TRUE,Galar,8,37,9,2,3,FALSE,https://pokejungle.net/sprites/shiny/0836.png,
 1090,rolycoly,Rolycoly,,,Rolycoly,,0837,FALSE,TRUE,Galar,8,37,10,2,4,FALSE,https://pokejungle.net/sprites/shiny/0837.png,
 1091,carkol,Carkol,,,Rolycoly,,0838,FALSE,TRUE,Galar,8,37,11,2,5,FALSE,https://pokejungle.net/sprites/shiny/0838.png,
-1092,coalossal,Coalossal,,,Rolycoly,,0839,FALSE,TRUE,Galar,8,37,12,2,6,FALSE,https://pokejungle.net/sprites/shiny/0839.png,
+1092,coalossal,Coalossal,,,Rolycoly,,0839,FALSE,TRUE,Galar,8,37,12,2,6,TRUE,https://pokejungle.net/sprites/shiny/0839.png,
 1093,applin,Applin,,,Applin,,0840,FALSE,TRUE,Galar,8,37,13,3,1,TRUE,https://pokejungle.net/sprites/shiny/0840.png,
 1094,flapple,Flapple,,,Applin,,0841,FALSE,TRUE,Galar,8,37,14,3,2,TRUE,https://pokejungle.net/sprites/shiny/0841.png,
 1095,appletun,Appletun,,,Applin,,0842,FALSE,TRUE,Galar,8,37,15,3,3,TRUE,https://pokejungle.net/sprites/shiny/0842.png,
