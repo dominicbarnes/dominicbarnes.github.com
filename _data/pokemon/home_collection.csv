@@ -28,6 +28,7 @@ geodude,Geodude,,1,,Kanto,0074,hisui,hisuian-heavy,1,FALSE,FALSE,FALSE,FALSE,htt
 graveler,Graveler,,1,,Kanto,0075,hisui,hisuian-ultra,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0075.png
 ponyta,Ponyta,,1,,Kanto,0077,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0077.png
 ponyta,Ponyta,,1,,Kanto,0077,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0077.png
+ponyta-galarian,Ponyta,Galarian,2,,Galar,0077,galar,luxury,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0077-1.png
 rapidash,Rapidash,,1,,Kanto,0078,lets-go,ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0078.png
 slowbro,Slowbro,,1,,Kanto,0080,go,ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0080.png
 doduo-male,Doduo,Male,1,,Kanto,0084,lets-go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0084.png
@@ -67,7 +68,6 @@ blaziken-male,Blaziken,Male,1,Starter,Hoenn,0257,go,poke,1,FALSE,FALSE,FALSE,FAL
 mudkip,Mudkip,,,Starter,Hoenn,0258,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0258.png
 swampert,Swampert,,,Starter,Hoenn,0260,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0260.png
 zigzagoon-galarian,Zigzagoon,Galarian,2,,Galar,0263,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0263-1.png
-silcoon,Silcoon,,,,Hoenn,0266,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0266.png
 beautifly-male,Beautifly,Male,1,,Hoenn,0267,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0267.png
 cascoon,Cascoon,,,,Hoenn,0268,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0268.png
 nosepass,Nosepass,,,,Hoenn,0299,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0299.png
@@ -122,8 +122,8 @@ axew,Axew,,,,Unova,0610,go,ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.ne
 flabébé-orange,Flabébé,Orange,3,,Kalos,0669,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0669-2.png
 furfrou,Furfrou,,1,,Kalos,0676,clover,level,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0676.png
 rowlet,Rowlet,,,Starter,Alola,0722,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0722.png
+rockruff,Rockruff,,1,,Alola,0744,go,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0744.png
 stufful,Stufful,,,,Alola,0759,go,poke,4,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0759.png
 drednaw,Drednaw,,,,Galar,0834,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0834.png
 ursaluna,Ursaluna,,,,Hisui,0901,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0901.png
 dudunsparce-two-segment-form,Dudunsparce,Two-Segment Form,1,,Paldea,0982,paldea,heal,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0982.png
-flutter-mane,Flutter Mane,,,Paradox,Paldea,0987,paldea,dusk,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0987.png
