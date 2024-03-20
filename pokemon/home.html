@@ -80,7 +80,8 @@ image:
                             {% capture gmax %}{{ item['Gmax'] }}{% endcapture %}
                             {% capture ball %}{{ item['Ball'] }}{% endcapture %}
                             {% capture hacked %}{{ item['Hacked'] }}{% endcapture %}
-                            {% include pokemon.html icon=icon name=name region=region variation=variation special=special mark=mark alpha=alpha gmax=gmax ball=ball hacked=hacked %}
+                            {% capture gostamp %}{{ item['GO Stamp'] }}{% endcapture %}
+                            {% include pokemon.html icon=icon name=name region=region variation=variation special=special mark=mark alpha=alpha gmax=gmax ball=ball hacked=hacked gostamp=gostamp %}
                         </div>
                     </div>
                 {% endfor %}
