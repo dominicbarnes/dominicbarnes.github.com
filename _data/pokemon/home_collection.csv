@@ -8,7 +8,6 @@ kakuna,Kakuna,,,,Kanto,0014,lets-go,great,1,FALSE,FALSE,FALSE,FALSE,https://poke
 pidgey,Pidgey,,,,Kanto,0016,lets-go,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0016.png
 pidgey,Pidgey,,,,Kanto,0016,lets-go,poke,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0016.png
 pidgeotto,Pidgeotto,,,,Kanto,0017,lets-go,ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0017.png
-pikachu-male,Pikachu,Male,1,,Kanto,0025,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0025.png
 pikachu-female,Pikachu,Female,2,,Kanto,0025,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0025-f.png
 zubat-male,Zubat,Male,1,,Kanto,0041,lets-go,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0041.png
 zubat-female,Zubat,Female,2,,Kanto,0041,lets-go,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0041-f.png
@@ -64,7 +63,6 @@ piloswine-female,Piloswine,Female,2,,Johto,0221,hisui,hisuian-ultra,1,FALSE,FALS
 delibird,Delibird,,,,Johto,0225,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0225.png
 elekid,Elekid,,,Baby,Johto,0239,hisui,leaden,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0239.png
 larvitar,Larvitar,,,,Johto,0246,go,poke,2,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0246.png
-blaziken-male,Blaziken,Male,1,Starter,Hoenn,0257,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0257.png
 mudkip,Mudkip,,,Starter,Hoenn,0258,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0258.png
 swampert,Swampert,,,Starter,Hoenn,0260,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0260.png
 zigzagoon-galarian,Zigzagoon,Galarian,2,,Galar,0263,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0263-1.png
