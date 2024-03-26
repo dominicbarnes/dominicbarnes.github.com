@@ -1,6 +1,5 @@
 Pokemon ID,Name,Variation,Variation Sort,Go Variation,Special,Region,National,Quantity,Icon URL
 squirtle,Squirtle,,,,Starter,Kanto,0007,3,https://pokejungle.net/sprites/shiny/0007.png
-blastoise,Blastoise,,,Sunglasses,Starter,Kanto,0009,1,https://pokejungle.net/sprites/shiny/0009.png
 caterpie,Caterpie,,,,,Kanto,0010,1,https://pokejungle.net/sprites/shiny/0010.png
 pidgey,Pidgey,,,,,Kanto,0016,3,https://pokejungle.net/sprites/shiny/0016.png
 rattata-male,Rattata,Male,1,,,Kanto,0019,1,https://pokejungle.net/sprites/shiny/0019.png
@@ -64,11 +63,10 @@ clamperl,Clamperl,,,,,Hoenn,0366,1,https://pokejungle.net/sprites/shiny/0366.png
 luvdisc,Luvdisc,,,,,Hoenn,0370,1,https://pokejungle.net/sprites/shiny/0370.png
 registeel,Registeel,,,,Legendary,Hoenn,0379,1,https://pokejungle.net/sprites/shiny/0379.png
 latias,Latias,,,,Legendary,Hoenn,0380,2,https://pokejungle.net/sprites/shiny/0380.png
-groudon,Groudon,,,,Legendary,Hoenn,0383,1,https://pokejungle.net/sprites/shiny/0383.png
 deoxys,Deoxys,,1,,Mythical,Hoenn,0386,1,https://pokejungle.net/sprites/shiny/0386.png
 deoxys-speed,Deoxys,Speed,4,,Mythical,Hoenn,0386,1,https://pokejungle.net/sprites/shiny/0386-3.png
 buneary,Buneary,,,,,Sinnoh,0427,4,https://pokejungle.net/sprites/shiny/0427.png
-bronzor,Bronzor,,,,,Sinnoh,0436,8,https://pokejungle.net/sprites/shiny/0436.png
+bronzor,Bronzor,,,,,Sinnoh,0436,9,https://pokejungle.net/sprites/shiny/0436.png
 riolu,Riolu,,,,Baby,Sinnoh,0447,1,https://pokejungle.net/sprites/shiny/0447.png
 palkia,Palkia,,,,Legendary,Sinnoh,0484,1,https://pokejungle.net/sprites/shiny/0484.png
 heatran,Heatran,,,,Legendary,Sinnoh,0485,3,https://pokejungle.net/sprites/shiny/0485.png
