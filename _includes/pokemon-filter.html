@@ -100,6 +100,14 @@
             </select>
         </div>
     {% endif %}
+    {% if include.go-cd %}
+        <div class="col-md-auto">
+            <label>
+                <input type="checkbox" name="hide-go-cd">
+                Hide GO Community Day
+            </label>
+        </div>
+    {% endif %}
     <div class="col-md-auto">
         <button class="btn btn-secondary" type="reset">Reset</button>
         <button class="btn btn-primary" type="submit">Apply Filter</button>

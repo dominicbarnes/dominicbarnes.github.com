@@ -67,7 +67,7 @@ redirect_from:
     <div class="tab-pane fade p-2" id="for-trade" role="tabpanel" aria-labelledby="for-trade-tab" tabindex="0">
         <p class="m-2">These are the extra shinies I have that I am willing to trade.</p>
 
-        {% include pokemon-filter.html prefix="for-trade" target="#for-trade-list" %}
+        {% include pokemon-filter.html prefix="for-trade" target="#for-trade-list" go-cd="true" %}
 
         <div class="mb-4 p-2">
             <div id="for-trade-list" class="row g-0 row-cols-3 row-cols-md-6">
@@ -83,8 +83,9 @@ redirect_from:
                             {% capture region %}{{ item["Region"] }}{% endcapture %}
                             {% capture variation %}{{ item["Variation"] }}{% endcapture %}
                             {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
+                            {% capture go_cd %}{{ item["GO CD"] }}{% endcapture %}
                             {% capture special %}{{ item["Special"] }}{% endcapture %}
-                            {% include pokemon.html icon=icon name=name region=region variation=variation go_variation=go_variation special=special %}
+                            {% include pokemon.html icon=icon name=name region=region variation=variation go_variation=go_variation go_cd=go_cd special=special %}
                         </div>
                     </div>
                 {% endfor %}

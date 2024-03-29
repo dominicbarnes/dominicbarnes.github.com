@@ -28,6 +28,11 @@ document.querySelectorAll("form.pokemon-filters").forEach(node => {
         if (originMark) {
             selectors.push(`[data-origin-mark="${originMark}"]`);
         }
+        
+        const hideGoCD = data.get("hide-go-cd");
+        if (hideGoCD) {
+            selectors.push(`[data-go-cd="FALSE"]`);
+        }
 
         return selectors;
     }

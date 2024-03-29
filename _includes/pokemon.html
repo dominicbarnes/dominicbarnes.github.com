@@ -1,4 +1,4 @@
-<div data-name="{{ include.name }}" data-region="{{ include.region }}" data-special="{{ include.special }}" data-ball="{{ include.ball }}" data-origin-mark="{{ include.mark }}">
+<div data-name="{{ include.name }}" data-region="{{ include.region }}" data-special="{{ include.special }}" data-ball="{{ include.ball }}" data-origin-mark="{{ include.mark }}" data-go-cd="{{ include.go_cd }}">
     <div class="d-flex justify-content-between align-items-center">
         {% if include.ball %}
             <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/{{ include.ball }}.png" alt="Ball Mark" height="32" width="32" loading="lazy" title="Ball: {{ include.ball }}" data-bs-toggle="tooltip">
@@ -32,6 +32,9 @@
             {% endif %}
             {% if include.go_variation %}
                 <span class="badge text-bg-success">{{ include.go_variation }}</span>
+            {% endif %}
+            {% if include.go_cd == "TRUE" %}
+                <span class="badge text-bg-primary">Community Day</span>
             {% endif %}
             {% if include.special %}
                 <span class="badge text-bg-warning">{{ include.special }}</span>
