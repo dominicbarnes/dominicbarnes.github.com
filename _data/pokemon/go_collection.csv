@@ -10,7 +10,6 @@ weedle,Weedle,,,,,TRUE,Kanto,0013,3,https://pokejungle.net/sprites/shiny/0013.pn
 beedrill,Beedrill,,,,,TRUE,Kanto,0015,1,https://pokejungle.net/sprites/shiny/0015.png
 pidgey,Pidgey,,,,,FALSE,Kanto,0016,3,https://pokejungle.net/sprites/shiny/0016.png
 rattata-male,Rattata,Male,1,,,FALSE,Kanto,0019,1,https://pokejungle.net/sprites/shiny/0019.png
-spearow,Spearow,,,,,FALSE,Kanto,0021,1,https://pokejungle.net/sprites/shiny/0021.png
 pikachu-male,Pikachu,Male,1,Hat,,FALSE,Kanto,0025,2,https://pokejungle.net/sprites/shiny/0025.png
 pikachu-male,Pikachu,Male,1,,,TRUE,Kanto,0025,3,https://pokejungle.net/sprites/shiny/0025.png
 pikachu-female,Pikachu,Female,2,,,TRUE,Kanto,0025,5,https://pokejungle.net/sprites/shiny/0025-f.png
@@ -131,7 +130,6 @@ duskull,Duskull,,,,,TRUE,Hoenn,0355,12,https://pokejungle.net/sprites/shiny/0355
 dusclops,Dusclops,,,,,TRUE,Hoenn,0356,1,https://pokejungle.net/sprites/shiny/0356.png
 absol,Absol,,,Sunglasses,,FALSE,Hoenn,0359,1,https://pokejungle.net/sprites/shiny/0359.png
 spheal,Spheal,,,,,TRUE,Hoenn,0363,15,https://pokejungle.net/sprites/shiny/0363.png
-clamperl,Clamperl,,,,,FALSE,Hoenn,0366,1,https://pokejungle.net/sprites/shiny/0366.png
 luvdisc,Luvdisc,,,,,FALSE,Hoenn,0370,1,https://pokejungle.net/sprites/shiny/0370.png
 bagon,Bagon,,,,,TRUE,Hoenn,0371,10,https://pokejungle.net/sprites/shiny/0371.png
 beldum,Beldum,,,,,TRUE,Hoenn,0374,2,https://pokejungle.net/sprites/shiny/0374.png
@@ -160,7 +158,6 @@ gible-male,Gible,Male,1,,,TRUE,Sinnoh,0443,6,https://pokejungle.net/sprites/shin
 gible-female,Gible,Female,2,,,TRUE,Sinnoh,0443,3,https://pokejungle.net/sprites/shiny/0443-f.png
 garchomp-male,Garchomp,Male,1,,,TRUE,Sinnoh,0445,1,https://pokejungle.net/sprites/shiny/0445.png
 garchomp-female,Garchomp,Female,2,,,TRUE,Sinnoh,0445,1,https://pokejungle.net/sprites/shiny/0445-f.png
-riolu,Riolu,,,,Baby,FALSE,Sinnoh,0447,1,https://pokejungle.net/sprites/shiny/0447.png
 electivire,Electivire,,,,,TRUE,Sinnoh,0466,2,https://pokejungle.net/sprites/shiny/0466.png
 magmortar,Magmortar,,,,,TRUE,Sinnoh,0467,2,https://pokejungle.net/sprites/shiny/0467.png
 mamoswine-male,Mamoswine,Male,1,,,TRUE,Sinnoh,0473,1,https://pokejungle.net/sprites/shiny/0473.png
