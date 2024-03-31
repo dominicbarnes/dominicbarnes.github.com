@@ -102,10 +102,10 @@
     {% endif %}
     {% if include.go-cd %}
         <div class="col-md-auto">
-            <label>
-                <input type="checkbox" name="hide-go-cd">
-                Hide GO Community Day
-            </label>
+            <div class="form-check">
+                <input id="{{ include.prefix }}-filter-go-cd" class="form-check-input" type="checkbox" name="hide-go-cd">
+                <label for="{{ include.prefix }}-filter-go-cd" class="form-check-label">Hide GO Community Day</label>
+            </div>
         </div>
     {% endif %}
     <div class="col-md-auto">
