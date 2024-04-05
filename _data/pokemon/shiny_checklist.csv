@@ -517,7 +517,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,Has S
 516,bastiodon,Bastiodon,,,Shieldon,,0411,TRUE,TRUE,Sinnoh,4,18,6,1,6,TRUE,https://pokejungle.net/sprites/shiny/0411.png,
 517,burmy-plant,Burmy,Plant,1,Burmy,,0412,TRUE,TRUE,Sinnoh,4,18,7,2,1,TRUE,https://pokejungle.net/sprites/shiny/0412.png,
 518,burmy-sandy,Burmy,Sandy,2,Burmy,,0412,TRUE,TRUE,Sinnoh,4,18,8,2,2,TRUE,https://pokejungle.net/sprites/shiny/0412-1.png,
-519,burmy-trash,Burmy,Trash,3,Burmy,,0412,TRUE,TRUE,Sinnoh,4,18,9,2,3,Home,https://pokejungle.net/sprites/shiny/0412-2.png,
+519,burmy-trash,Burmy,Trash,3,Burmy,,0412,TRUE,TRUE,Sinnoh,4,18,9,2,3,TRUE,https://pokejungle.net/sprites/shiny/0412-2.png,
 520,wormadam-plant,Wormadam,Plant,1,Burmy,,0413,TRUE,TRUE,Sinnoh,4,18,10,2,4,TRUE,https://pokejungle.net/sprites/shiny/0413.png,
 521,wormadam-sandy,Wormadam,Sandy,2,Burmy,,0413,TRUE,TRUE,Sinnoh,4,18,11,2,5,TRUE,https://pokejungle.net/sprites/shiny/0413-1.png,
 522,wormadam-trash,Wormadam,Trash,3,Burmy,,0413,TRUE,TRUE,Sinnoh,4,18,12,2,6,TRUE,https://pokejungle.net/sprites/shiny/0413-2.png,
