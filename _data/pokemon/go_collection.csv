@@ -77,7 +77,7 @@ aipom-male,Aipom,Male,1,,,FALSE,Johto,0190,2,https://pokejungle.net/sprites/shin
 sunkern,Sunkern,,,,,FALSE,Johto,0191,1,https://pokejungle.net/sprites/shiny/0191.png
 yanma,Yanma,,,,,FALSE,Johto,0193,1,https://pokejungle.net/sprites/shiny/0193.png
 wooper-male,Wooper,Male,1,,,TRUE,Johto,0194,1,https://pokejungle.net/sprites/shiny/0194.png
-wooper-paldean,Wooper,Paldean,3,,,TRUE,Paldea,0194,4,https://pokejungle.net/sprites/shiny/0194-1.png
+wooper-paldean,Wooper,Paldean,3,,,TRUE,Paldea,0194,3,https://pokejungle.net/sprites/shiny/0194-1.png
 murkrow-male,Murkrow,Male,1,Shadow,,FALSE,Johto,0198,1,https://pokejungle.net/sprites/shiny/0198.png
 murkrow-female,Murkrow,Female,2,,,FALSE,Johto,0198,1,https://pokejungle.net/sprites/shiny/0198-f.png
 slowking,Slowking,,1,,,TRUE,Johto,0199,1,https://pokejungle.net/sprites/shiny/0199.png
@@ -132,7 +132,7 @@ dusclops,Dusclops,,,,,TRUE,Hoenn,0356,1,https://pokejungle.net/sprites/shiny/035
 absol,Absol,,,Sunglasses,,FALSE,Hoenn,0359,1,https://pokejungle.net/sprites/shiny/0359.png
 spheal,Spheal,,,,,TRUE,Hoenn,0363,15,https://pokejungle.net/sprites/shiny/0363.png
 luvdisc,Luvdisc,,,,,FALSE,Hoenn,0370,1,https://pokejungle.net/sprites/shiny/0370.png
-bagon,Bagon,,,,,TRUE,Hoenn,0371,10,https://pokejungle.net/sprites/shiny/0371.png
+bagon,Bagon,,,,,TRUE,Hoenn,0371,12,https://pokejungle.net/sprites/shiny/0371.png
 beldum,Beldum,,,,,TRUE,Hoenn,0374,2,https://pokejungle.net/sprites/shiny/0374.png
 metagross,Metagross,,,,,TRUE,Hoenn,0376,1,https://pokejungle.net/sprites/shiny/0376.png
 registeel,Registeel,,,,Legendary,FALSE,Hoenn,0379,1,https://pokejungle.net/sprites/shiny/0379.png
@@ -154,6 +154,7 @@ luxray-female,Luxray,Female,2,,,TRUE,Sinnoh,0405,1,https://pokejungle.net/sprite
 roserade-male,Roserade,Male,1,,,TRUE,Sinnoh,0407,1,https://pokejungle.net/sprites/shiny/0407.png
 roserade-female,Roserade,Female,2,,,TRUE,Sinnoh,0407,1,https://pokejungle.net/sprites/shiny/0407-f.png
 buneary,Buneary,,,,,FALSE,Sinnoh,0427,4,https://pokejungle.net/sprites/shiny/0427.png
+glameow,Glameow,,,,,FALSE,Sinnoh,0431,1,https://pokejungle.net/sprites/shiny/0431.png
 bronzor,Bronzor,,,,,FALSE,Sinnoh,0436,9,https://pokejungle.net/sprites/shiny/0436.png
 gible-male,Gible,Male,1,,,TRUE,Sinnoh,0443,6,https://pokejungle.net/sprites/shiny/0443.png
 gible-female,Gible,Female,2,,,TRUE,Sinnoh,0443,3,https://pokejungle.net/sprites/shiny/0443-f.png
