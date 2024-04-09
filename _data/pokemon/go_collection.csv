@@ -107,8 +107,6 @@ ralts,Ralts,,,,,TRUE,Hoenn,0280,3,https://pokejungle.net/sprites/shiny/0280.png
 slakoth,Slakoth,,,,,TRUE,Hoenn,0287,6,https://pokejungle.net/sprites/shiny/0287.png
 slaking,Slaking,,,,,TRUE,Hoenn,0289,2,https://pokejungle.net/sprites/shiny/0289.png
 azurill,Azurill,,,,Baby,FALSE,Hoenn,0298,1,https://pokejungle.net/sprites/shiny/0298.png
-skitty,Skitty,,,,,FALSE,Hoenn,0300,1,https://pokejungle.net/sprites/shiny/0300.png
-mawile,Mawile,,,Shadow,,FALSE,Hoenn,0303,1,https://pokejungle.net/sprites/shiny/0303.png
 aron,Aron,,,,,FALSE,Hoenn,0304,4,https://pokejungle.net/sprites/shiny/0304.png
 meditite-female,Meditite,Female,2,,,FALSE,Hoenn,0307,2,https://pokejungle.net/sprites/shiny/0307-f.png
 electrike,Electrike,,,,,FALSE,Hoenn,0309,2,https://pokejungle.net/sprites/shiny/0309.png
@@ -116,14 +114,12 @@ plusle,Plusle,,,,,FALSE,Hoenn,0311,4,https://pokejungle.net/sprites/shiny/0311.p
 minun,Minun,,,,,FALSE,Hoenn,0312,3,https://pokejungle.net/sprites/shiny/0312.png
 roselia-male,Roselia,Male,1,,,TRUE,Hoenn,0315,5,https://pokejungle.net/sprites/shiny/0315.png
 roselia-female,Roselia,Female,2,,,TRUE,Hoenn,0315,4,https://pokejungle.net/sprites/shiny/0315-f.png
-carvanha,Carvanha,,,Shadow,,FALSE,Hoenn,0318,1,https://pokejungle.net/sprites/shiny/0318.png
 wailmer,Wailmer,,,,,FALSE,Hoenn,0320,1,https://pokejungle.net/sprites/shiny/0320.png
 trapinch,Trapinch,,,,,TRUE,Hoenn,0328,2,https://pokejungle.net/sprites/shiny/0328.png
 vibrava,Vibrava,,,,,TRUE,Hoenn,0329,1,https://pokejungle.net/sprites/shiny/0329.png
 flygon,Flygon,,,,,TRUE,Hoenn,0330,1,https://pokejungle.net/sprites/shiny/0330.png
 swablu,Swablu,,,,,TRUE,Hoenn,0333,15,https://pokejungle.net/sprites/shiny/0333.png
 altaria,Altaria,,,,,TRUE,Hoenn,0334,1,https://pokejungle.net/sprites/shiny/0334.png
-barboach,Barboach,,,,,FALSE,Hoenn,0339,1,https://pokejungle.net/sprites/shiny/0339.png
 feebas,Feebas,,,,,FALSE,Hoenn,0349,1,https://pokejungle.net/sprites/shiny/0349.png
 castform,Castform,,1,,,FALSE,Hoenn,0351,5,https://pokejungle.net/sprites/shiny/0351.png
 castform-sunny,Castform,Sunny,2,,,FALSE,Hoenn,0351,3,https://pokejungle.net/sprites/shiny/0351-1.png
@@ -205,7 +201,7 @@ fletchling,Fletchling,,,,,TRUE,Kalos,0661,7,https://pokejungle.net/sprites/shiny
 talonflame,Talonflame,,,,,TRUE,Kalos,0663,1,https://pokejungle.net/sprites/shiny/0663.png
 noibat,Noibat,,,,,TRUE,Kalos,0714,6,https://pokejungle.net/sprites/shiny/0714.png
 noivern,Noivern,,,,,TRUE,Kalos,0715,1,https://pokejungle.net/sprites/shiny/0715.png
-xerneas,Xerneas,,,,Legendary,FALSE,Kalos,0716,2,https://pokejungle.net/sprites/shiny/0716.png
+xerneas,Xerneas,,,,Legendary,FALSE,Kalos,0716,1,https://pokejungle.net/sprites/shiny/0716.png
 rowlet,Rowlet,,,,Starter,TRUE,Alola,0722,1,https://pokejungle.net/sprites/shiny/0722.png
 litten,Litten,,,,Starter,TRUE,Alola,0725,6,https://pokejungle.net/sprites/shiny/0725.png
 grubbin,Grubbin,,,,,TRUE,Alola,0736,3,https://pokejungle.net/sprites/shiny/0736.png
