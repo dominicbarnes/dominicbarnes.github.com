@@ -27,6 +27,7 @@ meowth-alolan,Meowth,Alolan,2,,,FALSE,Alola,0052,3,https://pokejungle.net/sprite
 poliwag,Poliwag,,,,,TRUE,Kanto,0060,2,https://pokejungle.net/sprites/shiny/0060.png
 abra,Abra,,,,,TRUE,Kanto,0063,6,https://pokejungle.net/sprites/shiny/0063.png
 machop,Machop,,,,,TRUE,Kanto,0066,10,https://pokejungle.net/sprites/shiny/0066.png
+bellsprout,Bellsprout,,,,,TRUE,Kanto,0069,8,https://pokejungle.net/sprites/shiny/0069.png
 geodude,Geodude,,1,Shadow,,FALSE,Kanto,0074,1,https://pokejungle.net/sprites/shiny/0074.png
 geodude,Geodude,,1,,,FALSE,Kanto,0074,1,https://pokejungle.net/sprites/shiny/0074.png
 geodude-alolan,Geodude,Alolan,2,,,TRUE,Alola,0074,3,https://pokejungle.net/sprites/shiny/0074-1.png
@@ -40,6 +41,7 @@ gengar,Gengar,,,,,TRUE,Kanto,0094,2,https://pokejungle.net/sprites/shiny/0094.pn
 onix,Onix,,,,,FALSE,Kanto,0095,2,https://pokejungle.net/sprites/shiny/0095.png
 voltorb,Voltorb,,1,,,FALSE,Kanto,0100,1,https://pokejungle.net/sprites/shiny/0100.png
 exeggutor-alolan,Exeggutor,Alolan,2,,,FALSE,Alola,0103,1,https://pokejungle.net/sprites/shiny/0103-1.png
+lickitung,Lickitung,,,,,FALSE,Kanto,0108,1,https://pokejungle.net/sprites/shiny/0108.png
 rhyhorn-male,Rhyhorn,Male,1,,,TRUE,Kanto,0111,2,https://pokejungle.net/sprites/shiny/0111.png
 rhyhorn-female,Rhyhorn,Female,2,,,TRUE,Kanto,0111,2,https://pokejungle.net/sprites/shiny/0111-f.png
 rhydon-female,Rhydon,Female,2,,,TRUE,Kanto,0112,1,https://pokejungle.net/sprites/shiny/0112-f.png
@@ -57,7 +59,7 @@ eevee-female,Eevee,Female,2,,,TRUE,Kanto,0133,2,https://pokejungle.net/sprites/s
 vaporeon,Vaporeon,,,,,TRUE,Kanto,0134,1,https://pokejungle.net/sprites/shiny/0134.png
 jolteon,Jolteon,,,,,TRUE,Kanto,0135,1,https://pokejungle.net/sprites/shiny/0135.png
 porygon,Porygon,,,,,TRUE,Kanto,0137,12,https://pokejungle.net/sprites/shiny/0137.png
-zapdos,Zapdos,,1,,Legendary,FALSE,Kanto,0145,2,https://pokejungle.net/sprites/shiny/0145.png
+zapdos,Zapdos,,1,,Legendary,FALSE,Kanto,0145,1,https://pokejungle.net/sprites/shiny/0145.png
 dratini,Dratini,,,,,TRUE,Kanto,0147,7,https://pokejungle.net/sprites/shiny/0147.png
 dragonair,Dragonair,,,,,TRUE,Kanto,0148,1,https://pokejungle.net/sprites/shiny/0148.png
 dragonite,Dragonite,,,,,TRUE,Kanto,0149,1,https://pokejungle.net/sprites/shiny/0149.png
