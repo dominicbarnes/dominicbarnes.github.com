@@ -33,6 +33,7 @@ geodude,Geodude,,1,,,FALSE,Kanto,0074,1,https://pokejungle.net/sprites/shiny/007
 geodude-alolan,Geodude,Alolan,2,,,TRUE,Alola,0074,3,https://pokejungle.net/sprites/shiny/0074-1.png
 golem-alolan,Golem,Alolan,2,,,TRUE,Alola,0076,1,https://pokejungle.net/sprites/shiny/0076-1.png
 ponyta,Ponyta,,1,,,FALSE,Kanto,0077,1,https://pokejungle.net/sprites/shiny/0077.png
+ponyta-galarian,Ponyta,Galarian,2,,,FALSE,Galar,0077,1,https://pokejungle.net/sprites/shiny/0077-1.png
 slowpoke,Slowpoke,,1,,,TRUE,Kanto,0079,3,https://pokejungle.net/sprites/shiny/0079.png
 slowpoke-galarian,Slowpoke,Galarian,2,,,TRUE,Galar,0079,5,https://pokejungle.net/sprites/shiny/0079-1.png
 grimer,Grimer,,1,,,FALSE,Kanto,0088,1,https://pokejungle.net/sprites/shiny/0088.png
@@ -146,6 +147,7 @@ piplup,Piplup,,,,Starter,TRUE,Sinnoh,0393,3,https://pokejungle.net/sprites/shiny
 empoleon,Empoleon,,,,Starter,TRUE,Sinnoh,0395,2,https://pokejungle.net/sprites/shiny/0395.png
 starly-male,Starly,Male,1,,,TRUE,Sinnoh,0396,5,https://pokejungle.net/sprites/shiny/0396.png
 starly-female,Starly,Female,2,,,TRUE,Sinnoh,0396,6,https://pokejungle.net/sprites/shiny/0396-f.png
+bidoof-female,Bidoof,Female,2,,,FALSE,Sinnoh,0399,1,https://pokejungle.net/sprites/shiny/0399-f.png
 shinx-male,Shinx,Male,1,,,TRUE,Sinnoh,0403,11,https://pokejungle.net/sprites/shiny/0403.png
 shinx-female,Shinx,Female,2,,,TRUE,Sinnoh,0403,3,https://pokejungle.net/sprites/shiny/0403-f.png
 luxray-female,Luxray,Female,2,,,TRUE,Sinnoh,0405,1,https://pokejungle.net/sprites/shiny/0405-f.png
@@ -208,6 +210,7 @@ litten,Litten,,,,Starter,TRUE,Alola,0725,6,https://pokejungle.net/sprites/shiny/
 grubbin,Grubbin,,,,,TRUE,Alola,0736,3,https://pokejungle.net/sprites/shiny/0736.png
 stufful,Stufful,,,,,TRUE,Alola,0759,12,https://pokejungle.net/sprites/shiny/0759.png
 bewear,Bewear,,,,,TRUE,Alola,0760,2,https://pokejungle.net/sprites/shiny/0760.png
+tapu-bulu,Tapu Bulu,,,,Legendary,FALSE,Alola,0787,1,https://pokejungle.net/sprites/shiny/0787.png
 meltan,Meltan,,,,Mythical,FALSE,Alola,0808,1,https://pokejungle.net/sprites/shiny/0808.png
 melmetal,Melmetal,,,,Mythical,FALSE,Alola,0809,1,https://pokejungle.net/sprites/shiny/0809.png
 obstagoon,Obstagoon,,,,,TRUE,Galar,0862,1,https://pokejungle.net/sprites/shiny/0862.png

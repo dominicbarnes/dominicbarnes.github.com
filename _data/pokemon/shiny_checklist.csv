@@ -1105,7 +1105,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,Has S
 1104,sizzlipede,Sizzlipede,,,Sizzlipede,,0850,FALSE,TRUE,Galar,8,37,24,4,6,FALSE,https://pokejungle.net/sprites/shiny/0850.png,
 1105,centiskorch,Centiskorch,,,Sizzlipede,,0851,FALSE,TRUE,Galar,8,37,25,5,1,FALSE,https://pokejungle.net/sprites/shiny/0851.png,
 1106,clobbopus,Clobbopus,,,Clobbopus,,0852,FALSE,TRUE,Galar,8,37,26,5,2,FALSE,https://pokejungle.net/sprites/shiny/0852.png,
-1107,grapploct,Grapploct,,,Clobbopus,,0853,FALSE,TRUE,Galar,8,37,27,5,3,FALSE,https://pokejungle.net/sprites/shiny/0853.png,
+1107,grapploct,Grapploct,,,Clobbopus,,0853,FALSE,TRUE,Galar,8,37,27,5,3,u/dirtybr4in,https://pokejungle.net/sprites/shiny/0853.png,
 1108,sinistea-phony,Sinistea,Phony,1,Sinistea,,0854,FALSE,TRUE,Galar,8,37,28,5,4,FALSE,https://pokejungle.net/sprites/shiny/0854.png,
 1109,sinistea-authentic,Sinistea,Authentic,2,Sinistea,,0854,FALSE,TRUE,Galar,8,37,29,5,5,FALSE,https://pokejungle.net/sprites/shiny/0854-1.png,
 1110,polteageist-phony,Polteageist,Phony,1,Sinistea,,0855,FALSE,TRUE,Galar,8,37,30,5,6,TRUE,https://pokejungle.net/sprites/shiny/0855.png,
