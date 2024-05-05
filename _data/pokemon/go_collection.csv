@@ -69,6 +69,7 @@ meganium-male,Meganium,Male,1,,Starter,TRUE,Johto,0154,1,https://pokejungle.net/
 typhlosion,Typhlosion,,1,,Starter,TRUE,Johto,0157,1,https://pokejungle.net/sprites/shiny/0157.png
 totodile,Totodile,,,,Starter,TRUE,Johto,0158,4,https://pokejungle.net/sprites/shiny/0158.png
 chinchou,Chinchou,,,,,FALSE,Johto,0170,1,https://pokejungle.net/sprites/shiny/0170.png
+cleffa,Cleffa,,,,Baby,FALSE,Johto,0173,1,https://pokejungle.net/sprites/shiny/0173.png
 togetic,Togetic,,,,,TRUE,Johto,0176,11,https://pokejungle.net/sprites/shiny/0176.png
 natu,Natu,,,,,FALSE,Johto,0177,1,https://pokejungle.net/sprites/shiny/0177.png
 mareep,Mareep,,,,,TRUE,Johto,0179,15,https://pokejungle.net/sprites/shiny/0179.png
@@ -110,6 +111,7 @@ ralts,Ralts,,,,,TRUE,Hoenn,0280,3,https://pokejungle.net/sprites/shiny/0280.png
 slakoth,Slakoth,,,,,TRUE,Hoenn,0287,6,https://pokejungle.net/sprites/shiny/0287.png
 slaking,Slaking,,,,,TRUE,Hoenn,0289,2,https://pokejungle.net/sprites/shiny/0289.png
 azurill,Azurill,,,,Baby,FALSE,Hoenn,0298,1,https://pokejungle.net/sprites/shiny/0298.png
+sableye,Sableye,,,,,FALSE,Hoenn,0302,1,https://pokejungle.net/sprites/shiny/0302.png
 aron,Aron,,,,,FALSE,Hoenn,0304,4,https://pokejungle.net/sprites/shiny/0304.png
 meditite-female,Meditite,Female,2,,,FALSE,Hoenn,0307,2,https://pokejungle.net/sprites/shiny/0307-f.png
 electrike,Electrike,,,,,FALSE,Hoenn,0309,2,https://pokejungle.net/sprites/shiny/0309.png
@@ -211,6 +213,7 @@ grubbin,Grubbin,,,,,TRUE,Alola,0736,3,https://pokejungle.net/sprites/shiny/0736.
 stufful,Stufful,,,,,TRUE,Alola,0759,12,https://pokejungle.net/sprites/shiny/0759.png
 bewear,Bewear,,,,,TRUE,Alola,0760,2,https://pokejungle.net/sprites/shiny/0760.png
 tapu-bulu,Tapu Bulu,,,,Legendary,FALSE,Alola,0787,1,https://pokejungle.net/sprites/shiny/0787.png
+tapu-fini,Tapu Fini,,,,Legendary,FALSE,Alola,0788,1,https://pokejungle.net/sprites/shiny/0788.png
 meltan,Meltan,,,,Mythical,FALSE,Alola,0808,1,https://pokejungle.net/sprites/shiny/0808.png
 melmetal,Melmetal,,,,Mythical,FALSE,Alola,0809,1,https://pokejungle.net/sprites/shiny/0809.png
 obstagoon,Obstagoon,,,,,TRUE,Galar,0862,1,https://pokejungle.net/sprites/shiny/0862.png
