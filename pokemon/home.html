@@ -90,6 +90,71 @@ image:
     </div>
 </div>
 
+{% assign special_looking_for = site.data.pokemon.shiny_checklist | where:"Obtained","FALSE" | where_exp:"item","trade_special contains item['Special']" %}
+{% assign special_for_trade = site.data.pokemon.home_collection | where_exp:"item","trade_special contains item['Special']" %}
+
+{% if special_looking_for.size > 0 %}
+    <h2>Legendaries</h2>
+
+    <p>
+        I've pulled the shiny legendaries into their own section since I only trade
+        these for other shiny legendaries.
+    </p>
+
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="nav-item" role="presentation">
+            <a href="#legendaries-looking-for" class="nav-link active" id="legendaries-looking-for-tab" data-bs-toggle="tab" aria-controls="legendaries-looking-for" aria-selected="true">Looking For</a>
+        </li>
+        <li class="nav-item" role="presentation">
+            <a href="#legendaries-for-trade" class="nav-link" id="legendaries-for-trade-tab" data-bs-toggle="tab" aria-controls="legendaries-for-trade" aria-selected="false">For Trade</a>
+        </li>
+    </ul>
+    <div class="tab-content">
+        <div class="tab-pane fade show active p-2" id="legendaries-looking-for" role="tabpanel" aria-labelledby="legendaries-looking-for-tab" tabindex="0">
+            <div class="mb-4 p-2">
+                <div class="row g-0 row-cols-3 row-cols-md-6">
+                    {% for item in special_looking_for %}
+                        <div class="col">
+                            <div class="border rounded m-1 p-1">
+                                {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
+                                {% capture name %}{{ item["Name"] }}{% endcapture %}
+                                {% capture region %}{{ item["Region"] }}{% endcapture %}
+                                {% capture variation %}{{ item["Variation"] }}{% endcapture %}
+                                {% capture special %}{{ item["Special"] }}{% endcapture %}
+                                {% include pokemon.html icon=icon name=name region=region variation=variation special=special %}
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div class="tab-pane fade show p-2" id="legendaries-for-trade" role="tabpanel" aria-labelledby="legendaries-for-trade-tab" tabindex="0">
+            <div class="mb-4 p-2">
+                <div class="row g-0 row-cols-3 row-cols-md-6">
+                    {% for item in special_for_trade %}
+                        <div class="col mb-2">
+                            <div class="border rounded m-1 p-1">
+                                {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
+                                {% capture name %}{{ item["Name"] }}{% endcapture %}
+                                {% capture region %}{{ item["Region"] }}{% endcapture %}
+                                {% capture variation %}{{ item["Variation"] }}{% endcapture %}
+                                {% capture special %}{{ item["Special"] }}{% endcapture %}
+                                {% capture mark %}{{ item['Origin Mark'] }}{% endcapture %}
+                                {% capture alpha %}{{ item['Alpha'] }}{% endcapture %}
+                                {% capture gmax %}{{ item['Gmax'] }}{% endcapture %}
+                                {% capture ball %}{{ item['Ball'] }}{% endcapture %}
+                                {% capture hacked %}{{ item['Hacked'] }}{% endcapture %}
+                                {% capture gostamp %}{{ item['GO Stamp'] }}{% endcapture %}
+                                {% include pokemon.html icon=icon name=name region=region variation=variation special=special mark=mark alpha=alpha gmax=gmax ball=ball hacked=hacked gostamp=gostamp %}
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+{% endif %}
+
 <script>
 document.addEventListener("DOMContentLoaded", () => {
     if (window.location.hash) {
