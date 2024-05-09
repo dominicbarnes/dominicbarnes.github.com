@@ -56,8 +56,9 @@ redirect_from:
                             {% capture region %}{{ item["Region"] }}{% endcapture %}
                             {% capture variation %}{{ item["Variation"] }}{% endcapture %}
                             {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
+                            {% capture go_regional %}{{ item["GO Regional"] }}{% endcapture %}
                             {% capture special %}{{ item["Special"] }}{% endcapture %}
-                            {% include pokemon.html icon=icon name=name region=region variation=variation go_variation=go_variation special=special %}
+                            {% include pokemon.html icon=icon name=name region=region variation=variation go_variation=go_variation go_regional=go_regional special=special %}
                         </div>
                     </div>
                 {% endfor %}
@@ -83,9 +84,10 @@ redirect_from:
                             {% capture region %}{{ item["Region"] }}{% endcapture %}
                             {% capture variation %}{{ item["Variation"] }}{% endcapture %}
                             {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
+                            {% capture go_regional %}{{ item["GO Regional"] }}{% endcapture %}
                             {% capture go_cd %}{{ item["GO CD"] }}{% endcapture %}
                             {% capture special %}{{ item["Special"] }}{% endcapture %}
-                            {% include pokemon.html icon=icon name=name region=region variation=variation go_variation=go_variation go_cd=go_cd special=special %}
+                            {% include pokemon.html icon=icon name=name region=region variation=variation go_variation=go_variation go_regional=go_regional go_cd=go_cd special=special %}
                         </div>
                     </div>
                 {% endfor %}
@@ -124,7 +126,9 @@ redirect_from:
                                 {% capture name %}{{ item["Name"] }}{% endcapture %}
                                 {% capture region %}{{ item["Region"] }}{% endcapture %}
                                 {% capture variation %}{{ item["Variation"] }}{% endcapture %}
-                                {% include pokemon.html icon=icon name=name region=region variation=variation %}
+                                {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
+                                {% capture go_regional %}{{ item["GO Regional"] }}{% endcapture %}
+                                {% include pokemon.html icon=icon name=name region=region variation=variation go_variation=go_variation go_regional=go_regional %}
                             </div>
                         </div>
                     {% endfor %}
@@ -142,7 +146,8 @@ redirect_from:
                                 {% capture region %}{{ item["Region"] }}{% endcapture %}
                                 {% capture variation %}{{ item["Variation"] }}{% endcapture %}
                                 {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
-                                {% include pokemon.html icon=icon name=name region=region variation=variation go_variation=go_variation %}
+                                {% capture go_regional %}{{ item["GO Regional"] }}{% endcapture %}
+                                {% include pokemon.html icon=icon name=name region=region variation=variation go_variation=go_variation go_regional=go_regional %}
                             </div>
                         </div>
                     {% endfor %}
