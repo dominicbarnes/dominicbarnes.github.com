@@ -689,7 +689,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 688,basculin-red-stripe,Basculin,Red Stripe,1,Basculin,,0550,FALSE,TRUE,TRUE,Unova,5,23,28,5,4,TRUE,https://pokejungle.net/sprites/shiny/0550.png,
 689,basculin-blue-stripe,Basculin,Blue Stripe,2,Basculin,,0550,FALSE,TRUE,TRUE,Unova,5,23,29,5,5,FALSE,https://pokejungle.net/sprites/shiny/0550-1.png,
 690,sandile,Sandile,,,Sandile,,0551,TRUE,FALSE,TRUE,Unova,5,23,30,5,6,FALSE,https://pokejungle.net/sprites/shiny/0551.png,
-691,krokorok,Krokorok,,,Sandile,,0552,TRUE,FALSE,TRUE,Unova,5,24,1,1,1,FALSE,https://pokejungle.net/sprites/shiny/0552.png,
+691,krokorok,Krokorok,,,Sandile,,0552,TRUE,FALSE,TRUE,Unova,5,24,1,1,1,GO,https://pokejungle.net/sprites/shiny/0552.png,
 692,krookodile,Krookodile,,,Sandile,,0553,TRUE,FALSE,TRUE,Unova,5,24,2,1,2,TRUE,https://pokejungle.net/sprites/shiny/0553.png,
 693,darumaka,Darumaka,,1,Darumaka,,0554,TRUE,FALSE,TRUE,Unova,5,24,3,1,3,TRUE,https://pokejungle.net/sprites/shiny/0554.png,
 694,darmanitan,Darmanitan,,1,Darumaka,,0555,TRUE,FALSE,TRUE,Unova,5,24,4,1,4,TRUE,https://pokejungle.net/sprites/shiny/0555.png,
