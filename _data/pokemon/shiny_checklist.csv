@@ -1028,7 +1028,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 1027,buzzwole,Buzzwole,,,Buzzwole,Ultra Beast,0794,FALSE,FALSE,TRUE,Alola,7,35,7,2,1,TRUE,https://pokejungle.net/sprites/shiny/0794.png,
 1028,pheromosa,Pheromosa,,,Pheromosa,Ultra Beast,0795,FALSE,FALSE,TRUE,Alola,7,35,8,2,2,FALSE,https://pokejungle.net/sprites/shiny/0795.png,
 1029,xurkitree,Xurkitree,,,Xurkitree,Ultra Beast,0796,FALSE,FALSE,TRUE,Alola,7,35,9,2,3,FALSE,https://pokejungle.net/sprites/shiny/0796.png,
-1030,celesteela,Celesteela,,,Celesteela,Ultra Beast,0797,TRUE,TRUE,TRUE,Alola,7,35,10,2,4,u/dirtybr4in,https://pokejungle.net/sprites/shiny/0797.png,
+1030,celesteela,Celesteela,,,Celesteela,Ultra Beast,0797,TRUE,TRUE,TRUE,Alola,7,35,10,2,4,TRUE,https://pokejungle.net/sprites/shiny/0797.png,
 1031,kartana,Kartana,,,Kartana,Ultra Beast,0798,TRUE,TRUE,TRUE,Alola,7,35,11,2,5,TRUE,https://pokejungle.net/sprites/shiny/0798.png,
 1032,guzzlord,Guzzlord,,,Guzzlord,Ultra Beast,0799,TRUE,FALSE,TRUE,Alola,7,35,12,2,6,TRUE,https://pokejungle.net/sprites/shiny/0799.png,
 1033,necrozma,Necrozma,,,Necrozma,Legendary,0800,FALSE,FALSE,TRUE,Alola,7,35,13,3,1,FALSE,https://pokejungle.net/sprites/shiny/0800.png,
