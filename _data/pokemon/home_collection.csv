@@ -2,7 +2,8 @@ Pokemon ID,Name,Variation,Variation Sort,Special,Region,National,Origin Mark,Bal
 bulbasaur,Bulbasaur,,,Starter,Kanto,0001,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0001.png
 charmander,Charmander,,,Starter,Kanto,0004,go,strange,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0004.png
 charmander,Charmander,,,Starter,Kanto,0004,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0004.png
-squirtle,Squirtle,,,Starter,Kanto,0007,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0007.png
+squirtle,Squirtle,,,Starter,Kanto,0007,go,poke,4,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0007.png
+blastoise,Blastoise,,,Starter,Kanto,0009,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0009.png
 caterpie,Caterpie,,,,Kanto,0010,lets-go,poke,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0010.png
 kakuna,Kakuna,,,,Kanto,0014,lets-go,great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0014.png
 pidgey,Pidgey,,,,Kanto,0016,lets-go,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0016.png
