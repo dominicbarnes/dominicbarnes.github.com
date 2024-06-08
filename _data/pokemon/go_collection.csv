@@ -37,8 +37,7 @@ geodude,Geodude,,1,,,FALSE,FALSE,Kanto,0074,1,https://pokejungle.net/sprites/shi
 geodude-alolan,Geodude,Alolan,2,,,TRUE,FALSE,Alola,0074,3,https://pokejungle.net/sprites/shiny/0074-1.png
 golem-alolan,Golem,Alolan,2,,,TRUE,FALSE,Alola,0076,1,https://pokejungle.net/sprites/shiny/0076-1.png
 ponyta,Ponyta,,1,,,FALSE,FALSE,Kanto,0077,1,https://pokejungle.net/sprites/shiny/0077.png
-ponyta-galarian,Ponyta,Galarian,2,,,FALSE,FALSE,Galar,0077,1,https://pokejungle.net/sprites/shiny/0077-1.png
-slowpoke,Slowpoke,,1,,,TRUE,FALSE,Kanto,0079,3,https://pokejungle.net/sprites/shiny/0079.png
+slowpoke,Slowpoke,,1,,,TRUE,FALSE,Kanto,0079,4,https://pokejungle.net/sprites/shiny/0079.png
 slowpoke-galarian,Slowpoke,Galarian,2,,,TRUE,FALSE,Galar,0079,5,https://pokejungle.net/sprites/shiny/0079-1.png
 grimer,Grimer,,1,,,FALSE,FALSE,Kanto,0088,1,https://pokejungle.net/sprites/shiny/0088.png
 gastly,Gastly,,,,,TRUE,FALSE,Kanto,0092,7,https://pokejungle.net/sprites/shiny/0092.png
