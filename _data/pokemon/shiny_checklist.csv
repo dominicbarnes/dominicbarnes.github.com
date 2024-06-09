@@ -430,7 +430,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 429,whiscash,Whiscash,,,Barboach,,0340,TRUE,FALSE,TRUE,Hoenn,3,15,9,2,3,TRUE,https://pokejungle.net/sprites/shiny/0340.png,
 430,corphish,Corphish,,,Corphish,,0341,TRUE,FALSE,TRUE,Hoenn,3,15,10,2,4,TRUE,https://pokejungle.net/sprites/shiny/0341.png,
 431,crawdaunt,Crawdaunt,,,Corphish,,0342,TRUE,FALSE,TRUE,Hoenn,3,15,11,2,5,TRUE,https://pokejungle.net/sprites/shiny/0342.png,
-432,baltoy,Baltoy,,,Baltoy,,0343,TRUE,FALSE,TRUE,Hoenn,3,15,12,2,6,FALSE,https://pokejungle.net/sprites/shiny/0343.png,
+432,baltoy,Baltoy,,,Baltoy,,0343,TRUE,FALSE,TRUE,Hoenn,3,15,12,2,6,Charlocks,https://pokejungle.net/sprites/shiny/0343.png,
 433,claydol,Claydol,,,Baltoy,,0344,TRUE,FALSE,TRUE,Hoenn,3,15,13,3,1,TRUE,https://pokejungle.net/sprites/shiny/0344.png,
 434,lileep,Lileep,,,Lileep,,0345,TRUE,FALSE,TRUE,Hoenn,3,15,14,3,2,TRUE,https://pokejungle.net/sprites/shiny/0345.png,
 435,cradily,Cradily,,,Lileep,,0346,TRUE,FALSE,TRUE,Hoenn,3,15,15,3,3,TRUE,https://pokejungle.net/sprites/shiny/0346.png,
