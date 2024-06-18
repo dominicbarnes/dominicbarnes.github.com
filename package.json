@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "assets": "npm run assets:data && npm run assets:js && npm run assets:scss && npm run assets:fonts && npm run assets:css",
-    "assets:data": "_scripts/download_data.sh",
+    "assets:data": "_scripts/download_data.sh && git commit -m 'chore: update pokemon data' _data/",
     "assets:js": "mkdir -p assets/js && cp node_modules/bootstrap/dist/js/bootstrap.bundle.min.* assets/js/",
     "assets:scss": "mkdir -p _sass/bootstrap && cp -a node_modules/bootstrap/scss/. _sass/bootstrap/",
     "assets:fonts": "mkdir -p assets/css/fonts && cp -a node_modules/bootstrap-icons/font/fonts/* assets/css/fonts/",
