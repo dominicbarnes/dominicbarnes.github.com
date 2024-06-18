@@ -881,7 +881,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 880,malamar,Malamar,,,Inkay,,0687,TRUE,FALSE,TRUE,Kalos,6,30,10,2,4,TRUE,https://pokejungle.net/sprites/shiny/0687.png,
 881,binacle,Binacle,,,Binacle,,0688,TRUE,FALSE,TRUE,Kalos,6,30,11,2,5,TRUE,https://pokejungle.net/sprites/shiny/0688.png,
 882,barbaracle,Barbaracle,,,Binacle,,0689,TRUE,FALSE,TRUE,Kalos,6,30,12,2,6,TRUE,https://pokejungle.net/sprites/shiny/0689.png,
-883,skrelp,Skrelp,,,Skrelp,,0690,TRUE,FALSE,TRUE,Kalos,6,30,13,3,1,FALSE,https://pokejungle.net/sprites/shiny/0690.png,
+883,skrelp,Skrelp,,,Skrelp,,0690,TRUE,FALSE,TRUE,Kalos,6,30,13,3,1,TRUE,https://pokejungle.net/sprites/shiny/0690.png,
 884,dragalge,Dragalge,,,Skrelp,,0691,TRUE,FALSE,TRUE,Kalos,6,30,14,3,2,TRUE,https://pokejungle.net/sprites/shiny/0691.png,
 885,clauncher,Clauncher,,,Clauncher,,0692,TRUE,FALSE,TRUE,Kalos,6,30,15,3,3,TRUE,https://pokejungle.net/sprites/shiny/0692.png,
 886,clawitzer,Clawitzer,,,Clauncher,,0693,TRUE,FALSE,TRUE,Kalos,6,30,16,3,4,TRUE,https://pokejungle.net/sprites/shiny/0693.png,
