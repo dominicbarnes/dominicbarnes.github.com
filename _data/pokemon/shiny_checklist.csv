@@ -992,7 +992,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 991,comfey,Comfey,,,Comfey,,0764,FALSE,TRUE,TRUE,Alola,7,34,1,1,1,TRUE,https://pokejungle.net/sprites/shiny/0764.png,
 992,oranguru,Oranguru,,,Oranguru,,0765,TRUE,FALSE,TRUE,Alola,7,34,2,1,2,TRUE,https://pokejungle.net/sprites/shiny/0765.png,
 993,passimian,Passimian,,,Passimian,,0766,FALSE,FALSE,TRUE,Alola,7,34,3,1,3,TRUE,https://pokejungle.net/sprites/shiny/0766.png,
-994,wimpod,Wimpod,,,Wimpod,,0767,TRUE,FALSE,TRUE,Alola,7,34,4,1,4,FALSE,https://pokejungle.net/sprites/shiny/0767.png,
+994,wimpod,Wimpod,,,Wimpod,,0767,TRUE,FALSE,TRUE,Alola,7,34,4,1,4,u/geoffrey_giraffe,https://pokejungle.net/sprites/shiny/0767.png,
 995,golisopod,Golisopod,,,Wimpod,,0768,TRUE,FALSE,TRUE,Alola,7,34,5,1,5,FALSE,https://pokejungle.net/sprites/shiny/0768.png,
 996,sandygast,Sandygast,,,Sandygast,,0769,FALSE,FALSE,TRUE,Alola,7,34,6,1,6,TRUE,https://pokejungle.net/sprites/shiny/0769.png,
 997,palossand,Palossand,,,Sandygast,,0770,FALSE,FALSE,TRUE,Alola,7,34,7,2,1,TRUE,https://pokejungle.net/sprites/shiny/0770.png,

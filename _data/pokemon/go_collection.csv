@@ -68,7 +68,7 @@ dragonair,Dragonair,,,,,TRUE,FALSE,Kanto,0148,1,https://pokejungle.net/sprites/s
 dragonite,Dragonite,,,,,TRUE,FALSE,Kanto,0149,1,https://pokejungle.net/sprites/shiny/0149.png
 chikorita,Chikorita,,,,Starter,TRUE,FALSE,Johto,0152,1,https://pokejungle.net/sprites/shiny/0152.png
 meganium-male,Meganium,Male,1,,Starter,TRUE,FALSE,Johto,0154,1,https://pokejungle.net/sprites/shiny/0154.png
-cyndaquil,Cyndaquil,,,,Starter,TRUE,FALSE,Johto,0155,1,https://pokejungle.net/sprites/shiny/0155.png
+cyndaquil,Cyndaquil,,,,Starter,TRUE,FALSE,Johto,0155,13,https://pokejungle.net/sprites/shiny/0155.png
 typhlosion,Typhlosion,,1,,Starter,TRUE,FALSE,Johto,0157,1,https://pokejungle.net/sprites/shiny/0157.png
 totodile,Totodile,,,,Starter,TRUE,FALSE,Johto,0158,4,https://pokejungle.net/sprites/shiny/0158.png
 cleffa,Cleffa,,,,Baby,FALSE,FALSE,Johto,0173,1,https://pokejungle.net/sprites/shiny/0173.png
@@ -192,7 +192,6 @@ pidove,Pidove,,,,,FALSE,FALSE,Unova,0519,2,https://pokejungle.net/sprites/shiny/
 roggenrola,Roggenrola,,,,,TRUE,FALSE,Unova,0524,4,https://pokejungle.net/sprites/shiny/0524.png
 timburr,Timburr,,,,,TRUE,FALSE,Unova,0532,14,https://pokejungle.net/sprites/shiny/0532.png
 conkeldurr,Conkeldurr,,,,,TRUE,FALSE,Unova,0534,1,https://pokejungle.net/sprites/shiny/0534.png
-sawk,Sawk,,,,,FALSE,TRUE,Unova,0539,1,https://pokejungle.net/sprites/shiny/0539.png
 litwick,Litwick,,,,,TRUE,FALSE,Unova,0607,3,https://pokejungle.net/sprites/shiny/0607.png
 axew,Axew,,,,,TRUE,FALSE,Unova,0610,2,https://pokejungle.net/sprites/shiny/0610.png
 stunfisk,Stunfisk,,1,,,FALSE,FALSE,Unova,0618,1,https://pokejungle.net/sprites/shiny/0618.png
