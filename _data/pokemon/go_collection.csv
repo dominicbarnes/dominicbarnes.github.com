@@ -41,7 +41,7 @@ slowpoke-galarian,Slowpoke,Galarian,2,,,TRUE,FALSE,Galar,0079,5,https://pokejung
 grimer,Grimer,,1,,,FALSE,FALSE,Kanto,0088,1,https://pokejungle.net/sprites/shiny/0088.png
 gastly,Gastly,,,,,TRUE,FALSE,Kanto,0092,7,https://pokejungle.net/sprites/shiny/0092.png
 gengar,Gengar,,,,,TRUE,FALSE,Kanto,0094,2,https://pokejungle.net/sprites/shiny/0094.png
-onix,Onix,,,,,FALSE,FALSE,Kanto,0095,3,https://pokejungle.net/sprites/shiny/0095.png
+onix,Onix,,,,,FALSE,FALSE,Kanto,0095,4,https://pokejungle.net/sprites/shiny/0095.png
 voltorb,Voltorb,,1,,,FALSE,FALSE,Kanto,0100,1,https://pokejungle.net/sprites/shiny/0100.png
 exeggutor-alolan,Exeggutor,Alolan,2,,,FALSE,FALSE,Alola,0103,1,https://pokejungle.net/sprites/shiny/0103-1.png
 lickitung,Lickitung,,,,,FALSE,FALSE,Kanto,0108,2,https://pokejungle.net/sprites/shiny/0108.png
@@ -144,8 +144,6 @@ regirock,Regirock,,,,Legendary,FALSE,FALSE,Hoenn,0377,2,https://pokejungle.net/s
 registeel,Registeel,,,,Legendary,FALSE,FALSE,Hoenn,0379,1,https://pokejungle.net/sprites/shiny/0379.png
 latias,Latias,,,,Legendary,FALSE,FALSE,Hoenn,0380,2,https://pokejungle.net/sprites/shiny/0380.png
 jirachi,Jirachi,,,,Mythical,FALSE,FALSE,Hoenn,0385,1,https://pokejungle.net/sprites/shiny/0385.png
-deoxys,Deoxys,,1,,Mythical,FALSE,FALSE,Hoenn,0386,1,https://pokejungle.net/sprites/shiny/0386.png
-deoxys-speed,Deoxys,Speed,4,,Mythical,FALSE,FALSE,Hoenn,0386,1,https://pokejungle.net/sprites/shiny/0386-3.png
 turtwig,Turtwig,,,,Starter,TRUE,FALSE,Sinnoh,0387,8,https://pokejungle.net/sprites/shiny/0387.png
 torterra,Torterra,,,,Starter,TRUE,FALSE,Sinnoh,0389,1,https://pokejungle.net/sprites/shiny/0389.png
 chimchar,Chimchar,,,,Starter,TRUE,FALSE,Sinnoh,0390,9,https://pokejungle.net/sprites/shiny/0390.png
@@ -192,13 +190,12 @@ pidove,Pidove,,,,,FALSE,FALSE,Unova,0519,2,https://pokejungle.net/sprites/shiny/
 roggenrola,Roggenrola,,,,,TRUE,FALSE,Unova,0524,4,https://pokejungle.net/sprites/shiny/0524.png
 timburr,Timburr,,,,,TRUE,FALSE,Unova,0532,14,https://pokejungle.net/sprites/shiny/0532.png
 conkeldurr,Conkeldurr,,,,,TRUE,FALSE,Unova,0534,1,https://pokejungle.net/sprites/shiny/0534.png
-litwick,Litwick,,,,,TRUE,FALSE,Unova,0607,3,https://pokejungle.net/sprites/shiny/0607.png
+litwick,Litwick,,,,,TRUE,FALSE,Unova,0607,4,https://pokejungle.net/sprites/shiny/0607.png
 axew,Axew,,,,,TRUE,FALSE,Unova,0610,2,https://pokejungle.net/sprites/shiny/0610.png
 stunfisk,Stunfisk,,1,,,FALSE,FALSE,Unova,0618,1,https://pokejungle.net/sprites/shiny/0618.png
 stunfisk-galarian,Stunfisk,Galarian,2,,,FALSE,FALSE,Galar,0618,1,https://pokejungle.net/sprites/shiny/0618-1.png
 deino,Deino,,,,,TRUE,FALSE,Unova,0633,4,https://pokejungle.net/sprites/shiny/0633.png
 hydreigon,Hydreigon,,,,,TRUE,FALSE,Unova,0635,1,https://pokejungle.net/sprites/shiny/0635.png
-thundurus-therian,Thundurus,Therian,2,,Legendary,FALSE,FALSE,Unova,0642,1,https://pokejungle.net/sprites/shiny/0642-1.png
 reshiram,Reshiram,,,,Legendary,FALSE,FALSE,Unova,0643,1,https://pokejungle.net/sprites/shiny/0643.png
 zekrom,Zekrom,,,,Legendary,FALSE,FALSE,Unova,0644,1,https://pokejungle.net/sprites/shiny/0644.png
 chespin,Chespin,,,,Starter,TRUE,FALSE,Kalos,0650,3,https://pokejungle.net/sprites/shiny/0650.png
@@ -211,7 +208,8 @@ goomy,Goomy,,,,,FALSE,FALSE,Kalos,0704,9,https://pokejungle.net/sprites/shiny/07
 goodra,Goodra,,1,,,FALSE,FALSE,Kalos,0706,1,https://pokejungle.net/sprites/shiny/0706.png
 noibat,Noibat,,,,,TRUE,FALSE,Kalos,0714,6,https://pokejungle.net/sprites/shiny/0714.png
 noivern,Noivern,,,,,TRUE,FALSE,Kalos,0715,1,https://pokejungle.net/sprites/shiny/0715.png
-xerneas,Xerneas,,,,Legendary,FALSE,FALSE,Kalos,0716,2,https://pokejungle.net/sprites/shiny/0716.png
+xerneas,Xerneas,,,,Legendary,FALSE,FALSE,Kalos,0716,1,https://pokejungle.net/sprites/shiny/0716.png
+yveltal,Yveltal,,,,Legendary,FALSE,FALSE,Kalos,0717,1,https://pokejungle.net/sprites/shiny/0717.png
 rowlet,Rowlet,,,,Starter,TRUE,FALSE,Alola,0722,1,https://pokejungle.net/sprites/shiny/0722.png
 litten,Litten,,,,Starter,TRUE,FALSE,Alola,0725,6,https://pokejungle.net/sprites/shiny/0725.png
 grubbin,Grubbin,,,,,TRUE,FALSE,Alola,0736,3,https://pokejungle.net/sprites/shiny/0736.png
