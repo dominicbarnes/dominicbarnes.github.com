@@ -653,7 +653,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 652,panpour,Panpour,,,Panpour,,0515,TRUE,TRUE,TRUE,Unova,5,22,22,4,4,FALSE,https://pokejungle.net/sprites/shiny/0515.png,
 653,simipour,Simipour,,,Panpour,,0516,TRUE,TRUE,TRUE,Unova,5,22,23,4,5,TRUE,https://pokejungle.net/sprites/shiny/0516.png,
 654,munna,Munna,,,Munna,,0517,TRUE,FALSE,TRUE,Unova,5,22,24,4,6,FALSE,https://pokejungle.net/sprites/shiny/0517.png,
-655,musharna,Musharna,,,Munna,,0518,TRUE,FALSE,TRUE,Unova,5,22,25,5,1,FALSE,https://pokejungle.net/sprites/shiny/0518.png,
+655,musharna,Musharna,,,Munna,,0518,TRUE,FALSE,TRUE,Unova,5,22,25,5,1,GO,https://pokejungle.net/sprites/shiny/0518.png,
 656,pidove,Pidove,,,Pidove,,0519,TRUE,FALSE,TRUE,Unova,5,22,26,5,2,TRUE,https://pokejungle.net/sprites/shiny/0519.png,
 657,tranquill,Tranquill,,,Pidove,,0520,TRUE,FALSE,TRUE,Unova,5,22,27,5,3,TRUE,https://pokejungle.net/sprites/shiny/0520.png,
 658,unfezant-male,Unfezant,Male,1,Pidove,,0521,TRUE,FALSE,TRUE,Unova,5,22,28,5,4,TRUE,https://pokejungle.net/sprites/shiny/0521.png,
