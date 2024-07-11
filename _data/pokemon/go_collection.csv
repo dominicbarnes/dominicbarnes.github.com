@@ -121,6 +121,7 @@ plusle,Plusle,,,,,FALSE,FALSE,Hoenn,0311,4,https://pokejungle.net/sprites/shiny/
 minun,Minun,,,,,FALSE,FALSE,Hoenn,0312,3,https://pokejungle.net/sprites/shiny/0312.png
 roselia-male,Roselia,Male,1,,,TRUE,FALSE,Hoenn,0315,5,https://pokejungle.net/sprites/shiny/0315.png
 roselia-female,Roselia,Female,2,,,TRUE,FALSE,Hoenn,0315,4,https://pokejungle.net/sprites/shiny/0315-f.png
+gulpin-male,Gulpin,Male,1,,,FALSE,FALSE,Hoenn,0316,1,https://pokejungle.net/sprites/shiny/0316.png
 wailmer,Wailmer,,,,,FALSE,FALSE,Hoenn,0320,1,https://pokejungle.net/sprites/shiny/0320.png
 trapinch,Trapinch,,,,,TRUE,FALSE,Hoenn,0328,2,https://pokejungle.net/sprites/shiny/0328.png
 vibrava,Vibrava,,,,,TRUE,FALSE,Hoenn,0329,1,https://pokejungle.net/sprites/shiny/0329.png
@@ -218,6 +219,7 @@ bewear,Bewear,,,,,TRUE,FALSE,Alola,0760,2,https://pokejungle.net/sprites/shiny/0
 bounsweet,Bounsweet,,,,,TRUE,FALSE,Alola,0761,11,https://pokejungle.net/sprites/shiny/0761.png
 tapu-bulu,Tapu Bulu,,,,Legendary,FALSE,FALSE,Alola,0787,1,https://pokejungle.net/sprites/shiny/0787.png
 tapu-fini,Tapu Fini,,,,Legendary,FALSE,FALSE,Alola,0788,2,https://pokejungle.net/sprites/shiny/0788.png
+kartana,Kartana,,,,Ultra Beast,FALSE,TRUE,Alola,0798,1,https://pokejungle.net/sprites/shiny/0798.png
 meltan,Meltan,,,,Mythical,FALSE,FALSE,Alola,0808,3,https://pokejungle.net/sprites/shiny/0808.png
 melmetal,Melmetal,,,,Mythical,FALSE,FALSE,Alola,0809,1,https://pokejungle.net/sprites/shiny/0809.png
 obstagoon,Obstagoon,,,,,TRUE,FALSE,Galar,0862,1,https://pokejungle.net/sprites/shiny/0862.png
