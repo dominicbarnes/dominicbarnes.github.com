@@ -408,7 +408,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 407,wailord,Wailord,,,Wailmer,,0321,TRUE,FALSE,TRUE,Hoenn,3,14,17,3,5,TRUE,https://pokejungle.net/sprites/shiny/0321.png,
 408,numel-male,Numel,Male,1,Numel,,0322,TRUE,FALSE,TRUE,Hoenn,3,14,18,3,6,TRUE,https://pokejungle.net/sprites/shiny/0322.png,
 409,numel-female,Numel,Female,2,Numel,,0322,TRUE,FALSE,TRUE,Hoenn,3,14,19,4,1,TRUE,https://pokejungle.net/sprites/shiny/0322-f.png,
-410,camerupt-male,Camerupt,Male,1,Numel,,0323,TRUE,FALSE,TRUE,Hoenn,3,14,20,4,2,FALSE,https://pokejungle.net/sprites/shiny/0323.png,
+410,camerupt-male,Camerupt,Male,1,Numel,,0323,TRUE,FALSE,TRUE,Hoenn,3,14,20,4,2,TRUE,https://pokejungle.net/sprites/shiny/0323.png,
 411,camerupt-female,Camerupt,Female,2,Numel,,0323,TRUE,FALSE,TRUE,Hoenn,3,14,21,4,3,TRUE,https://pokejungle.net/sprites/shiny/0323-f.png,
 412,torkoal,Torkoal,,,Torkoal,,0324,TRUE,TRUE,TRUE,Hoenn,3,14,22,4,4,TRUE,https://pokejungle.net/sprites/shiny/0324.png,
 413,spoink,Spoink,,,Spoink,,0325,TRUE,FALSE,TRUE,Hoenn,3,14,23,4,5,TRUE,https://pokejungle.net/sprites/shiny/0325.png,
