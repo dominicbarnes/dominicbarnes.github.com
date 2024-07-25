@@ -25,7 +25,7 @@ paras,Paras,,,,,FALSE,FALSE,Kanto,0046,1,https://pokejungle.net/sprites/shiny/00
 venonat,Venonat,,,Shadow,,FALSE,FALSE,Kanto,0048,1,https://pokejungle.net/sprites/shiny/0048.png
 diglett,Diglett,,1,,,FALSE,FALSE,Kanto,0050,1,https://pokejungle.net/sprites/shiny/0050.png
 meowth,Meowth,,1,,,FALSE,FALSE,Kanto,0052,1,https://pokejungle.net/sprites/shiny/0052.png
-meowth-alolan,Meowth,Alolan,2,,,FALSE,FALSE,Alola,0052,3,https://pokejungle.net/sprites/shiny/0052-1.png
+meowth-alolan,Meowth,Alolan,2,,,FALSE,FALSE,Alola,0052,4,https://pokejungle.net/sprites/shiny/0052-1.png
 poliwag,Poliwag,,,,,TRUE,FALSE,Kanto,0060,2,https://pokejungle.net/sprites/shiny/0060.png
 abra,Abra,,,,,TRUE,FALSE,Kanto,0063,6,https://pokejungle.net/sprites/shiny/0063.png
 machop,Machop,,,,,TRUE,FALSE,Kanto,0066,10,https://pokejungle.net/sprites/shiny/0066.png
@@ -194,6 +194,7 @@ roggenrola,Roggenrola,,,,,TRUE,FALSE,Unova,0524,4,https://pokejungle.net/sprites
 timburr,Timburr,,,,,TRUE,FALSE,Unova,0532,14,https://pokejungle.net/sprites/shiny/0532.png
 conkeldurr,Conkeldurr,,,,,TRUE,FALSE,Unova,0534,1,https://pokejungle.net/sprites/shiny/0534.png
 emolga,Emolga,,,,,FALSE,FALSE,Unova,0587,1,https://pokejungle.net/sprites/shiny/0587.png
+alomomola,Alomomola,,,,,FALSE,FALSE,Unova,0594,1,https://pokejungle.net/sprites/shiny/0594.png
 ferroseed,Ferroseed,,,,,FALSE,FALSE,Unova,0597,1,https://pokejungle.net/sprites/shiny/0597.png
 tynamo,Tynamo,,,,,FALSE,FALSE,Unova,0602,13,https://pokejungle.net/sprites/shiny/0602.png
 litwick,Litwick,,,,,TRUE,FALSE,Unova,0607,5,https://pokejungle.net/sprites/shiny/0607.png
