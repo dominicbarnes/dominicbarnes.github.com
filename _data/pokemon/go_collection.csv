@@ -14,7 +14,7 @@ pikachu-male,Pikachu,Male,1,Hat,,FALSE,FALSE,Kanto,0025,4,https://pokejungle.net
 pikachu-male,Pikachu,Male,1,,,TRUE,FALSE,Kanto,0025,3,https://pokejungle.net/sprites/shiny/0025.png
 pikachu-female,Pikachu,Female,2,,,TRUE,FALSE,Kanto,0025,5,https://pokejungle.net/sprites/shiny/0025-f.png
 sandshrew,Sandshrew,,1,,,TRUE,FALSE,Kanto,0027,2,https://pokejungle.net/sprites/shiny/0027.png
-sandshrew-alolan,Sandshrew,Alolan,2,,,TRUE,FALSE,Alola,0027,7,https://pokejungle.net/sprites/shiny/0027-1.png
+sandshrew-alolan,Sandshrew,Alolan,2,,,TRUE,FALSE,Alola,0027,8,https://pokejungle.net/sprites/shiny/0027-1.png
 sandslash-alolan,Sandslash,Alolan,2,,,TRUE,FALSE,Alola,0028,1,https://pokejungle.net/sprites/shiny/0028-1.png
 nidoran-♂,Nidoran ♂,,,,,FALSE,FALSE,Kanto,0032,1,https://pokejungle.net/sprites/shiny/0032.png
 jigglypuff,Jigglypuff,,,,,FALSE,FALSE,Kanto,0039,1,https://pokejungle.net/sprites/shiny/0039.png
@@ -90,7 +90,7 @@ murkrow-female,Murkrow,Female,2,,,FALSE,FALSE,Johto,0198,1,https://pokejungle.ne
 slowking,Slowking,,1,,,TRUE,FALSE,Johto,0199,1,https://pokejungle.net/sprites/shiny/0199.png
 misdreavus,Misdreavus,,,,,FALSE,FALSE,Johto,0200,4,https://pokejungle.net/sprites/shiny/0200.png
 wobbuffet-male,Wobbuffet,Male,1,,,FALSE,FALSE,Johto,0202,1,https://pokejungle.net/sprites/shiny/0202.png
-pineco,Pineco,,,,,FALSE,FALSE,Johto,0204,2,https://pokejungle.net/sprites/shiny/0204.png
+pineco,Pineco,,,,,FALSE,FALSE,Johto,0204,3,https://pokejungle.net/sprites/shiny/0204.png
 snubbull,Snubbull,,,,,FALSE,FALSE,Johto,0209,6,https://pokejungle.net/sprites/shiny/0209.png
 sneasel-male,Sneasel,Male,1,,,FALSE,FALSE,Johto,0215,4,https://pokejungle.net/sprites/shiny/0215.png
 sneasel-female,Sneasel,Female,2,,,FALSE,FALSE,Johto,0215,3,https://pokejungle.net/sprites/shiny/0215-f.png
@@ -238,3 +238,4 @@ kartana,Kartana,,,,Ultra Beast,FALSE,TRUE,Alola,0798,1,https://pokejungle.net/sp
 meltan,Meltan,,,,Mythical,FALSE,FALSE,Alola,0808,3,https://pokejungle.net/sprites/shiny/0808.png
 melmetal,Melmetal,,,,Mythical,FALSE,FALSE,Alola,0809,1,https://pokejungle.net/sprites/shiny/0809.png
 obstagoon,Obstagoon,,,,,TRUE,FALSE,Galar,0862,1,https://pokejungle.net/sprites/shiny/0862.png
+lucario,Lucario,,,,,FALSE,FALSE,Sinnoh,0448,1,https://pokejungle.net/sprites/shiny/0448.png
