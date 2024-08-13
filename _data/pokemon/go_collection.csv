@@ -121,7 +121,6 @@ meditite-female,Meditite,Female,2,,,FALSE,FALSE,Hoenn,0307,2,https://pokejungle.
 electrike,Electrike,,,,,FALSE,FALSE,Hoenn,0309,2,https://pokejungle.net/sprites/shiny/0309.png
 plusle,Plusle,,,,,FALSE,FALSE,Hoenn,0311,4,https://pokejungle.net/sprites/shiny/0311.png
 minun,Minun,,,,,FALSE,FALSE,Hoenn,0312,3,https://pokejungle.net/sprites/shiny/0312.png
-volbeat,Volbeat,,,,,FALSE,TRUE,Hoenn,0313,1,https://pokejungle.net/sprites/shiny/0313.png
 roselia-male,Roselia,Male,1,,,TRUE,FALSE,Hoenn,0315,5,https://pokejungle.net/sprites/shiny/0315.png
 roselia-female,Roselia,Female,2,,,TRUE,FALSE,Hoenn,0315,4,https://pokejungle.net/sprites/shiny/0315-f.png
 gulpin-male,Gulpin,Male,1,,,FALSE,FALSE,Hoenn,0316,1,https://pokejungle.net/sprites/shiny/0316.png
@@ -231,10 +230,12 @@ rowlet,Rowlet,,,,Starter,TRUE,FALSE,Alola,0722,1,https://pokejungle.net/sprites/
 litten,Litten,,,,Starter,TRUE,FALSE,Alola,0725,7,https://pokejungle.net/sprites/shiny/0725.png
 yungoos,Yungoos,,,,,FALSE,FALSE,Alola,0734,1,https://pokejungle.net/sprites/shiny/0734.png
 grubbin,Grubbin,,,,,TRUE,FALSE,Alola,0736,3,https://pokejungle.net/sprites/shiny/0736.png
+charjabug,Charjabug,,,,,TRUE,FALSE,Alola,0737,1,https://pokejungle.net/sprites/shiny/0737.png
 crabrawler,Crabrawler,,,,,FALSE,FALSE,Alola,0739,3,https://pokejungle.net/sprites/shiny/0739.png
 stufful,Stufful,,,,,TRUE,FALSE,Alola,0759,12,https://pokejungle.net/sprites/shiny/0759.png
 bewear,Bewear,,,,,TRUE,FALSE,Alola,0760,2,https://pokejungle.net/sprites/shiny/0760.png
 bounsweet,Bounsweet,,,,,TRUE,FALSE,Alola,0761,11,https://pokejungle.net/sprites/shiny/0761.png
+tsareena,Tsareena,,,,,TRUE,FALSE,Alola,0763,1,https://pokejungle.net/sprites/shiny/0763.png
 tapu-bulu,Tapu Bulu,,,,Legendary,FALSE,FALSE,Alola,0787,1,https://pokejungle.net/sprites/shiny/0787.png
 tapu-fini,Tapu Fini,,,,Legendary,FALSE,FALSE,Alola,0788,2,https://pokejungle.net/sprites/shiny/0788.png
 kartana,Kartana,,,,Ultra Beast,FALSE,TRUE,Alola,0798,1,https://pokejungle.net/sprites/shiny/0798.png
