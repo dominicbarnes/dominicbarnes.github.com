@@ -7,7 +7,7 @@ squirtle,Squirtle,,,,Starter,TRUE,FALSE,Kanto,0007,12,https://pokejungle.net/spr
 squirtle,Squirtle,,,Sunglasses,Starter,TRUE,FALSE,Kanto,0007,2,https://pokejungle.net/sprites/shiny/0007.png
 caterpie,Caterpie,,,,,FALSE,FALSE,Kanto,0010,1,https://pokejungle.net/sprites/shiny/0010.png
 weedle,Weedle,,,,,TRUE,FALSE,Kanto,0013,3,https://pokejungle.net/sprites/shiny/0013.png
-beedrill,Beedrill,,,,,TRUE,FALSE,Kanto,0015,1,https://pokejungle.net/sprites/shiny/0015.png
+beedrill,Beedrill,,,,,TRUE,FALSE,Kanto,0015,2,https://pokejungle.net/sprites/shiny/0015.png
 pidgey,Pidgey,,,,,FALSE,FALSE,Kanto,0016,6,https://pokejungle.net/sprites/shiny/0016.png
 rattata-male,Rattata,Male,1,,,FALSE,FALSE,Kanto,0019,1,https://pokejungle.net/sprites/shiny/0019.png
 spearow,Spearow,,,,,FALSE,FALSE,Kanto,0021,1,https://pokejungle.net/sprites/shiny/0021.png
@@ -109,6 +109,7 @@ mudkip,Mudkip,,,,Starter,TRUE,FALSE,Hoenn,0258,4,https://pokejungle.net/sprites/
 zigzagoon-galarian,Zigzagoon,Galarian,2,,,TRUE,FALSE,Galar,0263,9,https://pokejungle.net/sprites/shiny/0263-1.png
 lotad,Lotad,,,,,FALSE,FALSE,Hoenn,0270,3,https://pokejungle.net/sprites/shiny/0270.png
 seedot,Seedot,,,,,TRUE,FALSE,Hoenn,0273,5,https://pokejungle.net/sprites/shiny/0273.png
+shiftry-male,Shiftry,Male,1,,,TRUE,FALSE,Hoenn,0275,1,https://pokejungle.net/sprites/shiny/0275.png
 taillow,Taillow,,,,,FALSE,FALSE,Hoenn,0276,4,https://pokejungle.net/sprites/shiny/0276.png
 wingull,Wingull,,,,,FALSE,FALSE,Hoenn,0278,2,https://pokejungle.net/sprites/shiny/0278.png
 ralts,Ralts,,,,,TRUE,FALSE,Hoenn,0280,3,https://pokejungle.net/sprites/shiny/0280.png
@@ -141,7 +142,7 @@ spheal,Spheal,,,,,TRUE,FALSE,Hoenn,0363,15,https://pokejungle.net/sprites/shiny/
 clamperl,Clamperl,,,,,FALSE,FALSE,Hoenn,0366,1,https://pokejungle.net/sprites/shiny/0366.png
 luvdisc,Luvdisc,,,,,FALSE,FALSE,Hoenn,0370,1,https://pokejungle.net/sprites/shiny/0370.png
 bagon,Bagon,,,,,TRUE,FALSE,Hoenn,0371,12,https://pokejungle.net/sprites/shiny/0371.png
-beldum,Beldum,,,,,TRUE,FALSE,Hoenn,0374,2,https://pokejungle.net/sprites/shiny/0374.png
+beldum,Beldum,,,,,TRUE,FALSE,Hoenn,0374,12,https://pokejungle.net/sprites/shiny/0374.png
 metagross,Metagross,,,,,TRUE,FALSE,Hoenn,0376,1,https://pokejungle.net/sprites/shiny/0376.png
 regirock,Regirock,,,,Legendary,FALSE,FALSE,Hoenn,0377,2,https://pokejungle.net/sprites/shiny/0377.png
 registeel,Registeel,,,,Legendary,FALSE,FALSE,Hoenn,0379,1,https://pokejungle.net/sprites/shiny/0379.png
