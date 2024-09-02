@@ -162,7 +162,7 @@ shinx-female,Shinx,Female,2,,,TRUE,FALSE,Sinnoh,0403,3,https://pokejungle.net/sp
 luxray-female,Luxray,Female,2,,,TRUE,FALSE,Sinnoh,0405,1,https://pokejungle.net/sprites/shiny/0405-f.png
 roserade-male,Roserade,Male,1,,,TRUE,FALSE,Sinnoh,0407,1,https://pokejungle.net/sprites/shiny/0407.png
 roserade-female,Roserade,Female,2,,,TRUE,FALSE,Sinnoh,0407,1,https://pokejungle.net/sprites/shiny/0407-f.png
-buneary,Buneary,,,,,FALSE,FALSE,Sinnoh,0427,4,https://pokejungle.net/sprites/shiny/0427.png
+buneary,Buneary,,,,,FALSE,FALSE,Sinnoh,0427,5,https://pokejungle.net/sprites/shiny/0427.png
 glameow,Glameow,,,,,FALSE,FALSE,Sinnoh,0431,1,https://pokejungle.net/sprites/shiny/0431.png
 bronzor,Bronzor,,,,,FALSE,FALSE,Sinnoh,0436,9,https://pokejungle.net/sprites/shiny/0436.png
 gible-male,Gible,Male,1,,,TRUE,FALSE,Sinnoh,0443,6,https://pokejungle.net/sprites/shiny/0443.png
@@ -230,6 +230,7 @@ xerneas,Xerneas,,,,Legendary,FALSE,FALSE,Kalos,0716,1,https://pokejungle.net/spr
 yveltal,Yveltal,,,,Legendary,FALSE,FALSE,Kalos,0717,1,https://pokejungle.net/sprites/shiny/0717.png
 rowlet,Rowlet,,,,Starter,TRUE,FALSE,Alola,0722,1,https://pokejungle.net/sprites/shiny/0722.png
 litten,Litten,,,,Starter,TRUE,FALSE,Alola,0725,7,https://pokejungle.net/sprites/shiny/0725.png
+popplio,Popplio,,,,Starter,FALSE,FALSE,Alola,0728,10,https://pokejungle.net/sprites/shiny/0728.png
 yungoos,Yungoos,,,,,FALSE,FALSE,Alola,0734,1,https://pokejungle.net/sprites/shiny/0734.png
 grubbin,Grubbin,,,,,TRUE,FALSE,Alola,0736,3,https://pokejungle.net/sprites/shiny/0736.png
 charjabug,Charjabug,,,,,TRUE,FALSE,Alola,0737,1,https://pokejungle.net/sprites/shiny/0737.png
