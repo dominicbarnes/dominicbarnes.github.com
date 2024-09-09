@@ -1130,7 +1130,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 1129,alcremie-vanilla-cream-clove-sweet,Alcremie,Vanilla Cream Clove Sweet,5,Milcery,,0869,FALSE,FALSE,TRUE,Galar,8,38,19,4,1,TRUE,https://pokejungle.net/sprites/shiny/0869-4.png,
 1130,alcremie-vanilla-cream-flower-sweet,Alcremie,Vanilla Cream Flower Sweet,6,Milcery,,0869,FALSE,FALSE,TRUE,Galar,8,38,20,4,2,TRUE,https://pokejungle.net/sprites/shiny/0869-5.png,
 1131,alcremie-vanilla-cream-ribbon-sweet,Alcremie,Vanilla Cream Ribbon Sweet,7,Milcery,,0869,FALSE,FALSE,TRUE,Galar,8,38,21,4,3,TRUE,https://pokejungle.net/sprites/shiny/0869-6.png,
-1132,falinks,Falinks,,,Falinks,,0870,FALSE,FALSE,TRUE,Galar,8,38,22,4,4,FALSE,https://pokejungle.net/sprites/shiny/0870.png,
+1132,falinks,Falinks,,,Falinks,,0870,TRUE,FALSE,TRUE,Galar,8,38,22,4,4,TRUE,https://pokejungle.net/sprites/shiny/0870.png,
 1133,pincurchin,Pincurchin,,,Pincurchin,,0871,FALSE,FALSE,TRUE,Galar,8,38,23,4,5,TRUE,https://pokejungle.net/sprites/shiny/0871.png,
 1134,snom,Snom,,,Snom,,0872,FALSE,FALSE,TRUE,Galar,8,38,24,4,6,TRUE,https://pokejungle.net/sprites/shiny/0872.png,
 1135,frosmoth,Frosmoth,,,Snom,,0873,FALSE,FALSE,TRUE,Galar,8,38,25,5,1,FALSE,https://pokejungle.net/sprites/shiny/0873.png,
