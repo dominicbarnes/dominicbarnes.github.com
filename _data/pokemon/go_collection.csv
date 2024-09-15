@@ -36,7 +36,10 @@ geodude,Geodude,,1,Shadow,,FALSE,FALSE,Kanto,0074,1,https://pokejungle.net/sprit
 geodude,Geodude,,1,,,FALSE,FALSE,Kanto,0074,2,https://pokejungle.net/sprites/shiny/0074.png
 geodude-alolan,Geodude,Alolan,2,,,TRUE,FALSE,Alola,0074,3,https://pokejungle.net/sprites/shiny/0074-1.png
 golem-alolan,Golem,Alolan,2,,,TRUE,FALSE,Alola,0076,1,https://pokejungle.net/sprites/shiny/0076-1.png
-ponyta,Ponyta,,1,,,FALSE,FALSE,Kanto,0077,1,https://pokejungle.net/sprites/shiny/0077.png
+ponyta,Ponyta,,1,,,TRUE,FALSE,Kanto,0077,6,https://pokejungle.net/sprites/shiny/0077.png
+ponyta-galarian,Ponyta,Galarian,2,,,TRUE,FALSE,Galar,0077,10,https://pokejungle.net/sprites/shiny/0077-1.png
+rapidash,Rapidash,,1,,,TRUE,FALSE,Kanto,0078,1,https://pokejungle.net/sprites/shiny/0078.png
+rapidash-galarian,Rapidash,Galarian,2,,,TRUE,FALSE,Galar,0078,1,https://pokejungle.net/sprites/shiny/0078-1.png
 slowpoke,Slowpoke,,1,,,TRUE,FALSE,Kanto,0079,4,https://pokejungle.net/sprites/shiny/0079.png
 slowpoke-galarian,Slowpoke,Galarian,2,,,TRUE,FALSE,Galar,0079,5,https://pokejungle.net/sprites/shiny/0079-1.png
 grimer,Grimer,,1,,,FALSE,FALSE,Kanto,0088,1,https://pokejungle.net/sprites/shiny/0088.png
@@ -199,7 +202,6 @@ timburr,Timburr,,,,,TRUE,FALSE,Unova,0532,14,https://pokejungle.net/sprites/shin
 conkeldurr,Conkeldurr,,,,,TRUE,FALSE,Unova,0534,1,https://pokejungle.net/sprites/shiny/0534.png
 emolga,Emolga,,,,,FALSE,FALSE,Unova,0587,1,https://pokejungle.net/sprites/shiny/0587.png
 alomomola,Alomomola,,,,,FALSE,FALSE,Unova,0594,1,https://pokejungle.net/sprites/shiny/0594.png
-joltik,Joltik,,,,,FALSE,FALSE,Unova,0595,1,https://pokejungle.net/sprites/shiny/0595.png
 ferroseed,Ferroseed,,,,,FALSE,FALSE,Unova,0597,1,https://pokejungle.net/sprites/shiny/0597.png
 tynamo,Tynamo,,,,,FALSE,FALSE,Unova,0602,13,https://pokejungle.net/sprites/shiny/0602.png
 litwick,Litwick,,,,,TRUE,FALSE,Unova,0607,5,https://pokejungle.net/sprites/shiny/0607.png
