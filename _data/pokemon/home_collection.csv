@@ -1,7 +1,10 @@
 Pokemon ID,Name,Variation,Variation Sort,Special,Region,National,Origin Mark,Ball,Quantity,Alpha,Gmax,Hacked,GO Stamp,Icon URL
 bulbasaur,Bulbasaur,,,Starter,Kanto,0001,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0001.png
+venusaur-male,Venusaur,Male,1,Starter,Kanto,0003,go,ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0003.png
 charmander,Charmander,,,Starter,Kanto,0004,go,strange,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0004.png
 charmander,Charmander,,,Starter,Kanto,0004,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0004.png
+charizard,Charizard,,,Starter,Kanto,0006,go,great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0006.png
+charizard,Charizard,,,Starter,Kanto,0006,go,ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0006.png
 squirtle,Squirtle,,,Starter,Kanto,0007,go,poke,4,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0007.png
 blastoise,Blastoise,,,Starter,Kanto,0009,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0009.png
 caterpie,Caterpie,,,,Kanto,0010,lets-go,poke,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0010.png
