@@ -94,7 +94,7 @@ murkrow-female,Murkrow,Female,2,,,FALSE,FALSE,Johto,0198,1,https://pokejungle.ne
 slowking,Slowking,,1,,,TRUE,FALSE,Johto,0199,1,https://pokejungle.net/sprites/shiny/0199.png
 misdreavus,Misdreavus,,,,,FALSE,FALSE,Johto,0200,4,https://pokejungle.net/sprites/shiny/0200.png
 wobbuffet-male,Wobbuffet,Male,1,,,FALSE,FALSE,Johto,0202,1,https://pokejungle.net/sprites/shiny/0202.png
-pineco,Pineco,,,,,FALSE,FALSE,Johto,0204,3,https://pokejungle.net/sprites/shiny/0204.png
+pineco,Pineco,,,,,FALSE,FALSE,Johto,0204,4,https://pokejungle.net/sprites/shiny/0204.png
 snubbull,Snubbull,,,,,FALSE,FALSE,Johto,0209,6,https://pokejungle.net/sprites/shiny/0209.png
 sneasel-male,Sneasel,Male,1,,,FALSE,FALSE,Johto,0215,4,https://pokejungle.net/sprites/shiny/0215.png
 sneasel-female,Sneasel,Female,2,,,FALSE,FALSE,Johto,0215,3,https://pokejungle.net/sprites/shiny/0215-f.png
@@ -137,7 +137,6 @@ altaria,Altaria,,,,,TRUE,FALSE,Hoenn,0334,1,https://pokejungle.net/sprites/shiny
 feebas,Feebas,,,,,FALSE,FALSE,Hoenn,0349,1,https://pokejungle.net/sprites/shiny/0349.png
 castform,Castform,,1,,,FALSE,FALSE,Hoenn,0351,5,https://pokejungle.net/sprites/shiny/0351.png
 castform-sunny,Castform,Sunny,2,,,FALSE,FALSE,Hoenn,0351,3,https://pokejungle.net/sprites/shiny/0351-1.png
-kecleon,Kecleon,,,,,FALSE,FALSE,Hoenn,0352,1,https://pokejungle.net/sprites/shiny/0352.png
 duskull,Duskull,,,,,TRUE,FALSE,Hoenn,0355,12,https://pokejungle.net/sprites/shiny/0355.png
 dusclops,Dusclops,,,,,TRUE,FALSE,Hoenn,0356,1,https://pokejungle.net/sprites/shiny/0356.png
 absol,Absol,,,Sunglasses,,FALSE,FALSE,Hoenn,0359,1,https://pokejungle.net/sprites/shiny/0359.png
@@ -187,7 +186,6 @@ giratina,Giratina,,1,Altered,Legendary,FALSE,FALSE,Sinnoh,0487,2,https://pokejun
 giratina,Giratina,,1,Origin,Legendary,FALSE,FALSE,Sinnoh,0487,2,https://pokejungle.net/sprites/shiny/0487.png
 cresselia,Cresselia,,,,Legendary,FALSE,FALSE,Sinnoh,0488,1,https://pokejungle.net/sprites/shiny/0488.png
 darkrai,Darkrai,,,,Mythical,FALSE,FALSE,Sinnoh,0491,2,https://pokejungle.net/sprites/shiny/0491.png
-shaymin,Shaymin,,1,,Mythical,FALSE,FALSE,Sinnoh,0492,1,https://pokejungle.net/sprites/shiny/0492.png
 snivy,Snivy,,,,Starter,TRUE,FALSE,Unova,0495,15,https://pokejungle.net/sprites/shiny/0495.png
 serperior,Serperior,,,,Starter,TRUE,FALSE,Unova,0497,1,https://pokejungle.net/sprites/shiny/0497.png
 tepig,Tepig,,,,Starter,TRUE,FALSE,Unova,0498,8,https://pokejungle.net/sprites/shiny/0498.png
@@ -200,7 +198,6 @@ roggenrola,Roggenrola,,,,,TRUE,FALSE,Unova,0524,4,https://pokejungle.net/sprites
 drilbur,Drilbur,,,,,FALSE,FALSE,Unova,0529,1,https://pokejungle.net/sprites/shiny/0529.png
 timburr,Timburr,,,,,TRUE,FALSE,Unova,0532,14,https://pokejungle.net/sprites/shiny/0532.png
 conkeldurr,Conkeldurr,,,,,TRUE,FALSE,Unova,0534,1,https://pokejungle.net/sprites/shiny/0534.png
-emolga,Emolga,,,,,FALSE,FALSE,Unova,0587,1,https://pokejungle.net/sprites/shiny/0587.png
 alomomola,Alomomola,,,,,FALSE,FALSE,Unova,0594,1,https://pokejungle.net/sprites/shiny/0594.png
 ferroseed,Ferroseed,,,,,FALSE,FALSE,Unova,0597,1,https://pokejungle.net/sprites/shiny/0597.png
 tynamo,Tynamo,,,,,FALSE,FALSE,Unova,0602,13,https://pokejungle.net/sprites/shiny/0602.png
@@ -221,8 +218,7 @@ bunnelby,Bunnelby,,,,,FALSE,FALSE,Kalos,0659,3,https://pokejungle.net/sprites/sh
 fletchling,Fletchling,,,,,TRUE,FALSE,Kalos,0661,7,https://pokejungle.net/sprites/shiny/0661.png
 talonflame,Talonflame,,,,,TRUE,FALSE,Kalos,0663,1,https://pokejungle.net/sprites/shiny/0663.png
 inkay,Inkay,,,,,FALSE,FALSE,Kalos,0686,1,https://pokejungle.net/sprites/shiny/0686.png
-binacle,Binacle,,,,,FALSE,FALSE,Kalos,0688,1,https://pokejungle.net/sprites/shiny/0688.png
-tyrunt,Tyrunt,,,,,FALSE,FALSE,Kalos,0696,2,https://pokejungle.net/sprites/shiny/0696.png
+tyrunt,Tyrunt,,,,,FALSE,FALSE,Kalos,0696,1,https://pokejungle.net/sprites/shiny/0696.png
 amaura,Amaura,,,,,FALSE,FALSE,Kalos,0698,2,https://pokejungle.net/sprites/shiny/0698.png
 dedenne,Dedenne,,,,,FALSE,FALSE,Kalos,0702,2,https://pokejungle.net/sprites/shiny/0702.png
 goomy,Goomy,,,,,FALSE,FALSE,Kalos,0704,9,https://pokejungle.net/sprites/shiny/0704.png
