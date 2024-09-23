@@ -9,7 +9,7 @@ caterpie,Caterpie,,,,,FALSE,FALSE,Kanto,0010,1,https://pokejungle.net/sprites/sh
 weedle,Weedle,,,,,TRUE,FALSE,Kanto,0013,3,https://pokejungle.net/sprites/shiny/0013.png
 beedrill,Beedrill,,,,,TRUE,FALSE,Kanto,0015,2,https://pokejungle.net/sprites/shiny/0015.png
 pidgey,Pidgey,,,,,FALSE,FALSE,Kanto,0016,6,https://pokejungle.net/sprites/shiny/0016.png
-rattata-male,Rattata,Male,1,,,FALSE,FALSE,Kanto,0019,1,https://pokejungle.net/sprites/shiny/0019.png
+rattata-male,Rattata,Male,1,,,FALSE,FALSE,Kanto,0019,2,https://pokejungle.net/sprites/shiny/0019.png
 spearow,Spearow,,,,,FALSE,FALSE,Kanto,0021,1,https://pokejungle.net/sprites/shiny/0021.png
 pikachu-male,Pikachu,Male,1,Hat,,FALSE,FALSE,Kanto,0025,4,https://pokejungle.net/sprites/shiny/0025.png
 pikachu-male,Pikachu,Male,1,,,TRUE,FALSE,Kanto,0025,3,https://pokejungle.net/sprites/shiny/0025.png
@@ -55,7 +55,6 @@ rhyhorn-female,Rhyhorn,Female,2,,,TRUE,FALSE,Kanto,0111,2,https://pokejungle.net
 rhydon-female,Rhydon,Female,2,,,TRUE,FALSE,Kanto,0112,1,https://pokejungle.net/sprites/shiny/0112-f.png
 chansey,Chansey,,,,,TRUE,FALSE,Kanto,0113,6,https://pokejungle.net/sprites/shiny/0113.png
 horsea,Horsea,,,,,FALSE,FALSE,Kanto,0116,2,https://pokejungle.net/sprites/shiny/0116.png
-seadra,Seadra,,,,,FALSE,FALSE,Kanto,0117,1,https://pokejungle.net/sprites/shiny/0117.png
 scyther-male,Scyther,Male,1,,,FALSE,FALSE,Kanto,0123,2,https://pokejungle.net/sprites/shiny/0123.png
 electabuzz,Electabuzz,,,,,TRUE,FALSE,Kanto,0125,9,https://pokejungle.net/sprites/shiny/0125.png
 magmar,Magmar,,,,,TRUE,FALSE,Kanto,0126,8,https://pokejungle.net/sprites/shiny/0126.png
