@@ -1137,7 +1137,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 1136,stonjourner,Stonjourner,,,Stonjourner,,0874,FALSE,FALSE,TRUE,Galar,8,38,26,5,2,TRUE,https://pokejungle.net/sprites/shiny/0874.png,
 1137,eiscue,Eiscue,,,Eiscue,,0875,FALSE,FALSE,TRUE,Galar,8,38,27,5,3,TRUE,https://pokejungle.net/sprites/shiny/0875.png,
 1138,indeedee-male,Indeedee,Male,1,Indeedee,,0876,FALSE,FALSE,TRUE,Galar,8,38,28,5,4,TRUE,https://pokejungle.net/sprites/shiny/0876.png,
-1139,indeedee-female,Indeedee,Female,2,Indeedee,,0876,FALSE,FALSE,TRUE,Galar,8,38,29,5,5,FALSE,https://pokejungle.net/sprites/shiny/0876-f.png,
+1139,indeedee-female,Indeedee,Female,2,Indeedee,,0876,FALSE,FALSE,TRUE,Galar,8,38,29,5,5,TRUE,https://pokejungle.net/sprites/shiny/0876-f.png,
 1140,morpeko,Morpeko,,,Morpeko,,0877,FALSE,FALSE,TRUE,Galar,8,38,30,5,6,TRUE,https://pokejungle.net/sprites/shiny/0877.png,
 1141,cufant,Cufant,,,Cufant,,0878,FALSE,FALSE,TRUE,Galar,8,39,1,1,1,TRUE,https://pokejungle.net/sprites/shiny/0878.png,
 1142,copperajah,Copperajah,,,Cufant,,0879,FALSE,FALSE,TRUE,Galar,8,39,2,1,2,TRUE,https://pokejungle.net/sprites/shiny/0879.png,
