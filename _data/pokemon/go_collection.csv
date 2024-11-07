@@ -18,7 +18,7 @@ sandshrew,Sandshrew,,1,,,TRUE,FALSE,Kanto,0027,2,https://pokejungle.net/sprites/
 sandshrew-alolan,Sandshrew,Alolan,2,,,TRUE,FALSE,Alola,0027,8,https://pokejungle.net/sprites/shiny/0027-1.png
 sandslash-alolan,Sandslash,Alolan,2,,,TRUE,FALSE,Alola,0028,1,https://pokejungle.net/sprites/shiny/0028-1.png
 nidoran-♂,Nidoran ♂,,,,,FALSE,FALSE,Kanto,0032,1,https://pokejungle.net/sprites/shiny/0032.png
-jigglypuff,Jigglypuff,,,,,FALSE,FALSE,Kanto,0039,2,https://pokejungle.net/sprites/shiny/0039.png
+jigglypuff,Jigglypuff,,,,,FALSE,FALSE,Kanto,0039,3,https://pokejungle.net/sprites/shiny/0039.png
 zubat-male,Zubat,Male,1,,,FALSE,FALSE,Kanto,0041,1,https://pokejungle.net/sprites/shiny/0041.png
 zubat-female,Zubat,Female,2,,,FALSE,FALSE,Kanto,0041,1,https://pokejungle.net/sprites/shiny/0041-f.png
 oddish,Oddish,,,,,FALSE,FALSE,Kanto,0043,2,https://pokejungle.net/sprites/shiny/0043.png
@@ -170,7 +170,6 @@ gible-male,Gible,Male,1,,,TRUE,FALSE,Sinnoh,0443,6,https://pokejungle.net/sprite
 gible-female,Gible,Female,2,,,TRUE,FALSE,Sinnoh,0443,3,https://pokejungle.net/sprites/shiny/0443-f.png
 garchomp-male,Garchomp,Male,1,,,TRUE,FALSE,Sinnoh,0445,1,https://pokejungle.net/sprites/shiny/0445.png
 garchomp-female,Garchomp,Female,2,,,TRUE,FALSE,Sinnoh,0445,1,https://pokejungle.net/sprites/shiny/0445-f.png
-lucario,Lucario,,,,,FALSE,FALSE,Sinnoh,0448,1,https://pokejungle.net/sprites/shiny/0448.png
 electivire,Electivire,,,,,TRUE,FALSE,Sinnoh,0466,2,https://pokejungle.net/sprites/shiny/0466.png
 magmortar,Magmortar,,,,,TRUE,FALSE,Sinnoh,0467,2,https://pokejungle.net/sprites/shiny/0467.png
 mamoswine-male,Mamoswine,Male,1,,,TRUE,FALSE,Sinnoh,0473,1,https://pokejungle.net/sprites/shiny/0473.png
