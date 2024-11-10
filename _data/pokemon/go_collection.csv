@@ -49,7 +49,7 @@ gengar,Gengar,,,,,TRUE,FALSE,Kanto,0094,2,https://pokejungle.net/sprites/shiny/0
 onix,Onix,,,,,FALSE,FALSE,Kanto,0095,4,https://pokejungle.net/sprites/shiny/0095.png
 voltorb,Voltorb,,1,,,FALSE,FALSE,Kanto,0100,2,https://pokejungle.net/sprites/shiny/0100.png
 exeggutor-alolan,Exeggutor,Alolan,2,,,FALSE,FALSE,Alola,0103,1,https://pokejungle.net/sprites/shiny/0103-1.png
-lickitung,Lickitung,,,,,FALSE,FALSE,Kanto,0108,2,https://pokejungle.net/sprites/shiny/0108.png
+lickitung,Lickitung,,,,,FALSE,FALSE,Kanto,0108,3,https://pokejungle.net/sprites/shiny/0108.png
 rhyhorn-male,Rhyhorn,Male,1,,,TRUE,FALSE,Kanto,0111,2,https://pokejungle.net/sprites/shiny/0111.png
 rhyhorn-female,Rhyhorn,Female,2,,,TRUE,FALSE,Kanto,0111,2,https://pokejungle.net/sprites/shiny/0111-f.png
 rhydon-female,Rhydon,Female,2,,,TRUE,FALSE,Kanto,0112,1,https://pokejungle.net/sprites/shiny/0112-f.png
@@ -81,7 +81,7 @@ natu,Natu,,,,,FALSE,FALSE,Johto,0177,2,https://pokejungle.net/sprites/shiny/0177
 mareep,Mareep,,,,,TRUE,FALSE,Johto,0179,15,https://pokejungle.net/sprites/shiny/0179.png
 ampharos,Ampharos,,,,,TRUE,FALSE,Johto,0181,2,https://pokejungle.net/sprites/shiny/0181.png
 marill,Marill,,,,,FALSE,FALSE,Johto,0183,3,https://pokejungle.net/sprites/shiny/0183.png
-hoppip,Hoppip,,,,,TRUE,FALSE,Johto,0187,7,https://pokejungle.net/sprites/shiny/0187.png
+hoppip,Hoppip,,,,,TRUE,FALSE,Johto,0187,8,https://pokejungle.net/sprites/shiny/0187.png
 jumpluff,Jumpluff,,,,,TRUE,FALSE,Johto,0189,1,https://pokejungle.net/sprites/shiny/0189.png
 aipom-male,Aipom,Male,1,,,FALSE,FALSE,Johto,0190,2,https://pokejungle.net/sprites/shiny/0190.png
 sunkern,Sunkern,,,,,FALSE,FALSE,Johto,0191,1,https://pokejungle.net/sprites/shiny/0191.png
@@ -218,6 +218,7 @@ froakie,Froakie,,,,Starter,TRUE,FALSE,Kalos,0656,8,https://pokejungle.net/sprite
 bunnelby,Bunnelby,,,,,FALSE,FALSE,Kalos,0659,3,https://pokejungle.net/sprites/shiny/0659.png
 fletchling,Fletchling,,,,,TRUE,FALSE,Kalos,0661,7,https://pokejungle.net/sprites/shiny/0661.png
 talonflame,Talonflame,,,,,TRUE,FALSE,Kalos,0663,1,https://pokejungle.net/sprites/shiny/0663.png
+pancham,Pancham,,,,,FALSE,FALSE,Kalos,0674,1,https://pokejungle.net/sprites/shiny/0674.png
 inkay,Inkay,,,,,FALSE,FALSE,Kalos,0686,1,https://pokejungle.net/sprites/shiny/0686.png
 tyrunt,Tyrunt,,,,,FALSE,FALSE,Kalos,0696,1,https://pokejungle.net/sprites/shiny/0696.png
 amaura,Amaura,,,,,FALSE,FALSE,Kalos,0698,2,https://pokejungle.net/sprites/shiny/0698.png
