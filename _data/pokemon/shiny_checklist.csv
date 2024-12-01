@@ -1249,7 +1249,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 1248,rabsca,Rabsca,,,Rellor,,0954,FALSE,FALSE,TRUE,Paldea,10,42,18,3,6,TRUE,https://pokejungle.net/sprites/shiny/0954.png,
 1249,flittle,Flittle,,,Flittle,,0955,FALSE,FALSE,TRUE,Paldea,10,42,19,4,1,TRUE,https://pokejungle.net/sprites/shiny/0955.png,
 1250,espathra,Espathra,,,Flittle,,0956,FALSE,FALSE,TRUE,Paldea,10,42,20,4,2,TRUE,https://pokejungle.net/sprites/shiny/0956.png,
-1251,tinkatink,Tinkatink,,,Tinkatink,,0957,FALSE,FALSE,TRUE,Paldea,10,42,21,4,3,FALSE,https://pokejungle.net/sprites/shiny/0957.png,
+1251,tinkatink,Tinkatink,,,Tinkatink,,0957,FALSE,FALSE,TRUE,Paldea,10,42,21,4,3,TRUE,https://pokejungle.net/sprites/shiny/0957.png,
 1252,tinkatuff,Tinkatuff,,,Tinkatink,,0958,FALSE,FALSE,TRUE,Paldea,10,42,22,4,4,TRUE,https://pokejungle.net/sprites/shiny/0958.png,
 1253,tinkaton,Tinkaton,,,Tinkatink,,0959,FALSE,FALSE,TRUE,Paldea,10,42,23,4,5,TRUE,https://pokejungle.net/sprites/shiny/0959.png,
 1254,wiglett,Wiglett,,,Wiglett,,0960,FALSE,FALSE,TRUE,Paldea,10,42,24,4,6,TRUE,https://pokejungle.net/sprites/shiny/0960.png,
