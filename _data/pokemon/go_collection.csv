@@ -140,6 +140,7 @@ roselia-male,Roselia,Male,1,,,TRUE,FALSE,Hoenn,0315,5,https://pokejungle.net/spr
 roselia-female,Roselia,Female,2,,,TRUE,FALSE,Hoenn,0315,4,https://pokejungle.net/sprites/shiny/0315-f.png
 gulpin-male,Gulpin,Male,1,,,FALSE,FALSE,Hoenn,0316,1,https://pokejungle.net/sprites/shiny/0316.png
 wailmer,Wailmer,,,,,FALSE,FALSE,Hoenn,0320,1,https://pokejungle.net/sprites/shiny/0320.png
+spoink,Spoink,,,,,FALSE,FALSE,Hoenn,0325,1,https://pokejungle.net/sprites/shiny/0325.png
 trapinch,Trapinch,,,,,TRUE,FALSE,Hoenn,0328,2,https://pokejungle.net/sprites/shiny/0328.png
 vibrava,Vibrava,,,,,TRUE,FALSE,Hoenn,0329,1,https://pokejungle.net/sprites/shiny/0329.png
 flygon,Flygon,,,,,TRUE,FALSE,Hoenn,0330,1,https://pokejungle.net/sprites/shiny/0330.png
@@ -179,6 +180,7 @@ roserade-male,Roserade,Male,1,,,TRUE,FALSE,Sinnoh,0407,1,https://pokejungle.net/
 roserade-female,Roserade,Female,2,,,TRUE,FALSE,Sinnoh,0407,1,https://pokejungle.net/sprites/shiny/0407-f.png
 buneary,Buneary,,,,,FALSE,FALSE,Sinnoh,0427,5,https://pokejungle.net/sprites/shiny/0427.png
 glameow,Glameow,,,,,FALSE,FALSE,Sinnoh,0431,1,https://pokejungle.net/sprites/shiny/0431.png
+stunky,Stunky,,,,,FALSE,FALSE,Sinnoh,0434,1,https://pokejungle.net/sprites/shiny/0434.png
 bronzor,Bronzor,,,,,FALSE,FALSE,Sinnoh,0436,9,https://pokejungle.net/sprites/shiny/0436.png
 gible-male,Gible,Male,1,,,TRUE,FALSE,Sinnoh,0443,6,https://pokejungle.net/sprites/shiny/0443.png
 gible-female,Gible,Female,2,,,TRUE,FALSE,Sinnoh,0443,3,https://pokejungle.net/sprites/shiny/0443-f.png
@@ -269,5 +271,5 @@ toxtricity-low-key,Toxtricity,Low-Key,2,Gigantamax,,FALSE,FALSE,Galar,0849,1,htt
 toxtricity-low-key,Toxtricity,Low-Key,2,,,FALSE,FALSE,Galar,0849,1,https://pokejungle.net/sprites/shiny/0849-1.png
 obstagoon,Obstagoon,,,,,TRUE,FALSE,Galar,0862,1,https://pokejungle.net/sprites/shiny/0862.png
 falinks,Falinks,,,,,FALSE,FALSE,Galar,0870,1,https://pokejungle.net/sprites/shiny/0870.png
-sprigatito,Sprigatito,,,,Starter,FALSE,FALSE,Paldea,0906,14,https://pokejungle.net/sprites/shiny/0906.png
+sprigatito,Sprigatito,,,,Starter,TRUE,FALSE,Paldea,0906,14,https://pokejungle.net/sprites/shiny/0906.png
 smoliv,Smoliv,,,,,FALSE,FALSE,Paldea,0928,1,https://pokejungle.net/sprites/shiny/0928.png
