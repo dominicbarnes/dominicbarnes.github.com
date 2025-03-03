@@ -51,6 +51,7 @@ magikarp-male,Magikarp,Male,1,,Kanto,0129,go,poke,1,FALSE,FALSE,FALSE,FALSE,http
 magikarp-female,Magikarp,Female,2,,Kanto,0129,go,poke,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0129-f.png
 magikarp-female,Magikarp,Female,2,,Kanto,0129,go,great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0129-f.png
 gyarados-female,Gyarados,Female,2,,Kanto,0130,go,ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0130-f.png
+porygon,Porygon,,,,Kanto,0137,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0137.png
 cyndaquil,Cyndaquil,,,Starter,Johto,0155,go,poke,2,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0155.png
 pichu,Pichu,,,Baby,Johto,0172,paldea,premier,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0172.png
 ampharos,Ampharos,,,,Johto,0181,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0181.png
@@ -73,6 +74,7 @@ ursaring-male,Ursaring,Male,1,,Johto,0217,go,poke,1,FALSE,FALSE,FALSE,TRUE,https
 swinub,Swinub,,,,Johto,0220,go,poke,3,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0220.png
 piloswine-female,Piloswine,Female,2,,Johto,0221,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0221-f.png
 delibird,Delibird,,,,Johto,0225,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0225.png
+porygon2,Porygon2,,,,Johto,0233,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0233.png
 elekid,Elekid,,,Baby,Johto,0239,hisui,leaden,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0239.png
 larvitar,Larvitar,,,,Johto,0246,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0246.png
 larvitar,Larvitar,,,,Johto,0246,paldea,premier,4,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0246.png
@@ -130,6 +132,7 @@ carnivine,Carnivine,,,,Sinnoh,0455,hisui,hisuian-poke,2,FALSE,FALSE,FALSE,FALSE,
 finneon-female,Finneon,Female,2,,Sinnoh,0456,hisui,jet,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0456-f.png
 snover-male,Snover,Male,1,,Sinnoh,0459,hisui,hisuian-ultra,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0459.png
 snover-male,Snover,Male,1,,Sinnoh,0459,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0459.png
+porygon-z,Porygon-Z,,,,Sinnoh,0474,go,poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0474.png
 probopass,Probopass,,,,Sinnoh,0476,hisui,gigaton,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0476.png
 snivy,Snivy,,,Starter,Unova,0495,go,great,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0495.png
 oshawott,Oshawott,,,Starter,Unova,0501,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0501.png
@@ -140,6 +143,7 @@ tynamo,Tynamo,,,,Unova,0602,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.
 pawniard,Pawniard,,,,Unova,0624,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0624.png
 deino,Deino,,,,Unova,0633,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0633.png
 hydreigon,Hydreigon,,,,Unova,0635,go,ultra,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0635.png
+kyurem,Kyurem,,,Legendary,Unova,0646,go,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0646.png
 chespin,Chespin,,,Starter,Kalos,0650,go,ultra,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0650.png
 vivillon-jungle,Vivillon,Jungle,18,,Kalos,0666,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-17.png
 sliggoo-hisuian,Sliggoo,Hisuian,2,,Hisui,0705,paldea,luxury,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0705-1.png
@@ -148,6 +152,7 @@ rockruff,Rockruff,,1,,Alola,0744,go,premier,1,FALSE,FALSE,FALSE,TRUE,https://pok
 stufful,Stufful,,,,Alola,0759,go,poke,4,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0759.png
 comfey,Comfey,,,,Alola,0764,paldea,premier,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0764.png
 mimikyu,Mimikyu,,,,Alola,0778,paldea,premier,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0778.png
+guzzlord,Guzzlord,,,Ultra Beast,Alola,0799,go,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0799.png
 meltan,Meltan,,,Mythical,Alola,0808,go,ultra,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0808.png
 meltan,Meltan,,,Mythical,Alola,0808,go,strange,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0808.png
 drednaw,Drednaw,,,,Galar,0834,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0834.png
