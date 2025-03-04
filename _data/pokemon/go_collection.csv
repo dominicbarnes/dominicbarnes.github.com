@@ -30,7 +30,7 @@ diglett,Diglett,,1,Hat,,FALSE,FALSE,Kanto,0050,1,https://pokejungle.net/sprites/
 diglett,Diglett,,1,,,FALSE,FALSE,Kanto,0050,2,https://pokejungle.net/sprites/shiny/0050.png
 meowth,Meowth,,1,,,FALSE,FALSE,Kanto,0052,1,https://pokejungle.net/sprites/shiny/0052.png
 meowth-alolan,Meowth,Alolan,2,,,FALSE,FALSE,Alola,0052,5,https://pokejungle.net/sprites/shiny/0052-1.png
-mankey,Mankey,,,,,TRUE,FALSE,Kanto,0056,7,https://pokejungle.net/sprites/shiny/0056.png
+mankey,Mankey,,,,,TRUE,FALSE,Kanto,0056,8,https://pokejungle.net/sprites/shiny/0056.png
 poliwag,Poliwag,,,,,TRUE,FALSE,Kanto,0060,2,https://pokejungle.net/sprites/shiny/0060.png
 abra,Abra,,,,,TRUE,FALSE,Kanto,0063,6,https://pokejungle.net/sprites/shiny/0063.png
 machop,Machop,,,Dynamax,,FALSE,FALSE,Kanto,0066,1,https://pokejungle.net/sprites/shiny/0066.png
@@ -236,6 +236,7 @@ cryogonal,Cryogonal,,,Dynamax,,FALSE,FALSE,Unova,0615,1,https://pokejungle.net/s
 shelmet,Shelmet,,,,,TRUE,FALSE,Unova,0616,2,https://pokejungle.net/sprites/shiny/0616.png
 stunfisk,Stunfisk,,1,,,FALSE,FALSE,Unova,0618,1,https://pokejungle.net/sprites/shiny/0618.png
 stunfisk-galarian,Stunfisk,Galarian,2,,,FALSE,FALSE,Galar,0618,2,https://pokejungle.net/sprites/shiny/0618-1.png
+bouffalant,Bouffalant,,,,,FALSE,TRUE,Unova,0626,1,https://pokejungle.net/sprites/shiny/0626.png
 vullaby,Vullaby,,,,,FALSE,FALSE,Unova,0629,3,https://pokejungle.net/sprites/shiny/0629.png
 deino,Deino,,,,,TRUE,FALSE,Unova,0633,5,https://pokejungle.net/sprites/shiny/0633.png
 hydreigon,Hydreigon,,,,,TRUE,FALSE,Unova,0635,1,https://pokejungle.net/sprites/shiny/0635.png
