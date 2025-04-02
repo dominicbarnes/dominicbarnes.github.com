@@ -719,7 +719,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 718,reuniclus,Reuniclus,,,Solosis,,0579,TRUE,FALSE,TRUE,Unova,5,24,28,5,4,TRUE,https://pokejungle.net/sprites/shiny/0579.png,
 719,ducklett,Ducklett,,,Ducklett,,0580,TRUE,FALSE,TRUE,Unova,5,24,29,5,5,TRUE,https://pokejungle.net/sprites/shiny/0580.png,
 720,swanna,Swanna,,,Ducklett,,0581,TRUE,FALSE,TRUE,Unova,5,24,30,5,6,TRUE,https://pokejungle.net/sprites/shiny/0581.png,
-721,vanillite,Vanillite,,,Vanillite,,0582,TRUE,FALSE,TRUE,Unova,5,25,1,1,1,FALSE,https://pokejungle.net/sprites/shiny/0582.png,
+721,vanillite,Vanillite,,,Vanillite,,0582,TRUE,FALSE,TRUE,Unova,5,25,1,1,1,GO CD,https://pokejungle.net/sprites/shiny/0582.png,
 722,vanillish,Vanillish,,,Vanillite,,0583,TRUE,FALSE,TRUE,Unova,5,25,2,1,2,TRUE,https://pokejungle.net/sprites/shiny/0583.png,
 723,vanilluxe,Vanilluxe,,,Vanillite,,0584,TRUE,FALSE,TRUE,Unova,5,25,3,1,3,TRUE,https://pokejungle.net/sprites/shiny/0584.png,
 724,deerling-spring,Deerling,Spring,1,Deerling,,0585,TRUE,FALSE,TRUE,Unova,5,25,4,1,4,TRUE,https://pokejungle.net/sprites/shiny/0585.png,
