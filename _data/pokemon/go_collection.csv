@@ -34,9 +34,9 @@ meowth-alolan,Meowth,Alolan,2,,,FALSE,FALSE,Alola,0052,5,https://pokejungle.net/
 mankey,Mankey,,,,,TRUE,FALSE,Kanto,0056,8,https://pokejungle.net/sprites/shiny/0056.png
 poliwag,Poliwag,,,,,TRUE,FALSE,Kanto,0060,2,https://pokejungle.net/sprites/shiny/0060.png
 abra,Abra,,,,,TRUE,FALSE,Kanto,0063,6,https://pokejungle.net/sprites/shiny/0063.png
-machop,Machop,,,Dynamax,,FALSE,FALSE,Kanto,0066,1,https://pokejungle.net/sprites/shiny/0066.png
-machop,Machop,,,,,TRUE,FALSE,Kanto,0066,11,https://pokejungle.net/sprites/shiny/0066.png
-machop,Machop,,,Dynamax,,FALSE,FALSE,Kanto,0066,1,https://pokejungle.net/sprites/shiny/0066.png
+machop,Machop,,,Dynamax,,FALSE,FALSE,Kanto,0066,2,https://pokejungle.net/sprites/shiny/0066.png
+machop,Machop,,,,,TRUE,FALSE,Kanto,0066,15,https://pokejungle.net/sprites/shiny/0066.png
+machamp,Machamp,,,Gigantamax,,FALSE,FALSE,Kanto,0068,1,https://pokejungle.net/sprites/shiny/0068.png
 bellsprout,Bellsprout,,,,,TRUE,FALSE,Kanto,0069,8,https://pokejungle.net/sprites/shiny/0069.png
 tentacool,Tentacool,,,,,FALSE,FALSE,Kanto,0072,2,https://pokejungle.net/sprites/shiny/0072.png
 geodude,Geodude,,1,Shadow,,FALSE,FALSE,Kanto,0074,1,https://pokejungle.net/sprites/shiny/0074.png
@@ -128,7 +128,7 @@ celebi,Celebi,,,,Mythical,FALSE,FALSE,Johto,0251,1,https://pokejungle.net/sprite
 torchic-male,Torchic,Male,1,,Starter,TRUE,FALSE,Hoenn,0255,1,https://pokejungle.net/sprites/shiny/0255.png
 blaziken-male,Blaziken,Male,1,,Starter,TRUE,FALSE,Hoenn,0257,1,https://pokejungle.net/sprites/shiny/0257.png
 mudkip,Mudkip,,,,Starter,TRUE,FALSE,Hoenn,0258,4,https://pokejungle.net/sprites/shiny/0258.png
-zigzagoon-galarian,Zigzagoon,Galarian,2,,,TRUE,FALSE,Galar,0263,11,https://pokejungle.net/sprites/shiny/0263-1.png
+zigzagoon-galarian,Zigzagoon,Galarian,2,,,TRUE,FALSE,Galar,0263,12,https://pokejungle.net/sprites/shiny/0263-1.png
 wurmple,Wurmple,,,Party Hat,,FALSE,FALSE,Hoenn,0265,2,https://pokejungle.net/sprites/shiny/0265.png
 lotad,Lotad,,,,,FALSE,FALSE,Hoenn,0270,3,https://pokejungle.net/sprites/shiny/0270.png
 seedot,Seedot,,,,,TRUE,FALSE,Hoenn,0273,6,https://pokejungle.net/sprites/shiny/0273.png
@@ -142,7 +142,7 @@ azurill,Azurill,,,,Baby,FALSE,FALSE,Hoenn,0298,1,https://pokejungle.net/sprites/
 sableye,Sableye,,,,,FALSE,FALSE,Hoenn,0302,1,https://pokejungle.net/sprites/shiny/0302.png
 mawile,Mawile,,,,,FALSE,FALSE,Hoenn,0303,2,https://pokejungle.net/sprites/shiny/0303.png
 aron,Aron,,,,,FALSE,FALSE,Hoenn,0304,4,https://pokejungle.net/sprites/shiny/0304.png
-meditite-female,Meditite,Female,2,,,FALSE,FALSE,Hoenn,0307,2,https://pokejungle.net/sprites/shiny/0307-f.png
+meditite-female,Meditite,Female,2,,,FALSE,FALSE,Hoenn,0307,3,https://pokejungle.net/sprites/shiny/0307-f.png
 electrike,Electrike,,,,,FALSE,FALSE,Hoenn,0309,4,https://pokejungle.net/sprites/shiny/0309.png
 plusle,Plusle,,,,,FALSE,FALSE,Hoenn,0311,4,https://pokejungle.net/sprites/shiny/0311.png
 minun,Minun,,,,,FALSE,FALSE,Hoenn,0312,3,https://pokejungle.net/sprites/shiny/0312.png
@@ -217,9 +217,9 @@ giratina,Giratina,,1,Altered,Legendary,FALSE,FALSE,Sinnoh,0487,2,https://pokejun
 giratina,Giratina,,1,Origin,Legendary,FALSE,FALSE,Sinnoh,0487,3,https://pokejungle.net/sprites/shiny/0487.png
 cresselia,Cresselia,,,,Legendary,FALSE,FALSE,Sinnoh,0488,1,https://pokejungle.net/sprites/shiny/0488.png
 darkrai,Darkrai,,,,Mythical,FALSE,FALSE,Sinnoh,0491,2,https://pokejungle.net/sprites/shiny/0491.png
-snivy,Snivy,,,,Starter,TRUE,FALSE,Unova,0495,15,https://pokejungle.net/sprites/shiny/0495.png
+snivy,Snivy,,,,Starter,TRUE,FALSE,Unova,0495,13,https://pokejungle.net/sprites/shiny/0495.png
 serperior,Serperior,,,,Starter,TRUE,FALSE,Unova,0497,1,https://pokejungle.net/sprites/shiny/0497.png
-tepig,Tepig,,,,Starter,TRUE,FALSE,Unova,0498,9,https://pokejungle.net/sprites/shiny/0498.png
+tepig,Tepig,,,,Starter,TRUE,FALSE,Unova,0498,6,https://pokejungle.net/sprites/shiny/0498.png
 pignite,Pignite,,,,Starter,TRUE,FALSE,Unova,0499,1,https://pokejungle.net/sprites/shiny/0499.png
 emboar,Emboar,,,,Starter,TRUE,FALSE,Unova,0500,1,https://pokejungle.net/sprites/shiny/0500.png
 oshawott,Oshawott,,,,Starter,TRUE,FALSE,Unova,0501,10,https://pokejungle.net/sprites/shiny/0501.png
