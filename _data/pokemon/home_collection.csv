@@ -27,7 +27,8 @@ psyduck,Psyduck,,,,Kanto,0054,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://p
 psyduck,Psyduck,,,,Kanto,0054,hisui,hisuian-great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0054.png
 kadabra-male,Kadabra,Male,1,,Kanto,0064,hisui,hisuian-great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0064.png
 machop,Machop,,,,Kanto,0066,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0066.png
-machop,Machop,,,,Kanto,0066,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0066.png
+machop,Machop,,,,Kanto,0066,go,poke,3,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0066.png
+machop,Machop,,,,Kanto,0066,go,great,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0066.png
 machop,Machop,,,,Kanto,0066,go,strange,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0066.png
 machoke,Machoke,,,,Kanto,0067,hisui,hisuian-great,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0067.png
 machamp,Machamp,,,,Kanto,0068,go,ultra,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0068.png
