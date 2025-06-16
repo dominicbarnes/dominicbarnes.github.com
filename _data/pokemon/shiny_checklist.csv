@@ -1036,7 +1036,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 1035,magearna-original,Magearna,Original,2,Magearna,Mythical,0801,FALSE,FALSE,FALSE,Alola,7,35,15,3,3,FALSE,,
 1036,marshadow,Marshadow,,,Marshadow,Mythical,0802,FALSE,FALSE,FALSE,Alola,7,35,16,3,4,FALSE,,
 1037,poipole,Poipole,,,Poipole,Ultra Beast,0803,FALSE,FALSE,TRUE,Alola,7,35,17,3,5,FALSE,https://pokejungle.net/sprites/shiny/0803.png,
-1038,naganadel,Naganadel,,,Poipole,Ultra Beast,0804,FALSE,FALSE,TRUE,Alola,7,35,18,3,6,FALSE,https://pokejungle.net/sprites/shiny/0804.png,
+1038,naganadel,Naganadel,,,Poipole,Ultra Beast,0804,FALSE,FALSE,TRUE,Alola,7,35,18,3,6,Home,https://pokejungle.net/sprites/shiny/0804.png,
 1039,stakataka,Stakataka,,,Stakataka,Ultra Beast,0805,TRUE,TRUE,TRUE,Alola,7,35,19,4,1,FALSE,https://pokejungle.net/sprites/shiny/0805.png,
 1040,blacephalon,Blacephalon,,,Blacephalon,Ultra Beast,0806,TRUE,TRUE,TRUE,Alola,7,35,20,4,2,FALSE,https://pokejungle.net/sprites/shiny/0806.png,
 1041,zeraora,Zeraora,,,Zeraora,Mythical,0807,FALSE,FALSE,TRUE,Alola,7,35,21,4,3,TRUE,https://pokejungle.net/sprites/shiny/0807.png,

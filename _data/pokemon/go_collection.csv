@@ -12,7 +12,7 @@ pidgey,Pidgey,,,,,FALSE,FALSE,Kanto,0016,6,https://pokejungle.net/sprites/shiny/
 rattata-male,Rattata,Male,1,,,FALSE,FALSE,Kanto,0019,5,https://pokejungle.net/sprites/shiny/0019.png
 rattata-alolan,Rattata,Alolan,3,,,FALSE,FALSE,Alola,0019,2,https://pokejungle.net/sprites/shiny/0019-1.png
 spearow,Spearow,,,,,FALSE,FALSE,Kanto,0021,2,https://pokejungle.net/sprites/shiny/0021.png
-ekans,Ekans,,,,,FALSE,FALSE,Kanto,0023,4,https://pokejungle.net/sprites/shiny/0023.png
+ekans,Ekans,,,,,FALSE,FALSE,Kanto,0023,5,https://pokejungle.net/sprites/shiny/0023.png
 pikachu-male,Pikachu,Male,1,Hat,,FALSE,FALSE,Kanto,0025,4,https://pokejungle.net/sprites/shiny/0025.png
 pikachu-male,Pikachu,Male,1,,,TRUE,FALSE,Kanto,0025,3,https://pokejungle.net/sprites/shiny/0025.png
 pikachu-female,Pikachu,Female,2,Hat,,FALSE,FALSE,Kanto,0025,1,https://pokejungle.net/sprites/shiny/0025-f.png
@@ -82,6 +82,7 @@ jolteon,Jolteon,,,,,TRUE,FALSE,Kanto,0135,1,https://pokejungle.net/sprites/shiny
 porygon,Porygon,,,,,TRUE,FALSE,Kanto,0137,12,https://pokejungle.net/sprites/shiny/0137.png
 kabuto,Kabuto,,,,,FALSE,FALSE,Kanto,0140,1,https://pokejungle.net/sprites/shiny/0140.png
 snorlax,Snorlax,,,Jacket,,FALSE,FALSE,Kanto,0143,1,https://pokejungle.net/sprites/shiny/0143.png
+articuno,Articuno,,1,,Legendary,FALSE,FALSE,Kanto,0144,1,https://pokejungle.net/sprites/shiny/0144.png
 zapdos,Zapdos,,1,,Legendary,FALSE,FALSE,Kanto,0145,1,https://pokejungle.net/sprites/shiny/0145.png
 dratini,Dratini,,,,,TRUE,FALSE,Kanto,0147,6,https://pokejungle.net/sprites/shiny/0147.png
 dragonair,Dragonair,,,,,TRUE,FALSE,Kanto,0148,1,https://pokejungle.net/sprites/shiny/0148.png
@@ -175,7 +176,6 @@ regirock,Regirock,,,,Legendary,FALSE,FALSE,Hoenn,0377,2,https://pokejungle.net/s
 registeel,Registeel,,,,Legendary,FALSE,FALSE,Hoenn,0379,1,https://pokejungle.net/sprites/shiny/0379.png
 latias,Latias,,,,Legendary,FALSE,FALSE,Hoenn,0380,2,https://pokejungle.net/sprites/shiny/0380.png
 groudon,Groudon,,,,Legendary,FALSE,FALSE,Hoenn,0383,1,https://pokejungle.net/sprites/shiny/0383.png
-jirachi,Jirachi,,,,Mythical,FALSE,FALSE,Hoenn,0385,1,https://pokejungle.net/sprites/shiny/0385.png
 deoxys-defense,Deoxys,Defense,3,,Mythical,FALSE,FALSE,Hoenn,0386,1,https://pokejungle.net/sprites/shiny/0386-2.png
 turtwig,Turtwig,,,,Starter,TRUE,FALSE,Sinnoh,0387,8,https://pokejungle.net/sprites/shiny/0387.png
 torterra,Torterra,,,,Starter,TRUE,FALSE,Sinnoh,0389,1,https://pokejungle.net/sprites/shiny/0389.png
@@ -203,6 +203,7 @@ gible-female,Gible,Female,2,,,TRUE,FALSE,Sinnoh,0443,3,https://pokejungle.net/sp
 garchomp-male,Garchomp,Male,1,,,TRUE,FALSE,Sinnoh,0445,1,https://pokejungle.net/sprites/shiny/0445.png
 garchomp-female,Garchomp,Female,2,,,TRUE,FALSE,Sinnoh,0445,1,https://pokejungle.net/sprites/shiny/0445-f.png
 riolu,Riolu,,,,Baby,FALSE,FALSE,Sinnoh,0447,1,https://pokejungle.net/sprites/shiny/0447.png
+skorupi,Skorupi,,,,,FALSE,FALSE,Sinnoh,0451,1,https://pokejungle.net/sprites/shiny/0451.png
 electivire,Electivire,,,,,TRUE,FALSE,Sinnoh,0466,2,https://pokejungle.net/sprites/shiny/0466.png
 magmortar,Magmortar,,,,,TRUE,FALSE,Sinnoh,0467,2,https://pokejungle.net/sprites/shiny/0467.png
 mamoswine-male,Mamoswine,Male,1,,,TRUE,FALSE,Sinnoh,0473,1,https://pokejungle.net/sprites/shiny/0473.png
@@ -236,6 +237,7 @@ timburr,Timburr,,,,,TRUE,FALSE,Unova,0532,11,https://pokejungle.net/sprites/shin
 conkeldurr,Conkeldurr,,,,,TRUE,FALSE,Unova,0534,1,https://pokejungle.net/sprites/shiny/0534.png
 tympole,Tympole,,,,,FALSE,FALSE,Unova,0535,1,https://pokejungle.net/sprites/shiny/0535.png
 sewaddle,Sewaddle,,,,,TRUE,FALSE,Unova,0540,12,https://pokejungle.net/sprites/shiny/0540.png
+cottonee,Cottonee,,,,,FALSE,FALSE,Unova,0546,1,https://pokejungle.net/sprites/shiny/0546.png
 darumaka-galarian,Darumaka,Galarian,2,,,FALSE,FALSE,Galar,0554,2,https://pokejungle.net/sprites/shiny/0554-1.png
 scraggy,Scraggy,,,,,FALSE,FALSE,Unova,0559,1,https://pokejungle.net/sprites/shiny/0559.png
 yamask,Yamask,,1,,,FALSE,FALSE,Unova,0562,8,https://pokejungle.net/sprites/shiny/0562.png
@@ -268,7 +270,7 @@ zekrom,Zekrom,,,,Legendary,FALSE,FALSE,Unova,0644,1,https://pokejungle.net/sprit
 genesect,Genesect,,,,Mythical,FALSE,FALSE,Unova,0649,1,https://pokejungle.net/sprites/shiny/0649.png
 chespin,Chespin,,,,Starter,TRUE,FALSE,Kalos,0650,3,https://pokejungle.net/sprites/shiny/0650.png
 fennekin,Fennekin,,,,Starter,TRUE,FALSE,Kalos,0653,4,https://pokejungle.net/sprites/shiny/0653.png
-froakie,Froakie,,,,Starter,TRUE,FALSE,Kalos,0656,8,https://pokejungle.net/sprites/shiny/0656.png
+froakie,Froakie,,,,Starter,TRUE,FALSE,Kalos,0656,9,https://pokejungle.net/sprites/shiny/0656.png
 bunnelby,Bunnelby,,,,,FALSE,FALSE,Kalos,0659,3,https://pokejungle.net/sprites/shiny/0659.png
 fletchling,Fletchling,,,,,TRUE,FALSE,Kalos,0661,8,https://pokejungle.net/sprites/shiny/0661.png
 talonflame,Talonflame,,,,,TRUE,FALSE,Kalos,0663,1,https://pokejungle.net/sprites/shiny/0663.png
@@ -278,6 +280,7 @@ amaura,Amaura,,,,,FALSE,FALSE,Kalos,0698,2,https://pokejungle.net/sprites/shiny/
 dedenne,Dedenne,,,,,FALSE,FALSE,Kalos,0702,1,https://pokejungle.net/sprites/shiny/0702.png
 goomy,Goomy,,,,,TRUE,FALSE,Kalos,0704,9,https://pokejungle.net/sprites/shiny/0704.png
 goodra,Goodra,,1,,,TRUE,FALSE,Kalos,0706,1,https://pokejungle.net/sprites/shiny/0706.png
+phantump,Phantump,,,,,FALSE,FALSE,Kalos,0708,1,https://pokejungle.net/sprites/shiny/0708.png
 pumpkaboo-small,Pumpkaboo,Small,1,Halloween,,FALSE,FALSE,Kalos,0710,1,https://pokejungle.net/sprites/shiny/0710-1.png
 noibat,Noibat,,,,,TRUE,FALSE,Kalos,0714,6,https://pokejungle.net/sprites/shiny/0714.png
 noivern,Noivern,,,,,TRUE,FALSE,Kalos,0715,1,https://pokejungle.net/sprites/shiny/0715.png
