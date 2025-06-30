@@ -250,7 +250,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 249,unown-o,Unown,O,15,Unown,,0201,TRUE,FALSE,TRUE,Johto,2,9,9,2,3,TRUE,https://pokejungle.net/sprites/shiny/0201-14.png,
 250,unown-p,Unown,P,16,Unown,,0201,TRUE,FALSE,TRUE,Johto,2,9,10,2,4,TRUE,https://pokejungle.net/sprites/shiny/0201-15.png,
 251,unown-q,Unown,Q,17,Unown,,0201,FALSE,FALSE,TRUE,Johto,2,9,11,2,5,FALSE,https://pokejungle.net/sprites/shiny/0201-16.png,
-252,unown-r,Unown,R,18,Unown,,0201,TRUE,FALSE,TRUE,Johto,2,9,12,2,6,FALSE,https://pokejungle.net/sprites/shiny/0201-17.png,
+252,unown-r,Unown,R,18,Unown,,0201,TRUE,FALSE,TRUE,Johto,2,9,12,2,6,TRUE,https://pokejungle.net/sprites/shiny/0201-17.png,
 253,unown-s,Unown,S,19,Unown,,0201,TRUE,FALSE,TRUE,Johto,2,9,13,3,1,TRUE,https://pokejungle.net/sprites/shiny/0201-18.png,
 254,unown-t,Unown,T,20,Unown,,0201,TRUE,FALSE,TRUE,Johto,2,9,14,3,2,FALSE,https://pokejungle.net/sprites/shiny/0201-19.png,
 255,unown-u,Unown,U,21,Unown,,0201,TRUE,FALSE,TRUE,Johto,2,9,15,3,3,TRUE,https://pokejungle.net/sprites/shiny/0201-20.png,
