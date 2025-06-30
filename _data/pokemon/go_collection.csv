@@ -309,8 +309,8 @@ bewear,Bewear,,,,,TRUE,FALSE,Alola,0760,2,https://pokejungle.net/sprites/shiny/0
 bounsweet,Bounsweet,,,,,TRUE,FALSE,Alola,0761,11,https://pokejungle.net/sprites/shiny/0761.png
 tsareena,Tsareena,,,,,TRUE,FALSE,Alola,0763,1,https://pokejungle.net/sprites/shiny/0763.png
 wimpod,Wimpod,,,,,FALSE,FALSE,Alola,0767,4,https://pokejungle.net/sprites/shiny/0767.png
-jangmo-o,Jangmo-o,,,,,FALSE,FALSE,Alola,0782,9,https://pokejungle.net/sprites/shiny/0782.png
-kommo-o,Kommo-o,,,,,FALSE,FALSE,Alola,0784,1,https://pokejungle.net/sprites/shiny/0784.png
+jangmo-o,Jangmo-o,,,,,TRUE,FALSE,Alola,0782,9,https://pokejungle.net/sprites/shiny/0782.png
+kommo-o,Kommo-o,,,,,TRUE,FALSE,Alola,0784,1,https://pokejungle.net/sprites/shiny/0784.png
 tapu-bulu,Tapu Bulu,,,,Legendary,FALSE,FALSE,Alola,0787,1,https://pokejungle.net/sprites/shiny/0787.png
 tapu-fini,Tapu Fini,,,,Legendary,FALSE,FALSE,Alola,0788,2,https://pokejungle.net/sprites/shiny/0788.png
 meltan,Meltan,,,,Mythical,FALSE,FALSE,Alola,0808,2,https://pokejungle.net/sprites/shiny/0808.png
