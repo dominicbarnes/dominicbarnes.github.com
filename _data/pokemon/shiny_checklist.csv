@@ -1295,7 +1295,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 1294,arctibax,Arctibax,,,Frigibax,,0997,TRUE,FALSE,TRUE,Paldea,10,44,4,1,4,TRUE,https://pokejungle.net/sprites/shiny/0997.png,
 1295,baxcalibur,Baxcalibur,,,Frigibax,,0998,TRUE,FALSE,TRUE,Paldea,10,44,5,1,5,TRUE,https://pokejungle.net/sprites/shiny/0998.png,
 1296,gimmighoul-chest-form,Gimmighoul,Chest Form,1,Gimmighoul,,0999,FALSE,FALSE,TRUE,Paldea,10,44,6,1,6,TRUE,https://pokejungle.net/sprites/shiny/0999.png,
-1297,gimmighoul-roaming-form,Gimmighoul,Roaming Form,2,Gimmighoul,,0999,TRUE,FALSE,TRUE,Paldea,10,44,7,2,1,FALSE,https://pokejungle.net/sprites/shiny/0999-1.png,Loading...
+1297,gimmighoul-roaming-form,Gimmighoul,Roaming Form,2,Gimmighoul,,0999,TRUE,FALSE,TRUE,Paldea,10,44,7,2,1,GO,https://pokejungle.net/sprites/shiny/0999-1.png,Loading...
 1298,gholdengo,Gholdengo,,,Gimmighoul,,1000,TRUE,FALSE,TRUE,Paldea,10,44,8,2,2,TRUE,https://pokejungle.net/sprites/shiny/1000.png,
 1299,wo-chien,Wo-Chien,,,Wo-Chien,Legendary,1001,FALSE,FALSE,FALSE,Paldea,10,44,9,2,3,FALSE,,
 1300,chien-pao,Chien-Pao,,,Chien-Pao,Legendary,1002,FALSE,FALSE,FALSE,Paldea,10,44,10,2,4,FALSE,,
