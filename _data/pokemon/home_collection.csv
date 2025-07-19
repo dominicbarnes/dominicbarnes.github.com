@@ -70,6 +70,7 @@ murkrow-male,Murkrow,Male,1,,Johto,0198,paldea,dusk,1,FALSE,FALSE,FALSE,FALSE,ht
 murkrow-female,Murkrow,Female,2,,Johto,0198,paldea,premier,6,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0198-f.png
 forretress,Forretress,,,,Johto,0205,paldea,premier,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0205.png
 dunsparce,Dunsparce,,,,Johto,0206,paldea,quick,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0206.png
+dunsparce,Dunsparce,,,,Johto,0206,paldea,premier,2,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0206.png
 gligar-female,Gligar,Female,2,,Johto,0207,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0207-f.png
 sneasel-male,Sneasel,Male,1,,Johto,0215,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0215.png
 sneasel-female,Sneasel,Female,2,,Johto,0215,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0215-f.png
@@ -153,7 +154,7 @@ timburr,Timburr,,,,Unova,0532,go,poke,2,FALSE,FALSE,FALSE,TRUE,https://pokejungl
 reuniclus,Reuniclus,,,,Unova,0579,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0579.png
 vanillite,Vanillite,,,,Unova,0582,go,poke,4,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0582.png
 sawsbuck-autumn,Sawsbuck,Autumn,3,,Unova,0586,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0586-2.png
-tynamo,Tynamo,,,,Unova,0602,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0602.png
+tynamo,Tynamo,,,,Unova,0602,go,poke,4,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0602.png
 pawniard,Pawniard,,,,Unova,0624,paldea,premier,1,FALSE,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0624.png
 deino,Deino,,,,Unova,0633,go,poke,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0633.png
 hydreigon,Hydreigon,,,,Unova,0635,go,ultra,1,FALSE,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0635.png
