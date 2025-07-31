@@ -48,7 +48,7 @@ ponyta,Ponyta,,1,,,TRUE,FALSE,Kanto,0077,7,https://pokejungle.net/sprites/shiny/
 ponyta-galarian,Ponyta,Galarian,2,,,TRUE,FALSE,Galar,0077,9,https://pokejungle.net/sprites/shiny/0077-1.png
 rapidash,Rapidash,,1,,,TRUE,FALSE,Kanto,0078,1,https://pokejungle.net/sprites/shiny/0078.png
 rapidash-galarian,Rapidash,Galarian,2,,,TRUE,FALSE,Galar,0078,1,https://pokejungle.net/sprites/shiny/0078-1.png
-slowpoke,Slowpoke,,1,,,TRUE,FALSE,Kanto,0079,5,https://pokejungle.net/sprites/shiny/0079.png
+slowpoke,Slowpoke,,1,,,TRUE,FALSE,Kanto,0079,6,https://pokejungle.net/sprites/shiny/0079.png
 slowpoke-galarian,Slowpoke,Galarian,2,,,TRUE,FALSE,Galar,0079,5,https://pokejungle.net/sprites/shiny/0079-1.png
 slowbro,Slowbro,,1,,,TRUE,FALSE,Kanto,0080,1,https://pokejungle.net/sprites/shiny/0080.png
 magnemite,Magnemite,,,,,FALSE,FALSE,Kanto,0081,1,https://pokejungle.net/sprites/shiny/0081.png
@@ -76,7 +76,7 @@ magmar,Magmar,,,,,TRUE,FALSE,Kanto,0126,8,https://pokejungle.net/sprites/shiny/0
 magikarp-male,Magikarp,Male,1,,,TRUE,FALSE,Kanto,0129,10,https://pokejungle.net/sprites/shiny/0129.png
 magikarp-female,Magikarp,Female,2,,,TRUE,FALSE,Kanto,0129,6,https://pokejungle.net/sprites/shiny/0129-f.png
 gyarados-male,Gyarados,Male,1,,,TRUE,FALSE,Kanto,0130,2,https://pokejungle.net/sprites/shiny/0130.png
-lapras,Lapras,,,Gigantamax,,FALSE,FALSE,Kanto,0131,1,https://pokejungle.net/sprites/shiny/0131.png
+lapras,Lapras,,,Gigantamax,,FALSE,FALSE,Kanto,0131,2,https://pokejungle.net/sprites/shiny/0131.png
 eevee-male,Eevee,Male,1,,,TRUE,FALSE,Kanto,0133,22,https://pokejungle.net/sprites/shiny/0133.png
 eevee-female,Eevee,Female,2,,,TRUE,FALSE,Kanto,0133,2,https://pokejungle.net/sprites/shiny/0133-f.png
 vaporeon,Vaporeon,,,,,TRUE,FALSE,Kanto,0134,1,https://pokejungle.net/sprites/shiny/0134.png
@@ -114,6 +114,7 @@ slowking,Slowking,,1,,,TRUE,FALSE,Johto,0199,1,https://pokejungle.net/sprites/sh
 misdreavus,Misdreavus,,,,,FALSE,FALSE,Johto,0200,4,https://pokejungle.net/sprites/shiny/0200.png
 unown-d,Unown,D,4,,,FALSE,FALSE,Johto,0201,1,https://pokejungle.net/sprites/shiny/0201-3.png
 wobbuffet-male,Wobbuffet,Male,1,,,FALSE,FALSE,Johto,0202,1,https://pokejungle.net/sprites/shiny/0202.png
+girafarig-female,Girafarig,Female,2,,,FALSE,FALSE,Johto,0203,1,https://pokejungle.net/sprites/shiny/0203-f.png
 pineco,Pineco,,,,,FALSE,FALSE,Johto,0204,5,https://pokejungle.net/sprites/shiny/0204.png
 snubbull,Snubbull,,,,,FALSE,FALSE,Johto,0209,6,https://pokejungle.net/sprites/shiny/0209.png
 shuckle,Shuckle,,,,,FALSE,FALSE,Johto,0213,1,https://pokejungle.net/sprites/shiny/0213.png
@@ -176,7 +177,7 @@ absol,Absol,,,,,FALSE,FALSE,Hoenn,0359,2,https://pokejungle.net/sprites/shiny/03
 spheal,Spheal,,,,,TRUE,FALSE,Hoenn,0363,15,https://pokejungle.net/sprites/shiny/0363.png
 clamperl,Clamperl,,,,,FALSE,FALSE,Hoenn,0366,5,https://pokejungle.net/sprites/shiny/0366.png
 luvdisc,Luvdisc,,,,,FALSE,FALSE,Hoenn,0370,1,https://pokejungle.net/sprites/shiny/0370.png
-bagon,Bagon,,,,,TRUE,FALSE,Hoenn,0371,9,https://pokejungle.net/sprites/shiny/0371.png
+bagon,Bagon,,,,,TRUE,FALSE,Hoenn,0371,10,https://pokejungle.net/sprites/shiny/0371.png
 beldum,Beldum,,,,,TRUE,FALSE,Hoenn,0374,13,https://pokejungle.net/sprites/shiny/0374.png
 regirock,Regirock,,,,Legendary,FALSE,FALSE,Hoenn,0377,2,https://pokejungle.net/sprites/shiny/0377.png
 registeel,Registeel,,,,Legendary,FALSE,FALSE,Hoenn,0379,1,https://pokejungle.net/sprites/shiny/0379.png
@@ -328,5 +329,6 @@ regieleki,Regieleki,,,,Legendary,FALSE,FALSE,Galar,0894,1,https://pokejungle.net
 sprigatito,Sprigatito,,,,Starter,TRUE,FALSE,Paldea,0906,11,https://pokejungle.net/sprites/shiny/0906.png
 floragato,Floragato,,,Hat,Starter,FALSE,FALSE,Paldea,0907,1,https://pokejungle.net/sprites/shiny/0907.png
 fuecoco,Fuecoco,,,,Starter,TRUE,FALSE,Paldea,0909,8,https://pokejungle.net/sprites/shiny/0909.png
+quaxly,Quaxly,,,,Starter,FALSE,FALSE,Paldea,0912,9,https://pokejungle.net/sprites/shiny/0912.png
 smoliv,Smoliv,,,,,FALSE,FALSE,Paldea,0928,1,https://pokejungle.net/sprites/shiny/0928.png
 annihilape,Annihilape,,,,,TRUE,FALSE,Paldea,0979,1,https://pokejungle.net/sprites/shiny/0979.png
