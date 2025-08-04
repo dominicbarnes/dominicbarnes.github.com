@@ -181,7 +181,6 @@ bagon,Bagon,,,,,TRUE,FALSE,Hoenn,0371,10,https://pokejungle.net/sprites/shiny/03
 beldum,Beldum,,,,,TRUE,FALSE,Hoenn,0374,13,https://pokejungle.net/sprites/shiny/0374.png
 regirock,Regirock,,,,Legendary,FALSE,FALSE,Hoenn,0377,2,https://pokejungle.net/sprites/shiny/0377.png
 registeel,Registeel,,,,Legendary,FALSE,FALSE,Hoenn,0379,1,https://pokejungle.net/sprites/shiny/0379.png
-latias,Latias,,,,Legendary,FALSE,FALSE,Hoenn,0380,1,https://pokejungle.net/sprites/shiny/0380.png
 kyogre,Kyogre,,,,Legendary,FALSE,FALSE,Hoenn,0382,1,https://pokejungle.net/sprites/shiny/0382.png
 groudon,Groudon,,,,Legendary,FALSE,FALSE,Hoenn,0383,1,https://pokejungle.net/sprites/shiny/0383.png
 deoxys-defense,Deoxys,Defense,3,,Mythical,FALSE,FALSE,Hoenn,0386,1,https://pokejungle.net/sprites/shiny/0386-2.png
@@ -273,6 +272,7 @@ stunfisk,Stunfisk,,1,,,FALSE,FALSE,Unova,0618,1,https://pokejungle.net/sprites/s
 stunfisk-galarian,Stunfisk,Galarian,2,,,FALSE,FALSE,Galar,0618,4,https://pokejungle.net/sprites/shiny/0618-1.png
 golett,Golett,,,,,FALSE,FALSE,Unova,0622,2,https://pokejungle.net/sprites/shiny/0622.png
 bouffalant,Bouffalant,,,,,FALSE,TRUE,Unova,0626,1,https://pokejungle.net/sprites/shiny/0626.png
+rufflet,Rufflet,,,,,FALSE,FALSE,Unova,0627,1,https://pokejungle.net/sprites/shiny/0627.png
 vullaby,Vullaby,,,,,FALSE,FALSE,Unova,0629,4,https://pokejungle.net/sprites/shiny/0629.png
 deino,Deino,,,,,TRUE,FALSE,Unova,0633,5,https://pokejungle.net/sprites/shiny/0633.png
 hydreigon,Hydreigon,,,,,TRUE,FALSE,Unova,0635,1,https://pokejungle.net/sprites/shiny/0635.png
@@ -290,6 +290,7 @@ flabébé-yellow,Flabébé,Yellow,2,,,FALSE,TRUE,Kalos,0669,2,https://pokejungle
 flabébé-orange,Flabébé,Orange,3,,,FALSE,FALSE,Kalos,0669,1,https://pokejungle.net/sprites/shiny/0669-2.png
 skiddo,Skiddo,,,,,FALSE,FALSE,Kalos,0672,2,https://pokejungle.net/sprites/shiny/0672.png
 pancham,Pancham,,,,,FALSE,FALSE,Kalos,0674,3,https://pokejungle.net/sprites/shiny/0674.png
+swirlix,Swirlix,,,,,FALSE,FALSE,Kalos,0684,1,https://pokejungle.net/sprites/shiny/0684.png
 inkay,Inkay,,,,,FALSE,FALSE,Kalos,0686,1,https://pokejungle.net/sprites/shiny/0686.png
 tyrunt,Tyrunt,,,,,FALSE,FALSE,Kalos,0696,1,https://pokejungle.net/sprites/shiny/0696.png
 amaura,Amaura,,,,,FALSE,FALSE,Kalos,0698,2,https://pokejungle.net/sprites/shiny/0698.png
