@@ -5,7 +5,7 @@ charmander,Charmander,,,,Starter,TRUE,FALSE,Kanto,0004,7,https://pokejungle.net/
 charizard,Charizard,,,,Starter,TRUE,FALSE,Kanto,0006,1,https://pokejungle.net/sprites/shiny/0006.png
 squirtle,Squirtle,,,Sunglasses,Starter,TRUE,FALSE,Kanto,0007,2,https://pokejungle.net/sprites/shiny/0007.png
 squirtle,Squirtle,,,,Starter,TRUE,FALSE,Kanto,0007,12,https://pokejungle.net/sprites/shiny/0007.png
-caterpie,Caterpie,,,,,FALSE,FALSE,Kanto,0010,2,https://pokejungle.net/sprites/shiny/0010.png
+caterpie,Caterpie,,,,,FALSE,FALSE,Kanto,0010,3,https://pokejungle.net/sprites/shiny/0010.png
 weedle,Weedle,,,,,TRUE,FALSE,Kanto,0013,3,https://pokejungle.net/sprites/shiny/0013.png
 beedrill,Beedrill,,,,,TRUE,FALSE,Kanto,0015,2,https://pokejungle.net/sprites/shiny/0015.png
 pidgey,Pidgey,,,,,FALSE,FALSE,Kanto,0016,6,https://pokejungle.net/sprites/shiny/0016.png
@@ -286,11 +286,11 @@ froakie,Froakie,,,,Starter,TRUE,FALSE,Kalos,0656,9,https://pokejungle.net/sprite
 bunnelby,Bunnelby,,,,,FALSE,FALSE,Kalos,0659,3,https://pokejungle.net/sprites/shiny/0659.png
 fletchling,Fletchling,,,,,TRUE,FALSE,Kalos,0661,10,https://pokejungle.net/sprites/shiny/0661.png
 talonflame,Talonflame,,,,,TRUE,FALSE,Kalos,0663,1,https://pokejungle.net/sprites/shiny/0663.png
-flabébé-yellow,Flabébé,Yellow,2,,,FALSE,TRUE,Kalos,0669,2,https://pokejungle.net/sprites/shiny/0669-1.png
-flabébé-orange,Flabébé,Orange,3,,,FALSE,FALSE,Kalos,0669,1,https://pokejungle.net/sprites/shiny/0669-2.png
+flabébé-yellow,Flabébé,Yellow,2,,,TRUE,TRUE,Kalos,0669,2,https://pokejungle.net/sprites/shiny/0669-1.png
+flabébé-orange,Flabébé,Orange,3,,,TRUE,FALSE,Kalos,0669,1,https://pokejungle.net/sprites/shiny/0669-2.png
 skiddo,Skiddo,,,,,FALSE,FALSE,Kalos,0672,2,https://pokejungle.net/sprites/shiny/0672.png
 pancham,Pancham,,,,,FALSE,FALSE,Kalos,0674,3,https://pokejungle.net/sprites/shiny/0674.png
-swirlix,Swirlix,,,,,FALSE,FALSE,Kalos,0684,1,https://pokejungle.net/sprites/shiny/0684.png
+swirlix,Swirlix,,,,,FALSE,FALSE,Kalos,0684,2,https://pokejungle.net/sprites/shiny/0684.png
 inkay,Inkay,,,,,FALSE,FALSE,Kalos,0686,1,https://pokejungle.net/sprites/shiny/0686.png
 tyrunt,Tyrunt,,,,,FALSE,FALSE,Kalos,0696,1,https://pokejungle.net/sprites/shiny/0696.png
 amaura,Amaura,,,,,FALSE,FALSE,Kalos,0698,2,https://pokejungle.net/sprites/shiny/0698.png
@@ -330,6 +330,6 @@ regieleki,Regieleki,,,,Legendary,FALSE,FALSE,Galar,0894,1,https://pokejungle.net
 sprigatito,Sprigatito,,,,Starter,TRUE,FALSE,Paldea,0906,11,https://pokejungle.net/sprites/shiny/0906.png
 floragato,Floragato,,,Hat,Starter,FALSE,FALSE,Paldea,0907,1,https://pokejungle.net/sprites/shiny/0907.png
 fuecoco,Fuecoco,,,,Starter,TRUE,FALSE,Paldea,0909,8,https://pokejungle.net/sprites/shiny/0909.png
-quaxly,Quaxly,,,,Starter,FALSE,FALSE,Paldea,0912,9,https://pokejungle.net/sprites/shiny/0912.png
+quaxly,Quaxly,,,,Starter,TRUE,FALSE,Paldea,0912,9,https://pokejungle.net/sprites/shiny/0912.png
 smoliv,Smoliv,,,,,FALSE,FALSE,Paldea,0928,1,https://pokejungle.net/sprites/shiny/0928.png
 annihilape,Annihilape,,,,,TRUE,FALSE,Paldea,0979,1,https://pokejungle.net/sprites/shiny/0979.png
