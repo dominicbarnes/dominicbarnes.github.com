@@ -161,7 +161,7 @@ gulpin-male,Gulpin,Male,1,,,FALSE,FALSE,Hoenn,0316,1,https://pokejungle.net/spri
 wailmer,Wailmer,,,,,FALSE,FALSE,Hoenn,0320,1,https://pokejungle.net/sprites/shiny/0320.png
 numel-female,Numel,Female,2,,,FALSE,FALSE,Hoenn,0322,1,https://pokejungle.net/sprites/shiny/0322-f.png
 spoink,Spoink,,,,,FALSE,FALSE,Hoenn,0325,1,https://pokejungle.net/sprites/shiny/0325.png
-trapinch,Trapinch,,,,,TRUE,FALSE,Hoenn,0328,2,https://pokejungle.net/sprites/shiny/0328.png
+trapinch,Trapinch,,,,,TRUE,FALSE,Hoenn,0328,1,https://pokejungle.net/sprites/shiny/0328.png
 vibrava,Vibrava,,,,,TRUE,FALSE,Hoenn,0329,1,https://pokejungle.net/sprites/shiny/0329.png
 flygon,Flygon,,,,,TRUE,FALSE,Hoenn,0330,1,https://pokejungle.net/sprites/shiny/0330.png
 swablu,Swablu,,,,,TRUE,FALSE,Hoenn,0333,12,https://pokejungle.net/sprites/shiny/0333.png
@@ -327,7 +327,7 @@ obstagoon,Obstagoon,,,,,TRUE,FALSE,Galar,0862,1,https://pokejungle.net/sprites/s
 falinks,Falinks,,,,,FALSE,FALSE,Galar,0870,1,https://pokejungle.net/sprites/shiny/0870.png
 zamazenta,Zamazenta,,,,Legendary,FALSE,FALSE,Galar,0889,2,https://pokejungle.net/sprites/shiny/0889.png
 regieleki,Regieleki,,,,Legendary,FALSE,FALSE,Galar,0894,1,https://pokejungle.net/sprites/shiny/0894.png
-sprigatito,Sprigatito,,,,Starter,TRUE,FALSE,Paldea,0906,11,https://pokejungle.net/sprites/shiny/0906.png
+sprigatito,Sprigatito,,,,Starter,TRUE,FALSE,Paldea,0906,10,https://pokejungle.net/sprites/shiny/0906.png
 floragato,Floragato,,,Hat,Starter,FALSE,FALSE,Paldea,0907,1,https://pokejungle.net/sprites/shiny/0907.png
 fuecoco,Fuecoco,,,,Starter,TRUE,FALSE,Paldea,0909,8,https://pokejungle.net/sprites/shiny/0909.png
 quaxly,Quaxly,,,,Starter,TRUE,FALSE,Paldea,0912,9,https://pokejungle.net/sprites/shiny/0912.png
