@@ -41,7 +41,7 @@ bellsprout,Bellsprout,,,,,TRUE,FALSE,Kanto,0069,8,https://pokejungle.net/sprites
 victreebel,Victreebel,,,,,TRUE,FALSE,Kanto,0071,1,https://pokejungle.net/sprites/shiny/0071.png
 tentacool,Tentacool,,,,,FALSE,FALSE,Kanto,0072,3,https://pokejungle.net/sprites/shiny/0072.png
 geodude,Geodude,,1,Shadow,,FALSE,FALSE,Kanto,0074,1,https://pokejungle.net/sprites/shiny/0074.png
-geodude,Geodude,,1,,,FALSE,FALSE,Kanto,0074,2,https://pokejungle.net/sprites/shiny/0074.png
+geodude,Geodude,,1,,,FALSE,FALSE,Kanto,0074,3,https://pokejungle.net/sprites/shiny/0074.png
 geodude-alolan,Geodude,Alolan,2,,,TRUE,FALSE,Alola,0074,4,https://pokejungle.net/sprites/shiny/0074-1.png
 golem-alolan,Golem,Alolan,2,,,TRUE,FALSE,Alola,0076,1,https://pokejungle.net/sprites/shiny/0076-1.png
 ponyta,Ponyta,,1,,,TRUE,FALSE,Kanto,0077,7,https://pokejungle.net/sprites/shiny/0077.png
@@ -210,6 +210,7 @@ gible-male,Gible,Male,1,,,TRUE,FALSE,Sinnoh,0443,6,https://pokejungle.net/sprite
 gible-female,Gible,Female,2,,,TRUE,FALSE,Sinnoh,0443,3,https://pokejungle.net/sprites/shiny/0443-f.png
 garchomp-male,Garchomp,Male,1,,,TRUE,FALSE,Sinnoh,0445,1,https://pokejungle.net/sprites/shiny/0445.png
 garchomp-female,Garchomp,Female,2,,,TRUE,FALSE,Sinnoh,0445,1,https://pokejungle.net/sprites/shiny/0445-f.png
+munchlax,Munchlax,,,,Baby,FALSE,FALSE,Sinnoh,0446,2,https://pokejungle.net/sprites/shiny/0446.png
 riolu,Riolu,,,,Baby,FALSE,FALSE,Sinnoh,0447,1,https://pokejungle.net/sprites/shiny/0447.png
 skorupi,Skorupi,,,,,FALSE,FALSE,Sinnoh,0451,1,https://pokejungle.net/sprites/shiny/0451.png
 snover-male,Snover,Male,1,,,FALSE,FALSE,Sinnoh,0459,1,https://pokejungle.net/sprites/shiny/0459.png
@@ -326,7 +327,7 @@ obstagoon,Obstagoon,,,,,TRUE,FALSE,Galar,0862,1,https://pokejungle.net/sprites/s
 falinks,Falinks,,,,,FALSE,FALSE,Galar,0870,1,https://pokejungle.net/sprites/shiny/0870.png
 zamazenta,Zamazenta,,,,Legendary,FALSE,FALSE,Galar,0889,2,https://pokejungle.net/sprites/shiny/0889.png
 regieleki,Regieleki,,,,Legendary,FALSE,FALSE,Galar,0894,1,https://pokejungle.net/sprites/shiny/0894.png
-sprigatito,Sprigatito,,,,Starter,TRUE,FALSE,Paldea,0906,10,https://pokejungle.net/sprites/shiny/0906.png
+sprigatito,Sprigatito,,,,Starter,TRUE,FALSE,Paldea,0906,11,https://pokejungle.net/sprites/shiny/0906.png
 floragato,Floragato,,,Hat,Starter,FALSE,FALSE,Paldea,0907,1,https://pokejungle.net/sprites/shiny/0907.png
 fuecoco,Fuecoco,,,,Starter,TRUE,FALSE,Paldea,0909,8,https://pokejungle.net/sprites/shiny/0909.png
 quaxly,Quaxly,,,,Starter,TRUE,FALSE,Paldea,0912,9,https://pokejungle.net/sprites/shiny/0912.png
