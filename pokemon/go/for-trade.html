@@ -1,0 +1,45 @@
+---
+layout: page
+title: Pokémon GO - For Trade
+description: Trade list for trainer DominicBarnes in Pokémon GO.
+
+# SEO
+author:
+    name: DominicBarnes
+image:
+    path: https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Logos/PokémonGOLogo.png
+    alt: Pokémon GO Logo
+---
+
+{% assign for_trade = site.data.pokemon.go_collection %}
+
+<div class="alert alert-info">
+    <p>
+        These are extra shinies in Pokémon Go that I am willing to trade.
+    </p>
+    <p class="mb-0">
+        If trading in Pokémon Home, these can still be given a custom OT.
+    </p>
+</div>
+
+{% include pokemon-filter.html target="#for-trade-list" go-cd="true" %}
+
+<div id="for-trade-list" class="row g-0 row-cols-3 row-cols-md-6">
+    {% for item in for_trade %}
+        <div class="col">
+            <div class="border rounded m-1 p-1">
+                {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
+                {% capture name %}{{ item["Name"] }}{% endcapture %}
+                {% capture region %}{{ item["Region"] }}{% endcapture %}
+                {% capture variation %}{{ item["Variation"] }}{% endcapture %}
+                {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
+                {% capture go_regional %}{{ item["GO Regional"] }}{% endcapture %}
+                {% capture go_cd %}{{ item["GO CD"] }}{% endcapture %}
+                {% capture special %}{{ item["Special"] }}{% endcapture %}
+                {% include pokemon.html icon=icon name=name region=region variation=variation go_variation=go_variation go_regional=go_regional go_cd=go_cd special=special %}
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
+{% include pokemon-filter-script.html %}

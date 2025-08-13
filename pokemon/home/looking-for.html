@@ -1,0 +1,37 @@
+---
+layout: page
+title: Pokémon Home - Looking For
+description: Trade list for trainer Dominic in Pokémon Home.
+
+# SEO
+author:
+    name: Dominic
+image:
+    path: https://archives.bulbagarden.net/media/upload/0/01/Pok%C3%A9mon_HOME_logo.png
+    alt: Pokémon Home Logo
+---
+
+{% assign looking_for = site.data.pokemon.shiny_checklist | where:"Obtained","FALSE" | where:"Has Shiny","TRUE" %}
+
+<div class="alert alert-warning">
+    I need these for my shiny living dex in Pokémon Home.
+</div>
+
+{% include pokemon-filter.html target="#looking-for-list" %}
+
+<div id="looking-for-list" class="row g-0 row-cols-3 row-cols-md-6">
+    {% for item in looking_for %}
+        <div class="col">
+            <div class="border rounded m-1 p-1">
+                {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
+                {% capture name %}{{ item["Name"] }}{% endcapture %}
+                {% capture region %}{{ item["Region"] }}{% endcapture %}
+                {% capture variation %}{{ item["Variation"] }}{% endcapture %}
+                {% capture special %}{{ item["Special"] }}{% endcapture %}
+                {% include pokemon.html icon=icon name=name region=region variation=variation special=special %}
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
+{% include pokemon-filter-script.html %}

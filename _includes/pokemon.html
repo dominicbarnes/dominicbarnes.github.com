@@ -1,4 +1,27 @@
-<div data-name="{{ include.name }}" data-region="{{ include.region }}" data-special="{{ include.special }}" data-ball="{{ include.ball }}" data-origin-mark="{{ include.mark }}" data-go-cd="{{ include.go_cd }}" data-go-regional="{{ include.go_regional }}">
+<div data-name="{{ include.name }}" data-region="{{ include.region }}" data-special="{{ include.special | default: "Regular" }}" data-ball="{{ include.ball }}" data-origin-mark="{{ include.mark }}" data-go-cd="{{ include.go_cd }}" data-go-regional="{{ include.go_regional }}">
+    <div class="text-center">
+        {% case include.special %}
+            {% when "Legendary" %}
+                {% assign name_class_modifier = "primary" %}
+            {% when "Mythical" %}
+                {% assign name_class_modifier = "success" %}
+            {% when "Ultra Beast", "Paradox" %}
+                {% assign name_class_modifier = "warning" %}
+            {% when "Baby", "Starter" %}
+                {% assign name_class_modifier = "info" %}
+            {% else %}
+                {% assign name_class_modifier = "light" %}
+        {% endcase %}
+
+        <div class="text-bg-{{ name_class_modifier }} fw-bold">
+            {{ include.name }}
+
+            {% if include.variation != "" %}
+                <small class="fw-light">({{ include.variation }})</small>
+            {% endif %}
+        </div>
+    </div>
+
     <div class="d-flex justify-content-between align-items-center">
         {% if include.ball %}
             <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/{{ include.ball }}.png" alt="Ball Mark" height="32" width="32" loading="lazy" title="Ball: {{ include.ball }}" data-bs-toggle="tooltip">
@@ -19,18 +42,13 @@
     </div>
 
     <img src="{{ include.icon }}" class="img-fluid mb-3" alt="Pokémon Sprite" loading="lazy">
+
     <div class="text-center">
-        <div class="text-bg-secondary fw-bold">
-            {{ include.name }}
-        </div>
         <div>
-            {% if include.region %}
-                <span class="badge text-bg-light">{{ include.region }}</span>
+            {% if include.region != "" %}
+                <span class="badge text-bg-secondary">{{ include.region }}</span>
             {% endif %}
-            {% if include.variation %}
-                <span class="badge text-bg-dark">{{ include.variation }}</span>
-            {% endif %}
-            {% if include.go_variation %}
+            {% if include.go_variation != "" %}
                 <span class="badge text-bg-success">{{ include.go_variation }}</span>
             {% endif %}
             {% if include.go_regional == "TRUE" %}
@@ -38,9 +56,6 @@
             {% endif %}
             {% if include.go_cd == "TRUE" %}
                 <span class="badge text-bg-primary">Community Day</span>
-            {% endif %}
-            {% if include.special %}
-                <span class="badge text-bg-warning">{{ include.special }}</span>
             {% endif %}
             {% if include.gostamp == "TRUE" %}
                 <span class="badge text-bg-primary">GO Stamp</span>

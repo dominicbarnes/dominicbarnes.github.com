@@ -1,0 +1,43 @@
+---
+layout: page
+title: Pokémon Home - For Trade
+description: Trade list for trainer Dominic in Pokémon Home.
+
+# SEO
+author:
+    name: Dominic
+image:
+    path: https://archives.bulbagarden.net/media/upload/0/01/Pok%C3%A9mon_HOME_logo.png
+    alt: Pokémon Home Logo
+---
+
+{% assign for_trade = site.data.pokemon.home_collection %}
+
+<div class="alert alert-info">
+    These are currently available in Pokémon Home for trade.
+</div>
+
+{% include pokemon-filter.html prefix="looking-for" target="#looking-for-list" ball=true origin-mark=true %}
+
+<div id="looking-for-list" class="row g-0 row-cols-3 row-cols-md-6">
+    {% for item in for_trade %}
+        <div class="col">
+            <div class="border rounded m-1 p-1">
+                {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
+                {% capture name %}{{ item["Name"] }}{% endcapture %}
+                {% capture region %}{{ item["Region"] }}{% endcapture %}
+                {% capture variation %}{{ item["Variation"] }}{% endcapture %}
+                {% capture special %}{{ item["Special"] }}{% endcapture %}
+                {% capture mark %}{{ item['Origin Mark'] }}{% endcapture %}
+                {% capture alpha %}{{ item['Alpha'] }}{% endcapture %}
+                {% capture gmax %}{{ item['Gmax'] }}{% endcapture %}
+                {% capture ball %}{{ item['Ball'] }}{% endcapture %}
+                {% capture hacked %}{{ item['Hacked'] }}{% endcapture %}
+                {% capture gostamp %}{{ item['GO Stamp'] }}{% endcapture %}
+                {% include pokemon.html icon=icon name=name region=region variation=variation special=special mark=mark alpha=alpha gmax=gmax ball=ball hacked=hacked gostamp=gostamp %}
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
+{% include pokemon-filter-script.html %}
