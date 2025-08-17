@@ -1,7 +1,7 @@
 Pokemon ID,Name,Variation,Variation Sort,Go Variation,Special,GO CD,GO Regional,Region,National,Quantity,Icon URL
 bulbasaur,Bulbasaur,,,,Starter,TRUE,FALSE,Kanto,0001,4,https://pokejungle.net/sprites/shiny/0001.png
 venusaur-male,Venusaur,Male,1,,Starter,TRUE,FALSE,Kanto,0003,1,https://pokejungle.net/sprites/shiny/0003.png
-charmander,Charmander,,,,Starter,TRUE,FALSE,Kanto,0004,7,https://pokejungle.net/sprites/shiny/0004.png
+charmander,Charmander,,,,Starter,TRUE,FALSE,Kanto,0004,8,https://pokejungle.net/sprites/shiny/0004.png
 charizard,Charizard,,,,Starter,TRUE,FALSE,Kanto,0006,1,https://pokejungle.net/sprites/shiny/0006.png
 squirtle,Squirtle,,,Sunglasses,Starter,TRUE,FALSE,Kanto,0007,2,https://pokejungle.net/sprites/shiny/0007.png
 squirtle,Squirtle,,,,Starter,TRUE,FALSE,Kanto,0007,12,https://pokejungle.net/sprites/shiny/0007.png
@@ -31,7 +31,7 @@ diglett,Diglett,,1,Hat,,FALSE,FALSE,Kanto,0050,1,https://pokejungle.net/sprites/
 diglett,Diglett,,1,,,FALSE,FALSE,Kanto,0050,2,https://pokejungle.net/sprites/shiny/0050.png
 meowth,Meowth,,1,,,FALSE,FALSE,Kanto,0052,2,https://pokejungle.net/sprites/shiny/0052.png
 meowth-alolan,Meowth,Alolan,2,,,FALSE,FALSE,Alola,0052,6,https://pokejungle.net/sprites/shiny/0052-1.png
-mankey,Mankey,,,,,TRUE,FALSE,Kanto,0056,8,https://pokejungle.net/sprites/shiny/0056.png
+mankey,Mankey,,,,,TRUE,FALSE,Kanto,0056,9,https://pokejungle.net/sprites/shiny/0056.png
 poliwag,Poliwag,,,,,TRUE,FALSE,Kanto,0060,2,https://pokejungle.net/sprites/shiny/0060.png
 abra,Abra,,,,,TRUE,FALSE,Kanto,0063,6,https://pokejungle.net/sprites/shiny/0063.png
 machop,Machop,,,Dynamax,,FALSE,FALSE,Kanto,0066,2,https://pokejungle.net/sprites/shiny/0066.png
@@ -120,6 +120,7 @@ snubbull,Snubbull,,,,,FALSE,FALSE,Johto,0209,6,https://pokejungle.net/sprites/sh
 shuckle,Shuckle,,,,,FALSE,FALSE,Johto,0213,1,https://pokejungle.net/sprites/shiny/0213.png
 sneasel-male,Sneasel,Male,1,,,FALSE,FALSE,Johto,0215,5,https://pokejungle.net/sprites/shiny/0215.png
 sneasel-female,Sneasel,Female,2,,,FALSE,FALSE,Johto,0215,4,https://pokejungle.net/sprites/shiny/0215-f.png
+sneasel-hisuian-male,Sneasel,"Hisuian, Male",3,,,FALSE,FALSE,Hisui,0215,1,https://pokejungle.net/sprites/shiny/0215-1.png
 teddiursa,Teddiursa,,,,,TRUE,FALSE,Johto,0216,11,https://pokejungle.net/sprites/shiny/0216.png
 swinub,Swinub,,,,,TRUE,FALSE,Johto,0220,12,https://pokejungle.net/sprites/shiny/0220.png
 remoraid,Remoraid,,,,,FALSE,FALSE,Johto,0223,1,https://pokejungle.net/sprites/shiny/0223.png
