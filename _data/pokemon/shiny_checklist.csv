@@ -1269,7 +1269,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 1268,cetoddle,Cetoddle,,,Cetoddle,,0974,TRUE,FALSE,TRUE,Paldea,10,43,8,2,2,TRUE,https://pokejungle.net/sprites/shiny/0974.png,
 1269,cetitan,Cetitan,,,Cetoddle,,0975,TRUE,FALSE,TRUE,Paldea,10,43,9,2,3,TRUE,https://pokejungle.net/sprites/shiny/0975.png,
 1270,veluza,Veluza,,,Veluza,,0976,FALSE,FALSE,TRUE,Paldea,10,43,10,2,4,TRUE,https://pokejungle.net/sprites/shiny/0976.png,
-1271,dondozo,Dondozo,,,Dondozo,,0977,FALSE,FALSE,TRUE,Paldea,10,43,11,2,5,TRUE,https://pokejungle.net/sprites/shiny/0977.png,
+1271,dondozo,Dondozo,,,Dondozo,,0977,TRUE,FALSE,TRUE,Paldea,10,43,11,2,5,TRUE,https://pokejungle.net/sprites/shiny/0977.png,
 1272,tatsugiri-curly-form,Tatsugiri,Curly Form,1,Tatsugiri,,0978,FALSE,FALSE,TRUE,Paldea,10,43,12,2,6,TRUE,https://pokejungle.net/sprites/shiny/0978.png,
 1273,tatsugiri-droopy-form,Tatsugiri,Droopy Form,2,Tatsugiri,,0978,FALSE,FALSE,TRUE,Paldea,10,43,13,3,1,TRUE,https://pokejungle.net/sprites/shiny/0978-1.png,
 1274,tatsugiri-stretchy-form,Tatsugiri,Stretchy Form,3,Tatsugiri,,0978,FALSE,FALSE,TRUE,Paldea,10,43,14,3,2,TRUE,https://pokejungle.net/sprites/shiny/0978-2.png,
