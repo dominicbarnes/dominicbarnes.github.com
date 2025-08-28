@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Pokémon GO - For Trade
 description: Trade list for trainer DominicBarnes in Pokémon GO.
 
@@ -13,19 +13,54 @@ image:
 
 {% assign for_trade = site.data.pokemon.go_collection %}
 
-<div class="alert alert-info">
-    <p>
-        These are extra shinies in Pokémon Go that I am willing to trade.
-    </p>
-    <p class="mb-0">
-        If trading in Pokémon Home, these can still be given a custom OT.
-    </p>
-</div>
+<h1 class="text-center">Pokémon GO</h1>
 
-{% include pokemon-filter.html target="#for-trade-list" go-cd="true" %}
+<ul class="nav nav-tabs">
+    <li class="nav-item">
+        <a class="nav-link" href="/pokemon/go/looking-for.html">
+            Looking For Shiny
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="/pokemon/go/for-trade.html">
+            Shiny For Trade
+        </a>
+    </li>
+    <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">
+            Looking For...
+        </a>
+        <ul class="dropdown-menu">
+            <li>
+                <a class="dropdown-item" href="https://godex.site/public-collection/e8c464edbce5d5b34fd1aefc94253fa9" target="_blank">
+                    Regular
+                    <i class="bi bi-box-arrow-up-right ms-1"></i>
+                </a>
+            </li>
+            <li>
+                <a class="dropdown-item" href="https://godex.site/public-collection/3fcf6c53c3928455b73d87be788a92e8" target="_blank">
+                    Lucky
+                    <i class="bi bi-box-arrow-up-right ms-1"></i>
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
 
-<div id="for-trade-list" class="row g-0 row-cols-3 row-cols-md-6">
-    {% for item in for_trade %}
+<div class="py-3">
+    <div class="alert alert-info">
+        <p>
+            These are extra shinies in Pokémon Go that I am willing to trade.
+        </p>
+        <p class="mb-0">
+            If trading in Pokémon Home, these can still be given a custom OT.
+        </p>
+    </div>
+
+    {% include pokemon-filter.html target="#for-trade-list" go-cd="true" %}
+
+    <div id="for-trade-list" class="row g-0 row-cols-3 row-cols-md-6">
+        {% for item in for_trade %}
         <div class="col">
             <div class="border rounded m-1 p-1">
                 {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
@@ -39,7 +74,8 @@ image:
                 {% include pokemon.html icon=icon name=name region=region variation=variation go_variation=go_variation go_regional=go_regional go_cd=go_cd special=special %}
             </div>
         </div>
-    {% endfor %}
+        {% endfor %}
+    </div>
 </div>
 
 {% include pokemon-filter-script.html %}
