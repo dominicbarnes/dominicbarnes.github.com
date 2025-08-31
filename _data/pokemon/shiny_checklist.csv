@@ -917,7 +917,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 916,yveltal,Yveltal,,,Yveltal,Legendary,0717,TRUE,FALSE,TRUE,Kalos,6,31,16,3,4,TRUE,https://pokejungle.net/sprites/shiny/0717.png,
 917,zygarde-50-form,Zygarde,50% Form,1,Zygarde,Legendary,0718,FALSE,FALSE,TRUE,Kalos,6,31,17,3,5,TRUE,https://pokejungle.net/sprites/shiny/0718.png,
 918,zygarde-50-form-with-power-construct-ability,Zygarde,50% Form with Power Construct Ability,2,Zygarde,Legendary,0718,FALSE,FALSE,TRUE,Kalos,6,31,18,3,6,FALSE,https://pokejungle.net/sprites/shiny/0718.png,
-919,zygarde-10-form,Zygarde,10% Form,3,Zygarde,Legendary,0718,FALSE,FALSE,TRUE,Kalos,6,31,19,4,1,u/Alannajacky,https://pokejungle.net/sprites/shiny/0718-1.png,
+919,zygarde-10-form,Zygarde,10% Form,3,Zygarde,Legendary,0718,FALSE,FALSE,TRUE,Kalos,6,31,19,4,1,TRUE,https://pokejungle.net/sprites/shiny/0718-1.png,
 920,zygarde-10-form-with-power-construct-ability,Zygarde,10% Form with Power Construct Ability,4,Zygarde,Legendary,0718,FALSE,FALSE,TRUE,Kalos,6,31,20,4,2,TRUE,https://pokejungle.net/sprites/shiny/0718-1.png,
 921,diancie,Diancie,,,Diancie,Mythical,0719,FALSE,FALSE,TRUE,Kalos,6,31,21,4,3,FALSE,https://pokejungle.net/sprites/shiny/0719.png,
 922,hoopa,Hoopa,,1,Hoopa,Mythical,0720,FALSE,FALSE,FALSE,Kalos,6,31,22,4,4,FALSE,,
