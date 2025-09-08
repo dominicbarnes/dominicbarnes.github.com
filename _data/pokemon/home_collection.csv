@@ -93,7 +93,8 @@ nosepass,Nosepass,,,,Hoenn,0299,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,https://p
 meditite-male,Meditite,Male,1,,Hoenn,0307,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0307.png
 roselia-male,Roselia,Male,1,,Hoenn,0315,go,poke,2,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0315.png
 roselia-female,Roselia,Female,2,,Hoenn,0315,go,poke,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0315-f.png
-carvanha,Carvanha,,,,Hoenn,0318,go,poke,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0318.png
+carvanha,Carvanha,,,,Hoenn,0318,go,poke,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0318.png
+carvanha,Carvanha,,,,Hoenn,0318,go,ultra,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0318.png
 numel-female,Numel,Female,2,,Hoenn,0322,paldea,premier,2,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0322-f.png
 swablu,Swablu,,,,Hoenn,0333,go,great,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0333.png
 swablu,Swablu,,,,Hoenn,0333,go,poke,3,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0333.png
@@ -177,6 +178,7 @@ drednaw,Drednaw,,,,Galar,0834,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejun
 applin,Applin,,,,Galar,0840,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0840.png
 silicobra,Silicobra,,,,Galar,0843,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0843.png
 zamazenta,Zamazenta,,,Legendary,Galar,0889,go,premier,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0889.png
+sprigatito,Sprigatito,,,Starter,Paldea,0906,go,poke,2,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0906.png
 tarountula,Tarountula,,,,Paldea,0917,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0917.png
 maushold-family-of-three,Maushold,Family of Three,1,,Paldea,0925,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0925.png
 squawkabilly,Squawkabilly,,1,,Paldea,0931,paldea,premier,7,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0931.png
