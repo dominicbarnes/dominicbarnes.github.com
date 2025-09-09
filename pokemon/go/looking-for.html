@@ -13,44 +13,36 @@ image:
 
 {% assign looking_for = site.data.pokemon.shiny_checklist | where:"Obtained","FALSE" | where:"GO","TRUE" %}
 
-<h1 class="text-center">Pokémon GO</h1>
+<div class="text-center">
+    <h1 class="title">Pokémon GO</h1>
+    <h2 class="subtitle">Shiny Trades</h2>
+</div>
 
 <ul class="nav nav-tabs">
     <li class="nav-item">
         <a class="nav-link active" aria-current="page" href="/pokemon/go/looking-for.html">
-            Looking For Shiny
+            Looking For
         </a>
     </li>
     <li class="nav-item">
         <a class="nav-link" href="/pokemon/go/for-trade.html">
-            Shiny For Trade
+            For Trade
         </a>
-    </li>
-    <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">
-            Looking For...
-        </a>
-        <ul class="dropdown-menu">
-            <li>
-                <a class="dropdown-item" href="https://godex.site/public-collection/e8c464edbce5d5b34fd1aefc94253fa9" target="_blank">
-                    Regular
-                    <i class="bi bi-box-arrow-up-right ms-1"></i>
-                </a>
-            </li>
-            <li>
-                <a class="dropdown-item" href="https://godex.site/public-collection/3fcf6c53c3928455b73d87be788a92e8" target="_blank">
-                    Lucky
-                    <i class="bi bi-box-arrow-up-right ms-1"></i>
-                </a>
-            </li>
-        </ul>
     </li>
 </ul>
 
 <div class="py-3">
     <div class="alert alert-warning">
-        I need these for my shiny living dex in Pokémon Home. I prefer trading
-        for new shinies instead of doing mirror trades.
+        <p>
+            I need these for my shiny living dex in Pokémon Home. I prefer
+            trading for new shinies instead of doing mirror trades.
+        </p>
+        <p class="mb-0">
+            If you don't have any of the shinies I am looking for, you can also
+            check my <a href="https://godex.site/public-collection/e8c464edbce5d5b34fd1aefc94253fa9">Regular</a>
+            and <a href="https://godex.site/public-collection/3fcf6c53c3928455b73d87be788a92e8">Lucky</a>
+            lists.
+        </p>
     </div>
 
     {% include pokemon-filter.html target="#looking-for-list" %}

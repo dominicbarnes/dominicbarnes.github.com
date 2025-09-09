@@ -13,14 +13,17 @@ image:
 
 {% assign looking_for = site.data.pokemon.shiny_checklist | where:"Obtained","FALSE" | where:"Has Shiny","TRUE" %}
 
-<h1 class="text-center">Pokémon Home</h1>
+<div class="text-center">
+    <h1 class="title">Pokémon Home</h1>
+    <h2 class="subtitle">Shiny Trades</h2>
+</div>
 
 <ul class="nav nav-tabs">
     <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="/pokemon/home/looking-for.html">Looking For Shiny</a>
+        <a class="nav-link active" aria-current="page" href="/pokemon/home/looking-for.html">Looking For</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="/pokemon/home/for-trade.html">Shiny For Trade</a>
+        <a class="nav-link" href="/pokemon/home/for-trade.html">For Trade</a>
     </li>
 </ul>
 
