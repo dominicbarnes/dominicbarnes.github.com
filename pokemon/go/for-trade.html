@@ -13,10 +13,10 @@ image:
 
 {% assign for_trade = site.data.pokemon.go_collection %}
 
-<div class="text-center">
-    <h1 class="title">Pokémon GO</h1>
-    <h2 class="subtitle">Shiny Trades</h2>
-</div>
+<h1 class="text-center">
+    Pokémon GO
+    <small class="text-body-secondary">Shiny Trades</small>
+</h1>
 
 <ul class="nav nav-tabs">
     <li class="nav-item">
@@ -41,25 +41,23 @@ image:
         </p>
     </div>
 
-    {% include pokemon-filter.html target="#for-trade-list" go-cd="true" %}
+    {% include pokemon-filter.html prefix="for-trade" target="#for-trade-list" go-cd="true" %}
 
     <div id="for-trade-list" class="row g-0 row-cols-3 row-cols-md-6">
         {% for item in for_trade %}
-        <div class="col">
-            <div class="border rounded m-1 p-1">
-                {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
-                {% capture name %}{{ item["Name"] }}{% endcapture %}
-                {% capture region %}{{ item["Region"] }}{% endcapture %}
-                {% capture variation %}{{ item["Variation"] }}{% endcapture %}
-                {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
-                {% capture go_regional %}{{ item["GO Regional"] }}{% endcapture %}
-                {% capture go_cd %}{{ item["GO CD"] }}{% endcapture %}
-                {% capture special %}{{ item["Special"] }}{% endcapture %}
-                {% include pokemon.html icon=icon name=name region=region variation=variation go_variation=go_variation go_regional=go_regional go_cd=go_cd special=special %}
+            <div class="col">
+                <div class="border rounded m-1 p-1">
+                    {% capture icon %}{{ item["Icon URL"] }}{% endcapture %}
+                    {% capture name %}{{ item["Name"] }}{% endcapture %}
+                    {% capture region %}{{ item["Region"] }}{% endcapture %}
+                    {% capture variation %}{{ item["Variation"] }}{% endcapture %}
+                    {% capture go_variation %}{{ item["Go Variation"] }}{% endcapture %}
+                    {% capture go_regional %}{{ item["GO Regional"] }}{% endcapture %}
+                    {% capture go_cd %}{{ item["GO CD"] }}{% endcapture %}
+                    {% capture special %}{{ item["Special"] }}{% endcapture %}
+                    {% include pokemon.html icon=icon name=name region=region variation=variation go_variation=go_variation go_regional=go_regional go_cd=go_cd special=special %}
+                </div>
             </div>
-        </div>
         {% endfor %}
     </div>
 </div>
-
-{% include pokemon-filter-script.html %}

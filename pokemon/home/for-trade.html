@@ -13,10 +13,10 @@ image:
 
 {% assign for_trade = site.data.pokemon.home_collection %}
 
-<div class="text-center">
-    <h1 class="title">Pokémon Home</h1>
-    <h2 class="subtitle">Shiny Trades</h2>
-</div>
+<h1 class="text-center">
+    Pokémon Home
+    <small class="text-body-secondary">Shiny Trades</small>
+</h1>
 
 <ul class="nav nav-tabs">
     <li class="nav-item">
@@ -55,5 +55,3 @@ image:
         {% endfor %}
     </div>
 </div>
-
-{% include pokemon-filter-script.html %}
