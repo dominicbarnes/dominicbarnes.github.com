@@ -116,6 +116,7 @@ beldum,Beldum,,,,Hoenn,0374,go,poke,3,FALSE,FALSE,FALSE,https://pokejungle.net/s
 metagross,Metagross,,,,Hoenn,0376,go,poke,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0376.png
 groudon,Groudon,,,Legendary,Hoenn,0383,go,premier,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0383.png
 rayquaza,Rayquaza,,,Legendary,Hoenn,0384,blue-pentagon,cherish,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0384.png
+turtwig,Turtwig,,,Starter,Sinnoh,0387,go,poke,3,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0387.png
 starly-male,Starly,Male,1,,Sinnoh,0396,hisui,hisuian-great,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0396.png
 starly-male,Starly,Male,1,,Sinnoh,0396,go,poke,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0396.png
 starly-female,Starly,Female,2,,Sinnoh,0396,hisui,hisuian-heavy,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0396-f.png
@@ -170,6 +171,7 @@ fletchling,Fletchling,,,,Kalos,0661,go,poke,3,FALSE,FALSE,FALSE,https://pokejung
 vivillon-jungle,Vivillon,Jungle,18,,Kalos,0666,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-17.png
 sliggoo-hisuian,Sliggoo,Hisuian,2,,Hisui,0705,paldea,luxury,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0705-1.png
 rowlet,Rowlet,,,Starter,Alola,0722,go,poke,3,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0722.png
+popplio,Popplio,,,Starter,Alola,0728,go,poke,3,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0728.png
 rockruff,Rockruff,,1,,Alola,0744,galar,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0744.png
 stufful,Stufful,,,,Alola,0759,go,poke,6,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0759.png
 stufful,Stufful,,,,Alola,0759,go,ultra,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0759.png
