@@ -96,7 +96,7 @@ meditite-male,Meditite,Male,1,,Hoenn,0307,paldea,premier,1,FALSE,FALSE,FALSE,htt
 roselia-male,Roselia,Male,1,,Hoenn,0315,go,poke,2,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0315.png
 roselia-female,Roselia,Female,2,,Hoenn,0315,go,poke,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0315-f.png
 carvanha,Carvanha,,,,Hoenn,0318,go,poke,4,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0318.png
-carvanha,Carvanha,,,,Hoenn,0318,go,ultra,2,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0318.png
+carvanha,Carvanha,,,,Hoenn,0318,go,ultra,3,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0318.png
 sharpedo,Sharpedo,,,,Hoenn,0319,go,poke,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0319.png
 sharpedo,Sharpedo,,,,Hoenn,0319,go,premier,3,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0319.png
 numel-female,Numel,Female,2,,Hoenn,0322,paldea,premier,2,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0322-f.png
@@ -159,6 +159,7 @@ tepig,Tepig,,,Starter,Unova,0498,go,poke,3,FALSE,FALSE,FALSE,https://pokejungle.
 oshawott,Oshawott,,,Starter,Unova,0501,go,poke,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0501.png
 samurott,Samurott,,1,Starter,Unova,0503,go,poke,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0503.png
 timburr,Timburr,,,,Unova,0532,go,poke,5,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0532.png
+sewaddle,Sewaddle,,,,Unova,0540,go,poke,2,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0540.png
 reuniclus,Reuniclus,,,,Unova,0579,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0579.png
 vanillite,Vanillite,,,,Unova,0582,go,poke,3,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0582.png
 sawsbuck-autumn,Sawsbuck,Autumn,3,,Unova,0586,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0586-2.png

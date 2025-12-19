@@ -1037,7 +1037,7 @@ Row ID,Pokemon ID,Name,Variation,Variation Sort,Family,Special,National,GO,GO Re
 1036,marshadow,Marshadow,,,Marshadow,Mythical,0802,FALSE,FALSE,FALSE,Alola,7,35,16,3,4,FALSE,FALSE,,
 1037,poipole,Poipole,,,Poipole,Ultra Beast,0803,FALSE,FALSE,TRUE,Alola,7,35,17,3,5,TRUE,FALSE,https://pokejungle.net/sprites/shiny/0803.png,
 1038,naganadel,Naganadel,,,Poipole,Ultra Beast,0804,FALSE,FALSE,TRUE,Alola,7,35,18,3,6,TRUE,FALSE,https://pokejungle.net/sprites/shiny/0804.png,
-1039,stakataka,Stakataka,,,Stakataka,Ultra Beast,0805,TRUE,TRUE,TRUE,Alola,7,35,19,4,1,GO,FALSE,https://pokejungle.net/sprites/shiny/0805.png,
+1039,stakataka,Stakataka,,,Stakataka,Ultra Beast,0805,TRUE,TRUE,TRUE,Alola,7,35,19,4,1,TRUE,TRUE,https://pokejungle.net/sprites/shiny/0805.png,
 1040,blacephalon,Blacephalon,,,Blacephalon,Ultra Beast,0806,TRUE,TRUE,TRUE,Alola,7,35,20,4,2,TRUE,TRUE,https://pokejungle.net/sprites/shiny/0806.png,
 1041,zeraora,Zeraora,,,Zeraora,Mythical,0807,FALSE,FALSE,TRUE,Alola,7,35,21,4,3,TRUE,FALSE,https://pokejungle.net/sprites/shiny/0807.png,
 1042,meltan,Meltan,,,Meltan,Mythical,0808,TRUE,FALSE,TRUE,Alola,7,35,22,4,4,TRUE,TRUE,https://pokejungle.net/sprites/shiny/0808.png,
