@@ -390,7 +390,7 @@ tapu-fini,Tapu Fini,,,,Legendary,FALSE,FALSE,Alola,0788,2,https://pokejungle.net
 blacephalon,Blacephalon,,,,Ultra Beast,FALSE,TRUE,Alola,0806,1,https://pokejungle.net/sprites/shiny/0806.png
 meltan,Meltan,,,,Mythical,FALSE,FALSE,Alola,0808,2,https://pokejungle.net/sprites/shiny/0808.png
 melmetal,Melmetal,,,,Mythical,FALSE,FALSE,Alola,0809,1,https://pokejungle.net/sprites/shiny/0809.png
-grookey,Grookey,,,,Starter,FALSE,FALSE,Galar,0810,4,https://pokejungle.net/sprites/shiny/0810.png
+grookey,Grookey,,,,Starter,TRUE,FALSE,Galar,0810,4,https://pokejungle.net/sprites/shiny/0810.png
 skwovet,Skwovet,,,,,FALSE,FALSE,Galar,0819,1,https://pokejungle.net/sprites/shiny/0819.png
 rookidee,Rookidee,,,,,TRUE,FALSE,Galar,0821,19,https://pokejungle.net/sprites/shiny/0821.png
 corvisquire,Corvisquire,,,,,TRUE,FALSE,Galar,0822,1,https://pokejungle.net/sprites/shiny/0822.png
