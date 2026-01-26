@@ -35,7 +35,7 @@ diglett,Diglett,,1,,,FALSE,FALSE,Kanto,0050,2,https://pokejungle.net/sprites/shi
 diglett-alolan,Diglett,Alolan,2,,,FALSE,FALSE,Alola,0050,1,https://pokejungle.net/sprites/shiny/0050-1.png
 meowth,Meowth,,1,,,FALSE,FALSE,Kanto,0052,2,https://pokejungle.net/sprites/shiny/0052.png
 meowth-alolan,Meowth,Alolan,2,,,FALSE,FALSE,Alola,0052,7,https://pokejungle.net/sprites/shiny/0052-1.png
-meowth-galarian,Meowth,Galarian,3,,,FALSE,FALSE,Galar,0052,2,https://pokejungle.net/sprites/shiny/0052-2.png
+meowth-galarian,Meowth,Galarian,3,,,FALSE,FALSE,Galar,0052,3,https://pokejungle.net/sprites/shiny/0052-2.png
 psyduck,Psyduck,,,Swimring,,FALSE,FALSE,Kanto,0054,1,https://pokejungle.net/sprites/shiny/0054.png
 mankey,Mankey,,,,,TRUE,FALSE,Kanto,0056,9,https://pokejungle.net/sprites/shiny/0056.png
 growlithe-hisuian,Growlithe,Hisuian,2,,,FALSE,FALSE,Hisui,0058,1,https://pokejungle.net/sprites/shiny/0058-1.png
@@ -189,7 +189,7 @@ mawile,Mawile,,,,,FALSE,FALSE,Hoenn,0303,2,https://pokejungle.net/sprites/shiny/
 aron,Aron,,,,,FALSE,FALSE,Hoenn,0304,4,https://pokejungle.net/sprites/shiny/0304.png
 meditite-female,Meditite,Female,2,,,FALSE,FALSE,Hoenn,0307,3,https://pokejungle.net/sprites/shiny/0307-f.png
 electrike,Electrike,,,,,FALSE,FALSE,Hoenn,0309,2,https://pokejungle.net/sprites/shiny/0309.png
-plusle,Plusle,,,,,FALSE,FALSE,Hoenn,0311,4,https://pokejungle.net/sprites/shiny/0311.png
+plusle,Plusle,,,,,FALSE,FALSE,Hoenn,0311,5,https://pokejungle.net/sprites/shiny/0311.png
 minun,Minun,,,,,FALSE,FALSE,Hoenn,0312,3,https://pokejungle.net/sprites/shiny/0312.png
 roselia-male,Roselia,Male,1,,,TRUE,FALSE,Hoenn,0315,5,https://pokejungle.net/sprites/shiny/0315.png
 roselia-female,Roselia,Female,2,,,TRUE,FALSE,Hoenn,0315,4,https://pokejungle.net/sprites/shiny/0315-f.png
@@ -205,8 +205,10 @@ trapinch,Trapinch,,,,,TRUE,FALSE,Hoenn,0328,1,https://pokejungle.net/sprites/shi
 vibrava,Vibrava,,,,,TRUE,FALSE,Hoenn,0329,1,https://pokejungle.net/sprites/shiny/0329.png
 flygon,Flygon,,,,,TRUE,FALSE,Hoenn,0330,1,https://pokejungle.net/sprites/shiny/0330.png
 cacnea,Cacnea,,,,,FALSE,FALSE,Hoenn,0331,2,https://pokejungle.net/sprites/shiny/0331.png
-swablu,Swablu,,,,,TRUE,FALSE,Hoenn,0333,13,https://pokejungle.net/sprites/shiny/0333.png
+swablu,Swablu,,,,,TRUE,FALSE,Hoenn,0333,14,https://pokejungle.net/sprites/shiny/0333.png
 altaria,Altaria,,,,,TRUE,FALSE,Hoenn,0334,1,https://pokejungle.net/sprites/shiny/0334.png
+seviper,Seviper,,,,,FALSE,TRUE,Hoenn,0336,1,https://pokejungle.net/sprites/shiny/0336.png
+lunatone,Lunatone,,,,,FALSE,TRUE,Hoenn,0337,1,https://pokejungle.net/sprites/shiny/0337.png
 anorith,Anorith,,,Shadow,,FALSE,FALSE,Hoenn,0347,1,https://pokejungle.net/sprites/shiny/0347.png
 feebas,Feebas,,,Shadow,,FALSE,FALSE,Hoenn,0349,1,https://pokejungle.net/sprites/shiny/0349.png
 feebas,Feebas,,,,,FALSE,FALSE,Hoenn,0349,3,https://pokejungle.net/sprites/shiny/0349.png
@@ -284,6 +286,7 @@ pignite,Pignite,,,,Starter,TRUE,FALSE,Unova,0499,1,https://pokejungle.net/sprite
 emboar,Emboar,,,,Starter,TRUE,FALSE,Unova,0500,1,https://pokejungle.net/sprites/shiny/0500.png
 oshawott,Oshawott,,,,Starter,TRUE,FALSE,Unova,0501,7,https://pokejungle.net/sprites/shiny/0501.png
 lillipup,Lillipup,,,,,FALSE,FALSE,Unova,0506,3,https://pokejungle.net/sprites/shiny/0506.png
+purrloin,Purrloin,,,,,FALSE,FALSE,Unova,0509,1,https://pokejungle.net/sprites/shiny/0509.png
 panpour,Panpour,,,,,FALSE,TRUE,Unova,0515,1,https://pokejungle.net/sprites/shiny/0515.png
 pidove,Pidove,,,,,FALSE,FALSE,Unova,0519,2,https://pokejungle.net/sprites/shiny/0519.png
 blitzle,Blitzle,,,,,FALSE,FALSE,Unova,0522,1,https://pokejungle.net/sprites/shiny/0522.png

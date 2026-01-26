@@ -119,8 +119,9 @@ rayquaza,Rayquaza,,,Legendary,Hoenn,0384,blue-pentagon,cherish,1,FALSE,FALSE,FAL
 turtwig,Turtwig,,,Starter,Sinnoh,0387,go,poke,3,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0387.png
 chimchar,Chimchar,,,Starter,Sinnoh,0390,go,poke,3,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0390.png
 starly-male,Starly,Male,1,,Sinnoh,0396,hisui,hisuian-great,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0396.png
-starly-male,Starly,Male,1,,Sinnoh,0396,go,poke,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0396.png
+starly-male,Starly,Male,1,,Sinnoh,0396,go,poke,2,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0396.png
 starly-female,Starly,Female,2,,Sinnoh,0396,hisui,hisuian-heavy,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0396-f.png
+starly-female,Starly,Female,2,,Sinnoh,0396,go,poke,2,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0396-f.png
 bidoof-male,Bidoof,Male,1,,Sinnoh,0399,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0399.png
 bidoof-male,Bidoof,Male,1,,Sinnoh,0399,hisui,hisuian-poke,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0399.png
 bidoof-male,Bidoof,Male,1,,Sinnoh,0399,hisui,hisuian-heavy,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0399.png
@@ -157,7 +158,7 @@ probopass,Probopass,,,,Sinnoh,0476,hisui,gigaton,1,FALSE,FALSE,FALSE,https://pok
 snivy,Snivy,,,Starter,Unova,0495,go,great,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0495.png
 snivy,Snivy,,,Starter,Unova,0495,go,poke,2,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0495.png
 tepig,Tepig,,,Starter,Unova,0498,go,poke,3,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0498.png
-oshawott,Oshawott,,,Starter,Unova,0501,go,poke,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0501.png
+oshawott,Oshawott,,,Starter,Unova,0501,go,poke,4,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0501.png
 samurott,Samurott,,1,Starter,Unova,0503,go,poke,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0503.png
 timburr,Timburr,,,,Unova,0532,go,poke,5,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0532.png
 sewaddle,Sewaddle,,,,Unova,0540,go,poke,2,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0540.png
