@@ -96,8 +96,8 @@ meditite-male,Meditite,Male,1,,Hoenn,0307,paldea,premier,1,FALSE,FALSE,FALSE,htt
 roselia-male,Roselia,Male,1,,Hoenn,0315,go,poke,2,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0315.png
 roselia-female,Roselia,Female,2,,Hoenn,0315,go,poke,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0315-f.png
 carvanha,Carvanha,,,,Hoenn,0318,go,poke,4,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0318.png
-carvanha,Carvanha,,,,Hoenn,0318,go,ultra,3,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0318.png
-sharpedo,Sharpedo,,,,Hoenn,0319,go,poke,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0319.png
+carvanha,Carvanha,,,,Hoenn,0318,go,ultra,5,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0318.png
+sharpedo,Sharpedo,,,,Hoenn,0319,go,poke,2,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0319.png
 sharpedo,Sharpedo,,,,Hoenn,0319,go,premier,3,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0319.png
 numel-female,Numel,Female,2,,Hoenn,0322,paldea,premier,2,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0322-f.png
 swablu,Swablu,,,,Hoenn,0333,go,great,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0333.png
@@ -105,6 +105,7 @@ swablu,Swablu,,,,Hoenn,0333,go,poke,6,FALSE,FALSE,TRUE,https://pokejungle.net/sp
 duskull,Duskull,,,,Hoenn,0355,go,poke,6,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0355.png
 dusclops,Dusclops,,,,Hoenn,0356,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0356.png
 glalie,Glalie,,,,Hoenn,0362,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0362.png
+glalie,Glalie,,,,Hoenn,0362,go,poke,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0362.png
 spheal,Spheal,,,,Hoenn,0363,go,poke,10,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0363.png
 bagon,Bagon,,,,Hoenn,0371,paldea,premier,2,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0371.png
 bagon,Bagon,,,,Hoenn,0371,go,ultra,2,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0371.png
@@ -143,8 +144,8 @@ buneary,Buneary,,,,Sinnoh,0427,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,https://p
 bronzong,Bronzong,,,,Sinnoh,0437,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0437.png
 happiny,Happiny,,,Baby,Sinnoh,0440,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0440.png
 chatot,Chatot,,,,Sinnoh,0441,hisui,jet,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0441.png
-gible-male,Gible,Male,1,,Sinnoh,0443,go,poke,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0443.png
-gible-female,Gible,Female,2,,Sinnoh,0443,go,poke,2,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0443-f.png
+gible-male,Gible,Male,1,,Sinnoh,0443,go,poke,3,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0443.png
+gible-female,Gible,Female,2,,Sinnoh,0443,go,poke,3,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0443-f.png
 riolu,Riolu,,,Baby,Sinnoh,0447,hisui,hisuian-ultra,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0447.png
 riolu,Riolu,,,Baby,Sinnoh,0447,paldea,premier,2,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0447.png
 lucario,Lucario,,,,Sinnoh,0448,galar,cherish,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0448.png
@@ -175,6 +176,7 @@ fletchling,Fletchling,,,,Kalos,0661,go,poke,3,FALSE,FALSE,FALSE,https://pokejung
 vivillon-jungle,Vivillon,Jungle,18,,Kalos,0666,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-17.png
 goomy,Goomy,,,,Kalos,0704,go,poke,3,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0704.png
 sliggoo-hisuian,Sliggoo,Hisuian,2,,Hisui,0705,paldea,luxury,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0705-1.png
+noibat,Noibat,,,,Kalos,0714,go,poke,3,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0714.png
 rowlet,Rowlet,,,Starter,Alola,0722,go,poke,3,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0722.png
 litten,Litten,,,Starter,Alola,0725,go,poke,3,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0725.png
 popplio,Popplio,,,Starter,Alola,0728,go,poke,3,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0728.png
