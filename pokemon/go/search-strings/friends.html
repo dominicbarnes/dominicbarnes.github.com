@@ -1,0 +1,100 @@
+---
+layout: default
+title: Pokémon GO - Search Strings - Friends
+description: A collection of search strings to copy-paste into the friends list.
+---
+
+{% assign for_trade = site.data.pokemon.go_collection %}
+
+<h1 class="text-center">
+    Pokémon GO - Search Strings
+    <small class="text-body-secondary">(Friends List)</small>
+</h1>
+
+<div class="py-3">
+    <ul class="nav nav-tabs" id="friends-list" role="tablist">
+        <li class="nav-item" role="presentation">
+            <button class="nav-link active" id="sending-gifts-tab" data-bs-toggle="tab" data-bs-target="#sending-gifts-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">
+                Sending Gifts
+            </button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link" id="receiving-gifts-tab" data-bs-toggle="tab" data-bs-target="#receiving-gifts-tab-pane" type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false">
+                Receiving Gifts
+            </button>
+        </li>
+    </ul>
+    <div class="tab-content" id="friends-list-content">
+        <div class="tab-pane fade show active" id="sending-gifts-tab-pane" role="tabpanel" aria-labelledby="sending-gifts-tab" tabindex="0">
+            <form class="p-3">
+                <div class="mb-3">
+                    <label for="sending-gifts-step1" class="form-label">1. Interactable &amp; Not Lucky</label>
+                    <div class="input-group">
+                        <input type="text" class="form-control" id="sending-gifts-step1" aria-describedby="sending-gifts-step1-description" value="interactable&amp;!lucky">
+                        <button class="btn btn-outline-secondary" type="button" id="sending-gifts-step1-clipboard">
+                            <i class="bi bi-clipboard"></i>
+                        </button>
+                    </div>
+                    <div id="sending-gifts-step1-description" class="form-text">
+                        Top priority, anyone not lucky but can still increase friendship today.
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label for="sending-gifts-step2" class="form-label">2. Interactable &amp; Not Forever Friends</label>
+                    <div class="input-group">
+                        <input type="text" class="form-control" id="sending-gifts-step2" aria-describedby="sending-gifts-step2-description" value="interactable&amp;friendlevel-4">
+                        <button class="btn btn-outline-secondary" type="button" id="sending-gifts-step2-clipboard">
+                            <i class="bi bi-clipboard"></i>
+                        </button>
+                    </div>
+                    <div id="sending-gifts-step2-description" class="form-text">
+                        Second priority, anyone not forever friends but can still increase friendship today.
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label for="sending-gifts-step3" class="form-label">3. Not Lucky</label>
+                    <div class="input-group">
+                        <input type="text" class="form-control" id="sending-gifts-step3" aria-describedby="sending-gifts-step3-description" value="!lucky">
+                        <button class="btn btn-outline-secondary" type="button" id="sending-gifts-step3-clipboard">
+                            <i class="bi bi-clipboard"></i>
+                        </button>
+                    </div>
+                    <div id="sending-gifts-step3-description" class="form-text">
+                        Third priority, anyone not lucky.
+                    </div>
+                </div>
+                <div class="mb-4">
+                    After this, no search string is needed.
+                </div>
+            </form>
+        </div>
+        <div class="tab-pane fade" id="receiving-gifts-tab-pane" role="tabpanel" aria-labelledby="receiving-gifts-tab" tabindex="0">
+            <form class="p-3">
+                <div class="mb-3">
+                    <label for="receiving-gifts-step1" class="form-label">1. Interactable &amp; Not Lucky</label>
+                    <div class="input-group">
+                        <input type="text" class="form-control" id="receiving-gifts-step1" aria-describedby="receiving-gifts-step1-description" value="interactable&amp;!lucky">
+                        <button class="btn btn-outline-secondary" type="button" id="receiving-gifts-step1-clipboard">
+                            <i class="bi bi-clipboard"></i>
+                        </button>
+                    </div>
+                    <div id="receiving-gifts-step1-description" class="form-text">
+                        Top priority, anyone not lucky but can still increase friendship today.
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label for="receiving-gifts-step2" class="form-label">2. Interactable &amp; No Remote Trade</label>
+                    <div class="input-group">
+                        <input type="text" class="form-control" id="receiving-gifts-step2" aria-describedby="receiving-gifts-step2-description" value="interactable&amp;!remotetrade">
+                        <button class="btn btn-outline-secondary" type="button" id="receiving-gifts-step2-clipboard">
+                            <i class="bi bi-clipboard"></i>
+                        </button>
+                    </div>
+                    <div id="receiving-gifts-step2-description" class="form-text">
+                        Second priority, anyone that doesn't have a remote trade ready and can still increase friendship today.
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
