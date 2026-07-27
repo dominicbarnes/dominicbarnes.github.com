@@ -33,7 +33,9 @@
             <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/misc/special-attribute/gigantamax-icon.png" alt="Gigantamax Mark" height="23" width="30" loading="lazy" title="Gigantamax Pokémon" data-bs-toggle="tooltip">
         {% endif %}
         {% if include.mark %}
-            {% if include.mark == 'paldea' %}
+            {% if include.mark == '' %}
+                <!-- no origin mark -->
+            {% elsif include.mark == 'paldea' %}
                 <img src="{{ '/assets/img/origin-mark-paldea.png' | relative_url }}" alt="Origin Mark" height="24" width="19" loading="lazy" title="Origin Mark: paldea" data-bs-toggle="tooltip">
             {% elsif include.mark == 'za' %}
                 <img src="{{ '/assets/img/origin-mark-za.png' | relative_url }}" alt="Origin Mark" height="24" width="24" loading="lazy" title="Origin Mark: za" data-bs-toggle="tooltip">
