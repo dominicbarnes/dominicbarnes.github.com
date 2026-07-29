@@ -2,7 +2,7 @@ Pokemon ID,Name,Variation,Variation Sort,Go Variation,Special,GO CD,GO Regional,
 bulbasaur,Bulbasaur,,,,Starter,TRUE,FALSE,Kanto,0001,4,https://pokejungle.net/sprites/shiny/0001.png
 venusaur-male,Venusaur,Male,1,,Starter,TRUE,FALSE,Kanto,0003,1,https://pokejungle.net/sprites/shiny/0003.png
 charmander,Charmander,,,,Starter,TRUE,FALSE,Kanto,0004,10,https://pokejungle.net/sprites/shiny/0004.png
-charizard,Charizard,,,Gigantamax,Starter,FALSE,FALSE,Kanto,0006,2,https://pokejungle.net/sprites/shiny/0006.png
+charizard,Charizard,,,Gigantamax,Starter,FALSE,FALSE,Kanto,0006,1,https://pokejungle.net/sprites/shiny/0006.png
 charizard,Charizard,,,,Starter,TRUE,FALSE,Kanto,0006,2,https://pokejungle.net/sprites/shiny/0006.png
 squirtle,Squirtle,,,Party Hat,Starter,FALSE,FALSE,Kanto,0007,1,https://pokejungle.net/sprites/shiny/0007.png
 squirtle,Squirtle,,,Sunglasses,Starter,TRUE,FALSE,Kanto,0007,3,https://pokejungle.net/sprites/shiny/0007.png
