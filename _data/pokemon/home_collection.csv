@@ -231,8 +231,13 @@ bunnelby,Bunnelby,,,,Kalos,0659,za,premier,2,FALSE,FALSE,FALSE,https://pokejungl
 fletchling,Fletchling,,,,Kalos,0661,go,poke,3,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0661.png
 fletchling,Fletchling,,,,Kalos,0661,za,premier,4,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0661.png
 fletchinder,Fletchinder,,,,Kalos,0662,za,premier,1,TRUE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0662.png
+scatterbug,Scatterbug,,,,Kalos,0664,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0664.png
 vivillon-meadow,Vivillon,Meadow,1,,Kalos,0666,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-6.png
 vivillon-polar,Vivillon,Polar,2,,Kalos,0666,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-1.png
+vivillon-garden,Vivillon,Garden,5,,Kalos,0666,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-4.png
+vivillon-elegant,Vivillon,Elegant,6,,Kalos,0666,paldea,luxury,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-5.png
+vivillon-high-plains,Vivillon,High Plains,11,,Kalos,0666,paldea,luxury,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-10.png
+vivillon-high-plains,Vivillon,High Plains,11,,Kalos,0666,paldea,premier,2,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-10.png
 vivillon-jungle,Vivillon,Jungle,18,,Kalos,0666,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-17.png
 flabébé-red,Flabébé,Red,1,,Kalos,0669,za,nest,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0669.png
 flabébé-red,Flabébé,Red,1,,Kalos,0669,za,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0669.png
@@ -268,6 +273,7 @@ passimian,Passimian,,,,Alola,0766,go,ultra,1,FALSE,FALSE,TRUE,https://pokejungle
 mimikyu,Mimikyu,,,,Alola,0778,paldea,premier,2,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0778.png
 mimikyu,Mimikyu,,,,Alola,0778,za,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0778.png
 jangmo-o,Jangmo-o,,,,Alola,0782,go,poke,3,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0782.png
+tapu-bulu,Tapu Bulu,,,Legendary,Alola,0787,go,premier,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0787.png
 blacephalon,Blacephalon,,,Ultra Beast,Alola,0806,go,premier,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0806.png
 meltan,Meltan,,,Mythical,Alola,0808,go,ultra,1,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0808.png
 meltan,Meltan,,,Mythical,Alola,0808,lets-go,cherish,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0808.png
