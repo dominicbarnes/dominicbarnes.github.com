@@ -238,6 +238,10 @@ vivillon-garden,Vivillon,Garden,5,,Kalos,0666,paldea,premier,1,FALSE,FALSE,FALSE
 vivillon-elegant,Vivillon,Elegant,6,,Kalos,0666,paldea,luxury,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-5.png
 vivillon-high-plains,Vivillon,High Plains,11,,Kalos,0666,paldea,luxury,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-10.png
 vivillon-high-plains,Vivillon,High Plains,11,,Kalos,0666,paldea,premier,2,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-10.png
+vivillon-sandstorm,Vivillon,Sandstorm,12,,Kalos,0666,paldea,premier,2,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-11.png
+vivillon-river,Vivillon,River,13,,Kalos,0666,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-12.png
+vivillon-monsoon,Vivillon,Monsoon,14,,Kalos,0666,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-13.png
+vivillon-savanna,Vivillon,Savanna,15,,Kalos,0666,paldea,luxury,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-14.png
 vivillon-jungle,Vivillon,Jungle,18,,Kalos,0666,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0666-17.png
 flabébé-red,Flabébé,Red,1,,Kalos,0669,za,nest,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0669.png
 flabébé-red,Flabébé,Red,1,,Kalos,0669,za,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0669.png
@@ -289,7 +293,7 @@ falinks,Falinks,,,,Galar,0870,za,premier,1,FALSE,FALSE,FALSE,https://pokejungle.
 basculegion-male,Basculegion,Male,1,,Hisui,0902,hisui,wing,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0902.png
 basculegion-female,Basculegion,Female,2,,Hisui,0902,hisui,gigaton,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0902-f.png
 sprigatito,Sprigatito,,,Starter,Paldea,0906,go,poke,2,FALSE,FALSE,TRUE,https://pokejungle.net/sprites/shiny/0906.png
-tarountula,Tarountula,,,,Paldea,0917,paldea,premier,3,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0917.png
+tarountula,Tarountula,,,,Paldea,0917,paldea,premier,7,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0917.png
 pawmi,Pawmi,,,,Paldea,0921,paldea,poke,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0921.png
 maushold-family-of-three,Maushold,Family of Three,1,,Paldea,0925,paldea,premier,1,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0925.png
 squawkabilly,Squawkabilly,,1,,Paldea,0931,paldea,premier,5,FALSE,FALSE,FALSE,https://pokejungle.net/sprites/shiny/0931.png

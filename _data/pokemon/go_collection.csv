@@ -98,7 +98,7 @@ magikarp-female,Magikarp,Female,2,,,TRUE,FALSE,Kanto,0129,6,https://pokejungle.n
 gyarados-male,Gyarados,Male,1,,,TRUE,FALSE,Kanto,0130,2,https://pokejungle.net/sprites/shiny/0130.png
 gyarados-female,Gyarados,Female,2,,,TRUE,FALSE,Kanto,0130,1,https://pokejungle.net/sprites/shiny/0130-f.png
 lapras,Lapras,,,Gigantamax,,FALSE,FALSE,Kanto,0131,1,https://pokejungle.net/sprites/shiny/0131.png
-ditto,Ditto,,,,,FALSE,FALSE,Kanto,0132,2,https://pokejungle.net/sprites/shiny/0132.png
+ditto,Ditto,,,,,FALSE,FALSE,Kanto,0132,3,https://pokejungle.net/sprites/shiny/0132.png
 eevee-male,Eevee,Male,1,Dynamax,,FALSE,FALSE,Kanto,0133,1,https://pokejungle.net/sprites/shiny/0133.png
 eevee-male,Eevee,Male,1,,,TRUE,FALSE,Kanto,0133,21,https://pokejungle.net/sprites/shiny/0133.png
 vaporeon,Vaporeon,,,,,TRUE,FALSE,Kanto,0134,1,https://pokejungle.net/sprites/shiny/0134.png
@@ -231,7 +231,6 @@ feebas,Feebas,,,,,FALSE,FALSE,Hoenn,0349,6,https://pokejungle.net/sprites/shiny/
 castform,Castform,,1,,,FALSE,FALSE,Hoenn,0351,6,https://pokejungle.net/sprites/shiny/0351.png
 castform-sunny,Castform,Sunny,2,,,FALSE,FALSE,Hoenn,0351,3,https://pokejungle.net/sprites/shiny/0351-1.png
 castform-rainy,Castform,Rainy,3,,,FALSE,FALSE,Hoenn,0351,2,https://pokejungle.net/sprites/shiny/0351-2.png
-kecleon,Kecleon,,,,,FALSE,FALSE,Hoenn,0352,1,https://pokejungle.net/sprites/shiny/0352.png
 duskull,Duskull,,,,,TRUE,FALSE,Hoenn,0355,10,https://pokejungle.net/sprites/shiny/0355.png
 dusclops,Dusclops,,,,,TRUE,FALSE,Hoenn,0356,1,https://pokejungle.net/sprites/shiny/0356.png
 tropius,Tropius,,,,,FALSE,TRUE,Hoenn,0357,2,https://pokejungle.net/sprites/shiny/0357.png
