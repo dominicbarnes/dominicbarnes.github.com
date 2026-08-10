@@ -2,7 +2,6 @@ Pokemon ID,Name,Variation,Variation Sort,Go Variation,Special,GO CD,GO Regional,
 bulbasaur,Bulbasaur,,,,Starter,TRUE,FALSE,Kanto,0001,4,https://pokejungle.net/sprites/shiny/0001.png
 venusaur-male,Venusaur,Male,1,,Starter,TRUE,FALSE,Kanto,0003,1,https://pokejungle.net/sprites/shiny/0003.png
 charmander,Charmander,,,,Starter,TRUE,FALSE,Kanto,0004,10,https://pokejungle.net/sprites/shiny/0004.png
-charizard,Charizard,,,Gigantamax,Starter,FALSE,FALSE,Kanto,0006,1,https://pokejungle.net/sprites/shiny/0006.png
 charizard,Charizard,,,,Starter,TRUE,FALSE,Kanto,0006,2,https://pokejungle.net/sprites/shiny/0006.png
 squirtle,Squirtle,,,Party Hat,Starter,FALSE,FALSE,Kanto,0007,1,https://pokejungle.net/sprites/shiny/0007.png
 squirtle,Squirtle,,,Sunglasses,Starter,TRUE,FALSE,Kanto,0007,3,https://pokejungle.net/sprites/shiny/0007.png
@@ -170,6 +169,7 @@ porygon2,Porygon2,,,,,TRUE,FALSE,Johto,0233,1,https://pokejungle.net/sprites/shi
 smeargle,Smeargle,,,,,FALSE,FALSE,Johto,0235,1,https://pokejungle.net/sprites/shiny/0235.png
 tyrogue,Tyrogue,,,,Baby,FALSE,FALSE,Johto,0236,1,https://pokejungle.net/sprites/shiny/0236.png
 hitmontop,Hitmontop,,,,,FALSE,FALSE,Johto,0237,1,https://pokejungle.net/sprites/shiny/0237.png
+smoochum,Smoochum,,,,Baby,FALSE,FALSE,Johto,0238,2,https://pokejungle.net/sprites/shiny/0238.png
 magby,Magby,,,,Baby,TRUE,FALSE,Johto,0240,1,https://pokejungle.net/sprites/shiny/0240.png
 miltank,Miltank,,,,,FALSE,FALSE,Johto,0241,1,https://pokejungle.net/sprites/shiny/0241.png
 larvitar,Larvitar,,,,,TRUE,FALSE,Johto,0246,10,https://pokejungle.net/sprites/shiny/0246.png
@@ -276,6 +276,7 @@ munchlax,Munchlax,,,,Baby,FALSE,FALSE,Sinnoh,0446,1,https://pokejungle.net/sprit
 riolu,Riolu,,,,Baby,FALSE,FALSE,Sinnoh,0447,2,https://pokejungle.net/sprites/shiny/0447.png
 skorupi,Skorupi,,,,,FALSE,FALSE,Sinnoh,0451,1,https://pokejungle.net/sprites/shiny/0451.png
 snover-male,Snover,Male,1,,,FALSE,FALSE,Sinnoh,0459,1,https://pokejungle.net/sprites/shiny/0459.png
+snover-female,Snover,Female,2,,,FALSE,FALSE,Sinnoh,0459,2,https://pokejungle.net/sprites/shiny/0459-f.png
 weavile-female,Weavile,Female,2,,,FALSE,FALSE,Sinnoh,0461,1,https://pokejungle.net/sprites/shiny/0461-f.png
 electivire,Electivire,,,,,TRUE,FALSE,Sinnoh,0466,2,https://pokejungle.net/sprites/shiny/0466.png
 magmortar,Magmortar,,,,,TRUE,FALSE,Sinnoh,0467,2,https://pokejungle.net/sprites/shiny/0467.png
@@ -291,7 +292,7 @@ dialga,Dialga,,,,Legendary,FALSE,FALSE,Sinnoh,0483,1,https://pokejungle.net/spri
 palkia,Palkia,,,,Legendary,FALSE,FALSE,Sinnoh,0484,2,https://pokejungle.net/sprites/shiny/0484.png
 heatran,Heatran,,,,Legendary,FALSE,FALSE,Sinnoh,0485,3,https://pokejungle.net/sprites/shiny/0485.png
 giratina,Giratina,,1,Altered,Legendary,FALSE,FALSE,Sinnoh,0487,2,https://pokejungle.net/sprites/shiny/0487.png
-giratina,Giratina,,1,Origin,Legendary,FALSE,FALSE,Sinnoh,0487,4,https://pokejungle.net/sprites/shiny/0487.png
+giratina,Giratina,,1,Origin,Legendary,FALSE,FALSE,Sinnoh,0487,2,https://pokejungle.net/sprites/shiny/0487.png
 cresselia,Cresselia,,,Shadow,Legendary,FALSE,FALSE,Sinnoh,0488,1,https://pokejungle.net/sprites/shiny/0488.png
 cresselia,Cresselia,,,,Legendary,FALSE,FALSE,Sinnoh,0488,1,https://pokejungle.net/sprites/shiny/0488.png
 darkrai,Darkrai,,,,Mythical,FALSE,FALSE,Sinnoh,0491,2,https://pokejungle.net/sprites/shiny/0491.png
@@ -344,11 +345,12 @@ tynamo,Tynamo,,,,,TRUE,FALSE,Unova,0602,12,https://pokejungle.net/sprites/shiny/
 elgyem,Elgyem,,,,,FALSE,FALSE,Unova,0605,2,https://pokejungle.net/sprites/shiny/0605.png
 litwick,Litwick,,,,,TRUE,FALSE,Unova,0607,5,https://pokejungle.net/sprites/shiny/0607.png
 axew,Axew,,,,,TRUE,FALSE,Unova,0610,2,https://pokejungle.net/sprites/shiny/0610.png
+axew,Axew,,,Shadow,,FALSE,FALSE,Unova,0610,1,https://pokejungle.net/sprites/shiny/0610.png
 cubchoo,Cubchoo,,,,,FALSE,FALSE,Unova,0613,1,https://pokejungle.net/sprites/shiny/0613.png
 cryogonal,Cryogonal,,,Dynamax,,FALSE,FALSE,Unova,0615,1,https://pokejungle.net/sprites/shiny/0615.png
 shelmet,Shelmet,,,,,TRUE,FALSE,Unova,0616,6,https://pokejungle.net/sprites/shiny/0616.png
 stunfisk,Stunfisk,,1,,,FALSE,FALSE,Unova,0618,1,https://pokejungle.net/sprites/shiny/0618.png
-stunfisk-galarian,Stunfisk,Galarian,2,,,FALSE,FALSE,Galar,0618,7,https://pokejungle.net/sprites/shiny/0618-1.png
+stunfisk-galarian,Stunfisk,Galarian,2,,,FALSE,FALSE,Galar,0618,8,https://pokejungle.net/sprites/shiny/0618-1.png
 mienfoo,Mienfoo,,,,,FALSE,FALSE,Unova,0619,1,https://pokejungle.net/sprites/shiny/0619.png
 golett,Golett,,,,,FALSE,FALSE,Unova,0622,1,https://pokejungle.net/sprites/shiny/0622.png
 rufflet,Rufflet,,,,,FALSE,FALSE,Unova,0627,1,https://pokejungle.net/sprites/shiny/0627.png
@@ -362,7 +364,7 @@ zekrom,Zekrom,,,,Legendary,FALSE,FALSE,Unova,0644,2,https://pokejungle.net/sprit
 genesect,Genesect,,,Chill Drive,Mythical,FALSE,FALSE,Unova,0649,1,https://pokejungle.net/sprites/shiny/0649.png
 genesect,Genesect,,,Douse Drive,Mythical,FALSE,FALSE,Unova,0649,2,https://pokejungle.net/sprites/shiny/0649.png
 chespin,Chespin,,,,Starter,TRUE,FALSE,Kalos,0650,5,https://pokejungle.net/sprites/shiny/0650.png
-fennekin,Fennekin,,,,Starter,TRUE,FALSE,Kalos,0653,4,https://pokejungle.net/sprites/shiny/0653.png
+fennekin,Fennekin,,,,Starter,TRUE,FALSE,Kalos,0653,5,https://pokejungle.net/sprites/shiny/0653.png
 froakie,Froakie,,,,Starter,TRUE,FALSE,Kalos,0656,9,https://pokejungle.net/sprites/shiny/0656.png
 bunnelby,Bunnelby,,,,,FALSE,FALSE,Kalos,0659,3,https://pokejungle.net/sprites/shiny/0659.png
 fletchling,Fletchling,,,,,TRUE,FALSE,Kalos,0661,9,https://pokejungle.net/sprites/shiny/0661.png
@@ -395,7 +397,7 @@ noibat,Noibat,,,,,TRUE,FALSE,Kalos,0714,4,https://pokejungle.net/sprites/shiny/0
 noivern,Noivern,,,,,TRUE,FALSE,Kalos,0715,1,https://pokejungle.net/sprites/shiny/0715.png
 yveltal,Yveltal,,,,Legendary,FALSE,FALSE,Kalos,0717,1,https://pokejungle.net/sprites/shiny/0717.png
 rowlet,Rowlet,,,,Starter,TRUE,FALSE,Alola,0722,4,https://pokejungle.net/sprites/shiny/0722.png
-litten,Litten,,,,Starter,TRUE,FALSE,Alola,0725,6,https://pokejungle.net/sprites/shiny/0725.png
+litten,Litten,,,,Starter,TRUE,FALSE,Alola,0725,3,https://pokejungle.net/sprites/shiny/0725.png
 popplio,Popplio,,,,Starter,TRUE,FALSE,Alola,0728,7,https://pokejungle.net/sprites/shiny/0728.png
 pikipek,Pikipek,,,,,TRUE,FALSE,Alola,0731,11,https://pokejungle.net/sprites/shiny/0731.png
 trumbeak,Trumbeak,,,,,TRUE,FALSE,Alola,0732,1,https://pokejungle.net/sprites/shiny/0732.png
@@ -416,7 +418,7 @@ wimpod,Wimpod,,,,,FALSE,FALSE,Alola,0767,4,https://pokejungle.net/sprites/shiny/
 jangmo-o,Jangmo-o,,,,,TRUE,FALSE,Alola,0782,6,https://pokejungle.net/sprites/shiny/0782.png
 kommo-o,Kommo-o,,,,,TRUE,FALSE,Alola,0784,1,https://pokejungle.net/sprites/shiny/0784.png
 tapu-bulu,Tapu Bulu,,,,Legendary,FALSE,FALSE,Alola,0787,1,https://pokejungle.net/sprites/shiny/0787.png
-tapu-fini,Tapu Fini,,,,Legendary,FALSE,FALSE,Alola,0788,2,https://pokejungle.net/sprites/shiny/0788.png
+tapu-fini,Tapu Fini,,,,Legendary,FALSE,FALSE,Alola,0788,1,https://pokejungle.net/sprites/shiny/0788.png
 kartana,Kartana,,,,Ultra Beast,FALSE,TRUE,Alola,0798,1,https://pokejungle.net/sprites/shiny/0798.png
 necrozma,Necrozma,,,,Legendary,FALSE,FALSE,Alola,0800,1,https://pokejungle.net/sprites/shiny/0800.png
 blacephalon,Blacephalon,,,,Ultra Beast,FALSE,TRUE,Alola,0806,1,https://pokejungle.net/sprites/shiny/0806.png
@@ -435,7 +437,7 @@ toxtricity-low-key,Toxtricity,Low-Key,2,,,FALSE,FALSE,Galar,0849,1,https://pokej
 obstagoon,Obstagoon,,,,,TRUE,FALSE,Galar,0862,1,https://pokejungle.net/sprites/shiny/0862.png
 falinks,Falinks,,,,,FALSE,FALSE,Galar,0870,2,https://pokejungle.net/sprites/shiny/0870.png
 indeedee-male,Indeedee,Male,1,,,FALSE,FALSE,Galar,0876,1,https://pokejungle.net/sprites/shiny/0876.png
-zamazenta,Zamazenta,,,,Legendary,FALSE,FALSE,Galar,0889,2,https://pokejungle.net/sprites/shiny/0889.png
+zamazenta,Zamazenta,,,,Legendary,FALSE,FALSE,Galar,0889,1,https://pokejungle.net/sprites/shiny/0889.png
 ursaluna,Ursaluna,,,,,TRUE,FALSE,Hisui,0901,1,https://pokejungle.net/sprites/shiny/0901.png
 sprigatito,Sprigatito,,,,Starter,TRUE,FALSE,Paldea,0906,12,https://pokejungle.net/sprites/shiny/0906.png
 floragato,Floragato,,,Hat,Starter,FALSE,FALSE,Paldea,0907,1,https://pokejungle.net/sprites/shiny/0907.png
